@@ -1,0 +1,549 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\newcommand{\noop}[1]{}%
+}
+
+
+\refsection{0}
+  \sortlist{entry}{ynt}
+    \entry{Sturman2006}{report}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=05cfe6c07ef0ef75a4db000ce3c25dec}{Sturman}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e2448031860fec006b391c239e826f41}{\textbf{Appelhans,\bibnamedelimb T.}}{\\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=05cfe6c07ef0ef75a4db000ce3c25dec}{Sturman}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e2448031860fec006b391c239e826f41}{\textbf{Appelhans,\bibnamedelimb T.}}{\\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {AgResearch}%
+      }
+      \list{location}{1}{%
+        {Ruakura Research Centre; Bisley Road; Private Bag 3115; Hamilton 3240; New Zealand}%
+      }
+      \strng{namehash}{bf4b863fa5735487e6dc0625d6ab3dee}
+      \strng{fullhash}{bf4b863fa5735487e6dc0625d6ab3dee}
+      \field{sortinit}{2}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Estimation of hourly solar radiation from 2nd July to 18th August 2003 in the area between Rangataik and Matea townships, east of Lake Taupo in the central North Island}
+      \field{number}{unpublished}
+      \field{title}{Estimation of hourly solar radiation from 2nd July to 18th August 2003 in the area between Rangataik and Matea townships, east of Lake Taupo in the central North Island}
+      \field{type}{techreport}
+      \field{year}{2006}
+      \field{pages}{14}
+    \endentry
+    \entry{Appelhans2007}{report}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=e2448031860fec006b391c239e826f41}{\textbf{Appelhans,\bibnamedelimb T.}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=8a543206ac5fc7fb713cefe7baa40237}{Bluett}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6b89efe186a6676a144be5bc4e66f3a4}{Dey}{D\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c195b766a32980c67a4ee99bccad124c}{Fisher}{F\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=05cfe6c07ef0ef75a4db000ce3c25dec}{Sturman}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=872adbc8e978f813dd7698c2f39126ef}{Wilton}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=e2448031860fec006b391c239e826f41}{\textbf{Appelhans,\bibnamedelimb T.}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=8a543206ac5fc7fb713cefe7baa40237}{Bluett}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6b89efe186a6676a144be5bc4e66f3a4}{Dey}{D\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c195b766a32980c67a4ee99bccad124c}{Fisher}{F\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=05cfe6c07ef0ef75a4db000ce3c25dec}{Sturman}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=872adbc8e978f813dd7698c2f39126ef}{Wilton}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {National Institute of Water \& Atmospheric Research Ltd}%
+      }
+      \list{location}{1}{%
+        {10 Kyle Street; PO Box 8602; Christchurch; New Zealand}%
+      }
+      \strng{namehash}{f6b4c43bc6c503c1b7f2fd914303dd52}
+      \strng{fullhash}{f6b4c43bc6c503c1b7f2fd914303dd52}
+      \field{sortinit}{2}
+      \field{labelyear}{2007}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Using air quality data to track progress toward {$PM_{10}$} standards: Case study - Christchurch 1999 - 2006}
+      \field{month}{11}
+      \field{number}{CHC2007-135}
+      \field{title}{Using air quality data to track progress toward {$PM_{10}$} standards: Case study - Christchurch 1999 - 2006}
+      \field{type}{techreport}
+      \field{year}{2007}
+      \field{pages}{77}
+      \verb{file}
+      \verb http://www.niwa.co.nz/sites/default/files/import/attachments/chc2007_135.pdf
+      \endverb
+    \endentry
+    \entry{Appelhans2008}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=15a212b482440451f0c5d993a9e8e181}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b8e0853d9d73b5f62e6e5d9889b9c88}{Gharaylou}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2303bfbf735f991430906badc7b89e98}{Shamsipour}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=15a212b482440451f0c5d993a9e8e181}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b8e0853d9d73b5f62e6e5d9889b9c88}{Gharaylou}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2303bfbf735f991430906badc7b89e98}{Shamsipour}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{893861eb6ed6b0e03c5242f09b5d0c98}
+      \strng{fullhash}{893861eb6ed6b0e03c5242f09b5d0c98}
+      \field{sortinit}{2}
+      \field{labelyear}{2008}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Mesoscale controls on particulate pollution for a megacity in a semi-arid mountainous environment: Tehran, Iran}
+      \field{booktitle}{13th Conference on Mountain Meteorology.11 - 15 August 2008, Whistler, BC, Canada}
+      \field{month}{08}
+      \field{title}{Mesoscale controls on particulate pollution for a megacity in a semi-arid mountainous environment: Tehran, Iran}
+      \field{year}{2008}
+    \endentry
+    \entry{Appelhans2009}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9043c801efca2911e99e639154346fe1}
+      \strng{fullhash}{9043c801efca2911e99e639154346fe1}
+      \field{sortinit}{2}
+      \field{labelyear}{2009}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{An air pollution climatology for Christchurch, New Zealand}
+      \field{booktitle}{7th International Conference on Urban Climate. 29 June - 3 July 2009, Yokohama, Japan}
+      \field{month}{06}
+      \field{title}{An air pollution climatology for Christchurch, New Zealand}
+      \field{year}{2009}
+    \endentry
+    \entry{Wilton2009}{report}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=872adbc8e978f813dd7698c2f39126ef}{Wilton}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dbb73b9d4ad6776de697f1eca7b8b631}{\textbf{Appelhans,\bibnamedelimb T}.}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=4a357390e6ac95ac590499c8c0644948}{Baynes}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=15a212b482440451f0c5d993a9e8e181}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=872adbc8e978f813dd7698c2f39126ef}{Wilton}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dbb73b9d4ad6776de697f1eca7b8b631}{\textbf{Appelhans,\bibnamedelimb T}.}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=4a357390e6ac95ac590499c8c0644948}{Baynes}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=15a212b482440451f0c5d993a9e8e181}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Environet Limited}%
+      }
+      \list{location}{1}{%
+        {11 Lachie Griffin Rise RD1; Lyttelton; Christchurch 8971}%
+      }
+      \strng{namehash}{86d4201527a6a938db7ff502aac5cd2b}
+      \strng{fullhash}{86d4201527a6a938db7ff502aac5cd2b}
+      \field{sortinit}{2}
+      \field{labelyear}{2009}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Assessing long-term trends in {$PM_{10}$} concentrations in Invercargill}
+      \field{month}{08}
+      \field{number}{ESRC223}
+      \field{title}{Assessing long-term trends in {$PM_{10}$} concentrations in Invercargill}
+      \field{type}{techreport}
+      \field{year}{2009}
+      \field{pages}{24}
+      \verb{file}
+      \verb http://www.environet.co.nz/environet/documents/TrendsPM10InvercargillFinal.pdf
+      \endverb
+    \endentry
+    \entry{Appelhans2010b}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=3d738c4fcaf638de7e26d8e2a7f7b7a8}{Sturman}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=3d738c4fcaf638de7e26d8e2a7f7b7a8}{Sturman}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{23656388ff3f6744c2417b464bf17229}
+      \strng{fullhash}{23656388ff3f6744c2417b464bf17229}
+      \field{sortinit}{2}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Modelling emission trends from non-constant time series of {$PM_{10}$} concentrations in Christchurch, New Zealand}
+      \field{journaltitle}{International Journal of Environment and Pollution}
+      \field{number}{4}
+      \field{title}{Modelling emission trends from non-constant time series of {$PM_{10}$} concentrations in Christchurch, New Zealand}
+      \field{volume}{43}
+      \field{year}{2010}
+      \field{pages}{354\bibrangedash 363}
+      \verb{url}
+      \verb http://dx.doi.org/10.1504/IJEP.2010.036932
+      \endverb
+    \endentry
+    \entry{Appelhans2010a}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bf980b5d60e5ca501b5ecaeef8ff9b3b}
+      \strng{fullhash}{bf980b5d60e5ca501b5ecaeef8ff9b3b}
+      \field{sortinit}{2}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A modelling study of particulate matter dispersion under dominant surface wind regime modes in Christchurch, New Zealand}
+      \field{journaltitle}{Air Quality and Climate Change}
+      \field{number}{1}
+      \field{title}{A modelling study of particulate matter dispersion under dominant surface wind regime modes in Christchurch, New Zealand}
+      \field{volume}{44}
+      \field{year}{2010}
+      \field{pages}{24\bibrangedash 29}
+    \endentry
+    \entry{Zawar-Reza2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7df81f9ce60f1cee9c901149d9fe3383}{\textbf{T.\bibnamedelimi Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=81c9530e52b90e786290f1d6e090cf46}{Gharaylou}{G\bibinitperiod}{Maryam}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=29394208d0b11cdae67fec3dc468be83}{Shamsipour}{S\bibinitperiod}{AliAkbar}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7df81f9ce60f1cee9c901149d9fe3383}{\textbf{T.\bibnamedelimi Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=81c9530e52b90e786290f1d6e090cf46}{Gharaylou}{G\bibinitperiod}{Maryam}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=29394208d0b11cdae67fec3dc468be83}{Shamsipour}{S\bibinitperiod}{AliAkbar}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{274ce4570f9cff40217346dd6ccd1a30}
+      \strng{fullhash}{274ce4570f9cff40217346dd6ccd1a30}
+      \field{sortinit}{2}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Mesoscale controls on particulate matter pollution for a mega city in a semi-arid mountainous environment: Tehran, Iran}
+      \field{journaltitle}{International Journal of Environment and Pollution}
+      \field{number}{1}
+      \field{title}{Mesoscale controls on particulate matter pollution for a mega city in a semi-arid mountainous environment: Tehran, Iran}
+      \field{volume}{41}
+      \field{year}{2010}
+      \field{pages}{166\bibrangedash 183}
+      \verb{url}
+      \verb http://dx.doi.org/10.1504/IJEP.2010.032252
+      \endverb
+    \endentry
+    \entry{Appelhans2011}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9043c801efca2911e99e639154346fe1}
+      \strng{fullhash}{9043c801efca2911e99e639154346fe1}
+      \field{sortinit}{2}
+      \field{labelyear}{2011}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Climate dynamics of the Kilimanjaro region: A field measurement campaign to investigate climatological drivers of a tropical montane ecosystem}
+      \field{booktitle}{31st International Conference on Alpine Meteorology. 23 \x{fffd}\x{fffd}\x{fffd} 27 May 2011, Aviemore, Scotland}
+      \field{month}{05}
+      \field{title}{Climate dynamics of the Kilimanjaro region: A field measurement campaign to investigate climatological drivers of a tropical montane ecosystem}
+      \field{year}{2011}
+    \endentry
+    \entry{Appelhans2013}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=3d738c4fcaf638de7e26d8e2a7f7b7a8}{Sturman}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=3d738c4fcaf638de7e26d8e2a7f7b7a8}{Sturman}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd.}%
+      }
+      \strng{namehash}{23656388ff3f6744c2417b464bf17229}
+      \strng{fullhash}{23656388ff3f6744c2417b464bf17229}
+      \field{sortinit}{2}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Synoptic and climatological controls of particulate matter pollution in a Southern Hemisphere coastal city}
+      \field{issn}{1097-0088}
+      \field{journaltitle}{International Journal of Climatology}
+      \field{number}{2}
+      \field{title}{Synoptic and climatological controls of particulate matter pollution in a Southern Hemisphere coastal city}
+      \field{volume}{33}
+      \field{year}{2012}
+      \field{pages}{463\bibrangedash 479}
+      \verb{doi}
+      \verb 10.1002/joc.3439
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/joc.3439
+      \endverb
+      \keyw{synoptic climatology,air pollution climatology,particulate matter,PM10,New Zealand,Southern Hemisphere,CART}
+    \endentry
+    \entry{Appelhans2012}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9043c801efca2911e99e639154346fe1}
+      \strng{fullhash}{9043c801efca2911e99e639154346fe1}
+      \field{sortinit}{2}
+      \field{labelyear}{2012}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{East African rainfall and vegetation dynamics in response to a changing El Ni\~no}
+      \field{booktitle}{32nd International Geographical Congress. 26 - 30 August 2012, Cologne, Germany}
+      \field{month}{08}
+      \field{title}{East African rainfall and vegetation dynamics in response to a changing El Ni\~no}
+      \field{year}{2012}
+    \endentry
+    \entry{Kuehnlein2013}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7df81f9ce60f1cee9c901149d9fe3383}{\textbf{T.\bibnamedelimi Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ae8f78dbd5277d9c4743c7a20270bcb2}{Kokhanovsky}{K\bibinitperiod}{Alexander\bibnamedelima A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7df81f9ce60f1cee9c901149d9fe3383}{\textbf{T.\bibnamedelimi Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ae8f78dbd5277d9c4743c7a20270bcb2}{Kokhanovsky}{K\bibinitperiod}{Alexander\bibnamedelima A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a18a5be43060fb42baa03556c12181c9}
+      \strng{fullhash}{a18a5be43060fb42baa03556c12181c9}
+      \field{sortinit}{2}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{An evaluation of a semi-analytical cloud property retrieval using MSG SEVIRI, MODIS and CloudSat}
+      \field{issn}{0169-8095}
+      \field{journaltitle}{Atmospheric Research}
+      \field{title}{An evaluation of a semi-analytical cloud property retrieval using MSG SEVIRI, MODIS and CloudSat}
+      \field{volume}{122}
+      \field{year}{2013}
+      \field{pages}{111\bibrangedash 135}
+      \verb{doi}
+      \verb 10.1016/j.atmosres.2012.10.029
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0169809512003833
+      \endverb
+      \keyw{Cloud properties,Satellite retrieval,SLALOM,MSG SEVIRI,CloudSat,MODIS}
+    \endentry
+    \entry{Appelhans2013a}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{{Nauss}}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{{Nauss}}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{62f54a52d9a4fc0321400631a4a64971}
+      \strng{fullhash}{62f54a52d9a4fc0321400631a4a64971}
+      \field{sortinit}{2}
+      \field{labelyear}{2013}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{East African rainfall and vegetation dynamics in response to a changing El Nino}}
+      \field{booktitle}{EGU General Assembly Conference Abstracts}
+      \field{eid}{EGU2013}
+      \field{month}{04}
+      \field{series}{EGU General Assembly Conference Abstracts}
+      \field{title}{{East African rainfall and vegetation dynamics in response to a changing El Nino}}
+      \field{volume}{15}
+      \field{year}{2013}
+      \field{pages}{12062}
+    \endentry
+    \entry{Kuehnlein2014a}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eeb4964750b57cd9d7bd4d0553b614ed}
+      \strng{fullhash}{eeb4964750b57cd9d7bd4d0553b614ed}
+      \field{sortinit}{2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Improving the accuracy of rainfall rates from optical satellite sensors with machine learning \x{fffd}\x{fffd}\x{fffd} A random forests-based approach applied to \{MSG\} \{SEVIRI\}}
+      \field{issn}{0034-4257}
+      \field{journaltitle}{Remote Sensing of Environment}
+      \field{title}{Improving the accuracy of rainfall rates from optical satellite sensors with machine learning \x{fffd}\x{fffd}\x{fffd} A random forests-based approach applied to \{MSG\} \{SEVIRI\}}
+      \field{volume}{141}
+      \field{year}{2014}
+      \field{pages}{129\bibrangedash 143}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.rse.2013.10.026
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0034425713003945
+      \endverb
+      \keyw{Optical sensors}
+    \endentry
+    \entry{Kuehnlein2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=c67576be5e6187526a71395c756c049b}{K\"{u}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=c67576be5e6187526a71395c756c049b}{K\"{u}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f9b3617afacd0e5c1d209bf90dae09d2}
+      \strng{fullhash}{f9b3617afacd0e5c1d209bf90dae09d2}
+      \field{sortinit}{2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Precipitation Estimates from MSG SEVIRI Daytime, Nighttime, and Twilight Data with Random Forests}
+      \field{journaltitle}{Journal of Applied Meteorology and Climatology}
+      \field{number}{11}
+      \field{title}{Precipitation Estimates from MSG SEVIRI Daytime, Nighttime, and Twilight Data with Random Forests}
+      \field{volume}{53}
+      \field{year}{2014}
+      \field{pages}{2457\bibrangedash 2480}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1175/JAMC-D-14-0082.1
+      \endverb
+      \verb{url}
+      \verb http://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-14-0082.1
+      \endverb
+      \keyw{Precipitation,Rainfall,Remote sensing}
+    \endentry
+    \entry{Appelhans2015b}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f2602a5e66c4bf30c1ba18183b088091}
+      \strng{fullhash}{f2602a5e66c4bf30c1ba18183b088091}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{remote: Empirical Orthogonal Teleconnections in R}
+      \field{journaltitle}{Journal of Statistical Software}
+      \field{number}{10}
+      \field{title}{remote: Empirical Orthogonal Teleconnections in R}
+      \field{volume}{65}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 19}
+      \verb{doi}
+      \verb 10.18637/jss.v065.i10
+      \endverb
+      \verb{file}
+      \verb :Appelhans, Detsch, Nauss - accepted.pdf:PDF
+      \endverb
+      \keyw{teleconnection analysis,spatial data mining,raster data,R,climate science}
+    \endentry
+    \entry{Appelhansaccepted}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{84109135b6f7c695f367093a578461a8}
+      \strng{fullhash}{84109135b6f7c695f367093a578461a8}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Eco-meteorological characteristics of the southern slopes of Mt. Kilimanjaro, Tanzania}
+      \field{journaltitle}{International Journal of Climatology}
+      \field{title}{Eco-meteorological characteristics of the southern slopes of Mt. Kilimanjaro, Tanzania}
+      \field{year}{2015}
+      \verb{file}
+      \verb :Appelhans et al. - submitted.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Appelhans2015}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5766bdfcff2e3308cc1c5f3a86133c03}{Hardy}{H\bibinitperiod}{Douglas\bibnamedelima R.}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5766bdfcff2e3308cc1c5f3a86133c03}{Hardy}{H\bibinitperiod}{Douglas\bibnamedelima R.}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9593cd6f4d6cc28c67410ce19a276db6}
+      \strng{fullhash}{9593cd6f4d6cc28c67410ce19a276db6}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Evaluating machine learning approaches for the interpolation of monthly air temperature at Mt. Kilimanjaro, Tanzania}
+      \field{abstract}{Abstract Spatially high resolution climate information is required for a variety of applications in but not limited to functional biodiversity research. In order to scale the generally plot-based research fndings to a landscape level, spatial interpolation methods of meteorological variables are required. Based on a network of tempreature observation plots across the southern slopes of Mt. Kilimanjaro, the skill of 14 machine learning algorithms in predicting spatial temperature patterns is tested and evaluated against the heavily utilized kriging approach. Based on a 10-fold cross-validation testing design, regression trees generally perform better than linear and non-linear regression models. The best individual performance has been observed by the stochastic gradient boosting model followed by Cubist, random forest and model averaged neural networks which except for the latter are all regression tree-based algorithms. While these machine learning algorithms perform better than kriging in a quantitative evaluation, the overall visual interpretation of the resulting air temperature maps is ambiguous. Here, a combined Cubist and residual kriging approach can be considered the best solution.}
+      \field{issn}{2211-6753}
+      \field{journaltitle}{Spatial Statistics}
+      \field{title}{Evaluating machine learning approaches for the interpolation of monthly air temperature at Mt. Kilimanjaro, Tanzania}
+      \field{year}{2015}
+      \field{pages}{pages}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.spasta.2015.05.008
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S2211675315000482
+      \endverb
+      \keyw{Spatial interpolation}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
