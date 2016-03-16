@@ -105,7 +105,7 @@
       \field{labelmonth}{08}
       \field{datelabelsource}{}
       \field{labeltitle}{Climate dynamics of the Kilimanjaro region: A field measurement campaign to investigate climatological drivers of a tropical montane ecosystem}
-      \field{booktitle}{31st International Conference on Alpine Meteorology. 23 \x{fffd}\x{fffd}\x{fffd} 27 May 2011, Aviemore, Scotland}
+      \field{booktitle}{31st International Conference on Alpine Meteorology. 23 -- 27 May 2011, Aviemore, Scotland}
       \field{month}{08}
       \field{title}{Climate dynamics of the Kilimanjaro region: A field measurement campaign to investigate climatological drivers of a tropical montane ecosystem}
       \field{year}{2008}
@@ -532,7 +532,7 @@
       \field{journaltitle}{Spatial Statistics}
       \field{title}{Evaluating machine learning approaches for the interpolation of monthly air temperature at Mt. Kilimanjaro, Tanzania}
       \field{year}{2015}
-      \field{pages}{pages}
+      \field{pages}{91\bibrangedash 113}
       \verb{doi}
       \verb http://dx.doi.org/10.1016/j.spasta.2015.05.008
       \endverb
@@ -635,6 +635,39 @@
       \endverb
       \verb{url}
       \verb http://www.frontiersin.org/atmospheric_science/10.3389/feart.2016.00003/abstract
+      \endverb
+    \endentry
+    \entry{detsch2016}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dfd7b804426b8feeaa40a0523e75a158}
+      \strng{fullhash}{dfd7b804426b8feeaa40a0523e75a158}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region -- A Matter of Sensor, Degradation Calibration, and Significance}
+      \field{issn}{2072-4292}
+      \field{journaltitle}{Remote Sensing}
+      \field{number}{2}
+      \field{title}{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region -- A Matter of Sensor, Degradation Calibration, and Significance}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{159}
+      \verb{doi}
+      \verb 10.3390/rs8020159
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/2072-4292/8/2/159
       \endverb
     \endentry
     \entry{Meyer2016}{article}{}
