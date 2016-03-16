@@ -637,7 +637,7 @@
       \verb http://www.frontiersin.org/atmospheric_science/10.3389/feart.2016.00003/abstract
       \endverb
     \endentry
-    \entry{detsch2016}{article}{}
+    \entry{Detsch2016a}{article}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
@@ -669,6 +669,41 @@
       \verb{url}
       \verb http://www.mdpi.com/2072-4292/8/2/159
       \endverb
+    \endentry
+    \entry{Detsch2016b}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ec557fb345fb72ee10a58d9f3ed6394b}
+      \strng{fullhash}{ec557fb345fb72ee10a58d9f3ed6394b}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Seasonal and long-term vegetation dynamics from 1-km GIMMS-based \{NDVI\} time series at Mt. Kilimanjaro, Tanzania}
+      \field{issn}{0034-4257}
+      \field{journaltitle}{Remote Sensing of Environment}
+      \field{title}{Seasonal and long-term vegetation dynamics from 1-km GIMMS-based \{NDVI\} time series at Mt. Kilimanjaro, Tanzania}
+      \field{volume}{178}
+      \field{year}{2016}
+      \field{pages}{70\bibrangedash 83}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.rse.2016.03.007
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0034425716301006
+      \endverb
+      \keyw{Mt. Kilimanjaro}
     \endentry
     \entry{Meyer2016}{article}{}
       \name{labelname}{4}{}{%

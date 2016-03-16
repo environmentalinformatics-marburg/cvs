@@ -1,27 +1,29 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [0] Config.pm:321> INFO - Logfile is 'CV_TAppelhans.blg'
-[45] biber:275> INFO - === Mi MÃ¤r 16, 2016, 14:54:03
-[45] Biber.pm:333> INFO - Reading 'CV_TAppelhans.bcf'
-[91] Biber.pm:607> INFO - Using all citekeys in bib section 0
-[103] Biber.pm:3053> INFO - Processing section 0
-[116] Biber.pm:3190> INFO - Looking for bibtex format file 'appelhans.bib' for section 0
-[120] bibtex.pm:808> INFO - Found BibTeX data source 'appelhans.bib'
-[149] Utils.pm:169> WARN - Name in key 'Appelhansegu2015b' is empty (probably consecutive 'and'): skipping name
-[162] Utils.pm:169> WARN - Name in key 'Appelhansegu2015a' is empty (probably consecutive 'and'): skipping name
-[162] Utils.pm:169> WARN - BibTeX subsystem: /tmp/r0Cqmb5vo2/appelhans.bib_11426.utf8, line 63, warning: 145 characters of junk seen at toplevel
-[163] Utils.pm:169> WARN - BibTeX subsystem: /tmp/r0Cqmb5vo2/appelhans.bib_11426.utf8, line 175, warning: 9 characters of junk seen at toplevel
-[163] Utils.pm:169> WARN - BibTeX subsystem: substring 5, warning: empty substring
-[163] Utils.pm:169> WARN - BibTeX subsystem: substring 7, warning: empty substring
-[167] Utils.pm:169> WARN - The field 'note' in entry 'Meyer2016' cannot be null, deleting it
-[167] Utils.pm:169> WARN - The field 'number' in entry 'Meyer2016' cannot be null, deleting it
-[168] Utils.pm:169> WARN - The field 'note' in entry 'Kuehnlein2013' cannot be null, deleting it
-[168] Utils.pm:169> WARN - The field 'file' in entry 'Sturman2006' cannot be null, deleting it
-[168] Utils.pm:169> WARN - The field 'month' in entry 'Sturman2006' cannot be null, deleting it
-[168] Utils.pm:169> WARN - The field 'location' in entry 'Appelhans2012' cannot be null, deleting it
-[168] Utils.pm:169> WARN - The field 'location' in entry 'Appelhans2011' cannot be null, deleting it
-[287] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[287] Biber.pm:2945> INFO - Sorting 'entry' list 'ynt' keys
-[287] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[342] bbl.pm:482> INFO - Writing 'CV_TAppelhans.bbl' with encoding 'ascii'
-[347] bbl.pm:555> INFO - Output to CV_TAppelhans.bbl
-[347] Biber.pm:105> INFO - WARNINGS: 13
+[46] biber:275> INFO - === Mi MÃ¤r 16, 2016, 15:14:14
+[47] Biber.pm:333> INFO - Reading 'CV_TAppelhans.bcf'
+[97] Biber.pm:607> INFO - Using all citekeys in bib section 0
+[110] Biber.pm:3053> INFO - Processing section 0
+[122] Biber.pm:3190> INFO - Looking for bibtex format file 'appelhans.bib' for section 0
+[125] bibtex.pm:808> INFO - Found BibTeX data source 'appelhans.bib'
+[147] Utils.pm:169> WARN - Name in key 'Appelhansegu2015b' is empty (probably consecutive 'and'): skipping name
+[153] Utils.pm:169> WARN - Name in key 'Appelhansegu2015a' is empty (probably consecutive 'and'): skipping name
+[166] Utils.pm:169> WARN - BibTeX subsystem: /tmp/g8tF2GAupf/appelhans.bib_12097.utf8, line 82, warning: 145 characters of junk seen at toplevel
+[166] Utils.pm:169> WARN - BibTeX subsystem: /tmp/g8tF2GAupf/appelhans.bib_12097.utf8, line 194, warning: 9 characters of junk seen at toplevel
+[166] Utils.pm:169> WARN - BibTeX subsystem: substring 5, warning: empty substring
+[166] Utils.pm:169> WARN - BibTeX subsystem: substring 7, warning: empty substring
+[171] Utils.pm:169> WARN - The field 'note' in entry 'Detsch2016b' cannot be null, deleting it
+[172] Utils.pm:169> WARN - The field 'number' in entry 'Detsch2016b' cannot be null, deleting it
+[172] Utils.pm:169> WARN - The field 'note' in entry 'Meyer2016' cannot be null, deleting it
+[172] Utils.pm:169> WARN - The field 'number' in entry 'Meyer2016' cannot be null, deleting it
+[173] Utils.pm:169> WARN - The field 'note' in entry 'Kuehnlein2013' cannot be null, deleting it
+[173] Utils.pm:169> WARN - The field 'file' in entry 'Sturman2006' cannot be null, deleting it
+[173] Utils.pm:169> WARN - The field 'month' in entry 'Sturman2006' cannot be null, deleting it
+[173] Utils.pm:169> WARN - The field 'location' in entry 'Appelhans2012' cannot be null, deleting it
+[173] Utils.pm:169> WARN - The field 'location' in entry 'Appelhans2011' cannot be null, deleting it
+[298] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[299] Biber.pm:2945> INFO - Sorting 'entry' list 'ynt' keys
+[299] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[362] bbl.pm:482> INFO - Writing 'CV_TAppelhans.bbl' with encoding 'ascii'
+[366] bbl.pm:555> INFO - Output to CV_TAppelhans.bbl
+[366] Biber.pm:105> INFO - WARNINGS: 15
