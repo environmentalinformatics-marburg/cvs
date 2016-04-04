@@ -1,0 +1,18 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@InBook{Nauss2013-2016,
+  Title                    = {Research unit 1246 "Kilimanjaro ecosystems under global change"},
+  Author                   = {Thomas Nauss AND Tim Appelhans},
+  Chapter                  = {Ecological climatology and remote sensing at Mt. Kilimanjaro},
+  Editor                   = {Names of other partner},
+  Publisher                = {DFG},
+  Year                     = {2013 - 2016},
+
+  Comment                  = {Bla, bla, bla},
+  Owner                    = {tnauss},
+  Timestamp                = {2016.04.04},
+  Url                      = {website}
+}
+
