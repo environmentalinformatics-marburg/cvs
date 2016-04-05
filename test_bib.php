@@ -1,4 +1,5 @@
 <?
+//
 if(!isset($Path['lib-bibtex']))
 	$Path['lib-bibtex'] = "lib/";
 	
