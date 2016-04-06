@@ -16,13 +16,346 @@
   {}
 \endgroup
 
-\preamble{%
-\newcommand{\noop}[1]{}%
-}
-
 
 \refsection{0}
   \sortlist{entry}{ynt}
+    \entry{Bendix2005}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f071817b861a0ce7216dd158715dfd97}{Cermak}{C\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f071817b861a0ce7216dd158715dfd97}{Cermak}{C\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{accce1b8fc6cf904458c45645b48751f}
+      \strng{fullhash}{accce1b8fc6cf904458c45645b48751f}
+      \field{sortinit}{2}
+      \field{labelyear}{2005}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Ground Fog Detection from Space Based on MODIS Daytime Data\x{fffd}\x{fffd}\x{fffd}A Feasibility Study}
+      \field{abstract}{The distinction made by satellite data between ground fog and low stratus is still an open problem. A proper detection scheme would need to make a determination between low stratus thickness and top height. Based on this information, stratus base height can be computed and compared with terrain height at a specific picture element. In the current paper, a procedure for making the distinction between ground fog and low-level stratus is proposed based on Moderate Resolution Imaging Spectroradiometer (MODIS, flying on board the NASA Terra and Aqua satellites) daytime data for Germany. Stratus thickness is alternatively derived from either empirical relationships or a newly developed retrieval scheme (lookup table approach), which relies on multiband albedo and radiative transfer calculations. A trispectral visible\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}near-infrared (VIS\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}NIR) approach has been proven to give the best results for the calculation of geometrical thickness. The comparison of horizontal visibility data from synoptic observing (SYNOP) stations of the German Weather Service and the results of the ground fog detection schemes reveals that the lookup table approach shows the best performance for both a valley fog situation and an extended layer of low stratus with complex local visibility structures. Even if the results are very encouraging [probability of detection (POD) = 0.76], relatively high percentage errors and false alarm ratios still occur. Uncertainties in the retrieval scheme are mostly due to possible collocation errors and known problems caused by comparing point and pixel data (time lag between satellite overpass and ground observation, etc.). A careful inspection of the pixels that mainly contribute to the false alarm ratio reveals problems with thin cirrus layers and the fog-edge position of the SYNOP stations. Validation results can be improved by removing these suspicious pixels (e.g., percentage error decreases from 28\% to 22\%).}
+      \field{issn}{0882-8156}
+      \field{journaltitle}{Weather and Forecasting}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Ground Fog Detection from Space Based on MODIS Daytime Data\x{fffd}\x{fffd}\x{fffd}A Feasibility Study}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{20}
+      \field{year}{2005}
+      \field{pages}{989\bibrangedash 1005}
+      \verb{doi}
+      \verb 10.1175/WAF886.1
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\ID2DPRV9\\Bendix et al. - 2005 - Ground Fog Detection from Space Based on MODIS Day.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\X8FBGGC2\\WAF886.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://journals.ametsoc.org/doi/abs/10.1175/WAF886.1
+      \endverb
+    \endentry
+    \entry{Kokhanovsky2005}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{dcc68d1a1a193578c77321b172f479ab}
+      \strng{fullhash}{dcc68d1a1a193578c77321b172f479ab}
+      \field{sortinit}{2}
+      \field{labelyear}{2005}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Satellite-based retrieval of ice cloud properties using a semianalytical algorithm}
+      \field{abstract}{A semianalytical algorithm for the retrieval of ice cloud properties from satellite data is presented. The new method is based on the semianalytical cloud retrieval algorithm and uses solutions of the asymptotic radiative transfer theory applicable for optically thick media. Therefore the new method is much less computer time expensive than the commonly used lookup table approaches. Usually, the cloud optical thickness and cloud effective droplet radius are reported for water and ice clouds even though both parameters are dependent on the actual crystal shape assumed in the retrieval procedures. Thus the authors propose to use the reduced optical thickness (ROT) and the particle absorption length (PAL) for the characterization of ice clouds. This implies that no a priori or climatological estimates of the particle shape/size distribution are necessary and increases the comparability of different cloud retrieval algorithms, which are built on many different distribution functions. If still necessary, the retrieved ROT and PAL can easily be transferred to values of the optical thickness and the cloud effective droplet radius by assuming any of those size distribution functions. The developed technique has been applied to data from the NASA EOS Terra Moderate Resolution Imaging Spectroradiometer sensor. The scene shows Hurricane Jeanne just before its landfall near the coast of Florida in September 2004. Both the reduced cloud optical thickness and the particle absorption length have been derived for the eye wall region.}
+      \field{issn}{2156-2202}
+      \field{journaltitle}{Journal of Geophysical Research: Atmospheres}
+      \field{month}{10}
+      \field{number}{D19}
+      \field{title}{Satellite-based retrieval of ice cloud properties using a semianalytical algorithm}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{110}
+      \field{year}{2005}
+      \field{pages}{D19206}
+      \verb{doi}
+      \verb 10.1029/2004JD005744
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\7263EPQH\\Kokhanovsky and Nauss - 2005 - Satellite-based retrieval of ice cloud properties .pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\X9JG74RE\\abstract.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1029/2004JD005744/abstract
+      \endverb
+      \keyw{0305 Aerosols and particles,0319 Cloud optics,0321 Cloud/radiation interaction,0345 Pollution: urban and regional,0360 Radiation: transmission and scattering,ice clouds,light scattering,remote sensing}
+    \endentry
+    \entry{Nauss2005}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7089342a4dafd2535dc78902ec92b11a}
+      \strng{fullhash}{7089342a4dafd2535dc78902ec92b11a}
+      \field{sortinit}{2}
+      \field{labelyear}{2005}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{An operational {MODIS} processing scheme for {PC} dedicated to direct broadcasting applications in meteorology and earth sciences}
+      \field{issn}{0098-3004}
+      \field{journaltitle}{Computers \& Geosciences}
+      \field{month}{07}
+      \field{number}{6}
+      \field{title}{An operational {MODIS} processing scheme for {PC} dedicated to direct broadcasting applications in meteorology and earth sciences}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{31}
+      \field{year}{2005}
+      \field{pages}{804\bibrangedash 808}
+      \verb{doi}
+      \verb 10.1016/j.cageo.2005.01.003
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\QC6GPSM9\\Nauss and Bendix - 2005 - An operational MODIS processing scheme for PC dedi.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\B3CW8CWM\\S0098300405000063.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0098300405000063
+      \endverb
+    \endentry
+    \entry{Nauss2005a}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a3945471c2c57d7086f6b2eef43a448f}{Nakajima}{N\bibinitperiod}{T.\bibnamedelimi Y.}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bdbddb0739914829af8a2fbf5772bb5}{Reudenbach}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a3945471c2c57d7086f6b2eef43a448f}{Nakajima}{N\bibinitperiod}{T.\bibnamedelimi Y.}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bdbddb0739914829af8a2fbf5772bb5}{Reudenbach}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5b3e150233ed4abc6f18532ad41bc051}
+      \strng{fullhash}{5b3e150233ed4abc6f18532ad41bc051}
+      \field{sortinit}{2}
+      \field{labelyear}{2005}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The intercomparison of selected cloud retrieval algorithms}
+      \field{abstract}{The paper is devoted to the comparison of selected cloud retrieval algorithms. In particular, the authors compare cloud optical thickness, liquid water path and effective droplet size as obtained from the algorithms developed at the Japan Aerospace Exploration Agency (JAXA) and US National Aeronautics and Space Administration (NASA) and a new simplified cloud retrieval algorithm that is based on the analytical solutions of the radiative transfer equations valid for optically thick weakly absorbing cloud layers. Over ocean all three retrievals show very close results but differences increase for a scene over land. This is mainly caused by uncertainties due to the unknown surface albedo, especially for the semi-analytical approach that is based on measurements at 0.86 \x{fffd}\x{fffd}\x{fffd}\x{fffd}m, where the contribution from ground is particularly large. Still, the simplified analytical retrieval technique gives results comparable with much more advanced codes.}
+      \field{issn}{0169-8095}
+      \field{journaltitle}{Atmospheric Research}
+      \field{month}{11}
+      \field{number}{1\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2}
+      \field{title}{The intercomparison of selected cloud retrieval algorithms}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{78}
+      \field{year}{2005}
+      \field{pages}{46\bibrangedash 78}
+      \verb{doi}
+      \verb 10.1016/j.atmosres.2005.02.005
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\MQXMIIKU\\Nauss et al. - 2005 - The intercomparison of selected cloud retrieval al.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\KT9A2VPE\\S0169809505001195.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0169809505001195
+      \endverb
+      \keyw{Cloud properties,Inverse problems,Radiative transfer}
+    \endentry
+    \entry{Bendix2006}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f071817b861a0ce7216dd158715dfd97}{Cermak}{C\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f071817b861a0ce7216dd158715dfd97}{Cermak}{C\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{556f2800abc4cea3717404273e3a3060}
+      \strng{fullhash}{556f2800abc4cea3717404273e3a3060}
+      \field{sortinit}{2}
+      \field{labelyear}{2006}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A feasibility study of daytime fog and low stratus detection with {TERRA}/{AQUA}-{MODIS} over land}
+      \field{abstract}{A scheme for the detection of fog and low stratus over land during daytime based on data of the MODIS (Moderate Resolution Imaging Spectroradiometer) instrument is presented. The method is based on an initial threshold test procedure in the MODIS solar bands 1\x{fffd}\x{fffd}\x{fffd}7 (0.62\x{fffd}\x{fffd}\x{fffd}2.155\x{fffd}\x{fffd}m). Fog and low stratus detection generally relies on the definition of minimum and maximum fog and low stratus properties, which are converted to spectral thresholds by means of radiative transfer calculations (RTC). Extended sensitivity studies reveal that thresholds mainly depend on the solar zenith angle and, hence, illumination-dependent threshold functions are developed. Areas covered by snow, ice and mid-/high-level clouds as well as bright/hazy land surfaces are omitted from the initial classification result by means of a subsequent cloud-top height test based on MODIS IR band 31 (at 12 \x{fffd}\x{fffd}m) and a NIR/VIS ratio test. The validation of the final fog and low stratus mask generally shows a satisfactory performance of the scheme. Validation problems occur due to the late overpass time of the TERRA platform and the time lag between SYNOP and satellite observations. Apparent misclassifications are mainly found at the edge of the fog layers, probably due to over- or underestimation of fog and low stratus cover in the transition zone from fog to haze.}
+      \field{issn}{1469-8080}
+      \field{journaltitle}{Meteorological Applications}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{A feasibility study of daytime fog and low stratus detection with {TERRA}/{AQUA}-{MODIS} over land}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{13}
+      \field{year}{2006}
+      \field{pages}{111\bibrangedash 125}
+      \verb{doi}
+      \verb 10.1017/S1350482706002180
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\BRKRJPPQ\\Bendix et al. - 2006 - A feasibility study of daytime fog and low stratus.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\ZWFJWMMS\\abstract.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1017/S1350482706002180/abstract
+      \endverb
+      \keyw{fog,low stratus detection,MODIS,Radiative transfer}
+    \endentry
+    \entry{Kokhanovsky2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dcc68d1a1a193578c77321b172f479ab}
+      \strng{fullhash}{dcc68d1a1a193578c77321b172f479ab}
+      \field{sortinit}{2}
+      \field{labelyear}{2006}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Reflection and transmission of solar light by clouds}
+      \field{abstract}{The authors introduce a radiative transfer model CLOUD for reflection, transmission, and absorption characteristics of terrestrial clouds and discuss the accuracy of the approximations used within the model. A Fortran implementation of CLOUD is available for download. This model is fast, accurate, and capable of calculating multiple radiative characteristics of cloudy media including the spherical and plane albedo, reflection and transmission functions, absorptance as well as global and diffuse transmittance. The approximations are based on the asymptotic solutions of the radiative transfer equations valid at cloud optical thicknesses larger than 5. While the analytic part of the solutions is treated in the code in an approximate way, the correspondent reflection function (RF) of a semi-infinite water cloud R\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} is calculated using numerical solutions of the radiative transfer equation in the assumption of Deirmendjian's cloud C1 model. In the case of ice clouds, the fractal ice crystal model is used. The resulting values of R\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} with respect to the viewing geometry are stored in a look-up table (LUT). The results obtained are of importance for quick estimations of main radiative characteristics of clouds and also for the solution of inverse problems.}
+      \field{issn}{1680-7324}
+      \field{journaltitle}{Atmospheric Chemistry and Physics}
+      \field{month}{12}
+      \field{number}{12}
+      \field{shorttitle}{Reflection and transmission of solar light by clouds}
+      \field{title}{Reflection and transmission of solar light by clouds: asymptotic theory}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{6}
+      \field{year}{2006}
+      \field{pages}{5537\bibrangedash 5545}
+      \verb{doi}
+      \verb 10.5194/acp-6-5537-2006
+      \endverb
+      \verb{file}
+      \verb Atmospheric Chemistry and Physics PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\JSMRJ9GN\\Kokhanovsky and Nauss - 2006 - Reflection and transmission of solar light by clou.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www.atmos-chem-phys.net/6/5537/2006/
+      \endverb
+    \endentry
+    \entry{Kokhanovsky2006a}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2a3e60fcc2d4441d4773b97ef1f6133}{Rozanov}{R\bibinitperiod}{V.\bibnamedelimi V.}{V\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bdbddb0739914829af8a2fbf5772bb5}{Reudenbach}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=26285df92e2f91f456dd0c0d156c4fd8}{Daniel}{D\bibinitperiod}{J.\bibnamedelimi S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a36a67dfa502ebdc9adcba5e77367018}{Miller}{M\bibinitperiod}{H.\bibnamedelimi L.}{H\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b7894a11ae361af9b0b6cdeeb21ef8f}{Burrows}{B\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2a3e60fcc2d4441d4773b97ef1f6133}{Rozanov}{R\bibinitperiod}{V.\bibnamedelimi V.}{V\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6bdbddb0739914829af8a2fbf5772bb5}{Reudenbach}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=26285df92e2f91f456dd0c0d156c4fd8}{Daniel}{D\bibinitperiod}{J.\bibnamedelimi S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a36a67dfa502ebdc9adcba5e77367018}{Miller}{M\bibinitperiod}{H.\bibnamedelimi L.}{H\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b7894a11ae361af9b0b6cdeeb21ef8f}{Burrows}{B\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2cb1e4890c282d753bf6e5318969e348}
+      \strng{fullhash}{2cb1e4890c282d753bf6e5318969e348}
+      \field{sortinit}{2}
+      \field{labelyear}{2006}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The semianalytical cloud retrieval algorithm for {SCIAMACHY} {I}. {The} validation}
+      \field{abstract}{A recently developed cloud retrieval algorithm for the SCanning Imaging Absorption spectroMeter for Atmospheric CHartographY (SCIAMACHY) is briefly presented and validated using independent and well tested cloud retrieval techniques based on the look-up-table approach for MODeration resolutIon Spectrometer (MODIS) data. The results of the cloud top height retrievals using measurements in the oxygen A-band by an airborne crossed Czerny-Turner spectrograph and the Global Ozone Monitoring Experiment (GOME) instrument are compared with those obtained from airborne dual photography and retrievals using data from Along Track Scanning Radiometer (ATSR-2), respectively.}
+      \field{issn}{1680-7324}
+      \field{journaltitle}{Atmospheric Chemistry and Physics}
+      \field{month}{06}
+      \field{number}{7}
+      \field{title}{The semianalytical cloud retrieval algorithm for {SCIAMACHY} {I}. {The} validation}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{6}
+      \field{year}{2006}
+      \field{pages}{1905\bibrangedash 1911}
+      \verb{doi}
+      \verb 10.5194/acp-6-1905-2006
+      \endverb
+      \verb{file}
+      \verb Atmospheric Chemistry and Physics PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\IAGQGASV\\Kokhanovsky et al. - 2006 - The semianalytical cloud retrieval algorithm for S.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www.atmos-chem-phys.net/6/1905/2006/
+      \endverb
+    \endentry
+    \entry{Nauss2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ca09508b2aeb8a954f8d783a029a0cb8}
+      \strng{fullhash}{ca09508b2aeb8a954f8d783a029a0cb8}
+      \field{sortinit}{2}
+      \field{labelyear}{2006}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Discriminating raining from non-raining clouds at mid-latitudes using multispectral satellite data}
+      \field{abstract}{We propose a new method for the delineation of precipitation using cloud properties derived from optical satellite data. This approach is not only sufficient for the detection of mainly convective precipitation by means of the commonly used connection between infrared cloud top temperature and rainfall probability but enables the detection of stratiform precipitation (e.g., in connection with mid-latitude frontal systems). The scheme presented is based on the concept model, that precipitating clouds must have both a sufficient vertical extent and large enough droplets. Therefore, we have analysed MODIS scenes during the severe European summer floods in 2002 and retrieved functions for the computation of an auto-adaptive threshold value of the effective cloud droplet radius with respect to the corresponding optical thickness which links these cloud properties with rainfall areas on a pixel basis.}
+      \field{issn}{1680-7324}
+      \field{journaltitle}{Atmospheric Chemistry and Physics}
+      \field{month}{11}
+      \field{number}{12}
+      \field{title}{Discriminating raining from non-raining clouds at mid-latitudes using multispectral satellite data}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{6}
+      \field{year}{2006}
+      \field{pages}{5031\bibrangedash 5036}
+      \verb{doi}
+      \verb 10.5194/acp-6-5031-2006
+      \endverb
+      \verb{file}
+      \verb Atmospheric Chemistry and Physics PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\DCV8S4KZ\\Nauss and Kokhanovsky - 2006 - Discriminating raining from non-raining clouds at .pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www.atmos-chem-phys.net/6/5031/2006/
+      \endverb
+    \endentry
     \entry{Sturman2006}{report}{}
       \name{labelname}{2}{}{%
         {{uniquename=0,hash=05cfe6c07ef0ef75a4db000ce3c25dec}{Sturman}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
@@ -90,6 +423,267 @@
       \verb http://www.niwa.co.nz/sites/default/files/import/attachments/chc2007_135.pdf
       \endverb
     \endentry
+    \entry{Frueh2007}{article}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=0,hash=29dccbc425c5cdd845cc8be74b4d0509}{Fr\x{fffd}\x{fffd}h}{F\bibinitperiod}{Barbara}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=747758fffd97fc1e5335e01ce2e4702e}{Paulat}{P\bibinitperiod}{Marcus}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83dd48a8900efc0fb87f484d60f90290}{Pfeiffer}{P\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a5271e224d10afc72558c5a881eef161}{Schipper}{S\bibinitperiod}{Janus\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9056a9cf3fb9cc1b8d4d88fe5655d7f7}{Wernli}{W\bibinitperiod}{Heini}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=29dccbc425c5cdd845cc8be74b4d0509}{Fr\x{fffd}\x{fffd}h}{F\bibinitperiod}{Barbara}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=747758fffd97fc1e5335e01ce2e4702e}{Paulat}{P\bibinitperiod}{Marcus}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83dd48a8900efc0fb87f484d60f90290}{Pfeiffer}{P\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a5271e224d10afc72558c5a881eef161}{Schipper}{S\bibinitperiod}{Janus\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9056a9cf3fb9cc1b8d4d88fe5655d7f7}{Wernli}{W\bibinitperiod}{Heini}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9e2e36869c12bfc7c2167ceb1d53113c}
+      \strng{fullhash}{9e2e36869c12bfc7c2167ceb1d53113c}
+      \field{sortinit}{2}
+      \field{labelyear}{2007}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Verification of precipitation from regional climate simulations and remote-sensing observations with respect to ground-based observations in the upper {Danube} catchment}
+      \field{abstract}{An evaluation of precipitation fields for four selected months simulated by the regional climate model and provided by the satellite retrieval method is presented. As reference, observations at 5 km resolution on a daily and monthly basis are used. We applied conventional verification tools (root mean square error, grid-point based categorical error scores, etc.) as well as the new error score SAL, which separately considers aspects of the structure, amplitude and location of the precipitation field in a predefined area. We also discussed the advantages and disadvantages of each of the scores. The aim of our evaluation was to unfold the strengths and weaknesses of and to calculate daily and monthly high resolution precipitation. As a result we found that the catchment averaged monthly mean precipitation is simulated with an acceptable accuracy by both methods. The spatial pattern of the monthly precipitation (typically with a precipitation maximum in the alpine foreland) can only be reproduced by . Regarding the daily precipitation, our evaluation revealed that both methods still need improvement. The deviations to the observations increase with decreasing precipitation amount resulting in large uncertainties in case of very dry conditions. Overall, we can conclude that is better suited to simulate precipitation at 5 km resolution on a daily basis than . German Diese Studie beschreibt eine Evaluation der Niederschlagsfelder am Beispiel von vier ausgew\x{fffd}\x{fffd}\x{fffd}\x{fffd}hlten Monaten, welche zum einen mit dem regionalen Klimamodell AtmoMM5 simuliert und zum anderen von der fernerkundlichen Methode AtmoSat bereitgestellt wurden. Als Referenz dienen Beobachtungen mit 5 km Aufl\x{fffd}\x{fffd}\x{fffd}\x{fffd}sung auf t\x{fffd}\x{fffd}\x{fffd}\x{fffd}glicher und monatlicher Basis. Es wurden sowohl konventionelle Verifikationsmethoden (mittlere quadratische Abweichung, gitterpunkt basierte kategorische Fehlerma\x{fffd}\x{fffd}\x{fffd}\x{fffd}e, usw.) als auch das neue Fehlerma\x{fffd}\x{fffd}\x{fffd}\x{fffd} SAL verwendet. SAL ber\x{fffd}\x{fffd}\x{fffd}\x{fffd}cksichtigt Aspekte der Struktur, Amplitude und Position des Niederschlagsfeldes in einem definierten Gebiet jeweils unabh\x{fffd}\x{fffd}\x{fffd}\x{fffd}ngig. Desweiteren werden die Vor- und Nachteile der verwendeten Fehlerma\x{fffd}\x{fffd}\x{fffd}\x{fffd}e diskutiert. Das Ziel dieser Evaluation war die St\x{fffd}\x{fffd}\x{fffd}\x{fffd}rken und Schw\x{fffd}\x{fffd}\x{fffd}\x{fffd}chen von AtmoMM5 und AtmoSat aufzudecken, mit welchen die Modelle den t\x{fffd}\x{fffd}\x{fffd}\x{fffd}glichen und monatlichen Niederschlag mit hoher r\x{fffd}\x{fffd}\x{fffd}\x{fffd}umlicher Aufl\x{fffd}\x{fffd}\x{fffd}\x{fffd}sung berechnen. Als Ergebnis l\x{fffd}\x{fffd}\x{fffd}\x{fffd}sst sich zusammenfassen, dass der monatliche Niederschlag gemittelt \x{fffd}\x{fffd}\x{fffd}\x{fffd}ber das Einzugsbiet von beiden Methoden mit akzeptabler Genauigkeit simuliert wird. Das r\x{fffd}\x{fffd}\x{fffd}\x{fffd}umliche Muster des Monatsniederschlags (typischerweise mit einem Niederschlagsmaximum im Alpenvorland) kann jedoch nur von AtmoMM5 reproduziert werden. Bez\x{fffd}\x{fffd}\x{fffd}\x{fffd}glich des t\x{fffd}\x{fffd}\x{fffd}\x{fffd}glichen Niederschlags ergab sich aus der Evaluation, dass f\x{fffd}\x{fffd}\x{fffd}\x{fffd}r beide Verfahren weiterhin Verbesserungsbedarf besteht. Die Abweichungen zu den Beobachtungen steigen mit abnehmender Niederschlagsmenge. Dies resultiert in gro\x{fffd}\x{fffd}\x{fffd}\x{fffd}en Unsicherheiten im Fall von sehr trockenen Bedingungen. Allgemein kann festgehalten werden, dass AtmoMM5 besser geeignet ist den t\x{fffd}\x{fffd}\x{fffd}\x{fffd}glichen Niederschlag mit 5 km Aufl\x{fffd}\x{fffd}\x{fffd}\x{fffd}sung zu simulieren als AtmoSat .}
+      \field{journaltitle}{Meteorologische Zeitschrift}
+      \field{month}{06}
+      \field{number}{3}
+      \field{title}{Verification of precipitation from regional climate simulations and remote-sensing observations with respect to ground-based observations in the upper {Danube} catchment}
+      \field{volume}{16}
+      \field{year}{2007}
+      \field{pages}{275\bibrangedash 293}
+      \verb{doi}
+      \verb 10.1127/0941-2948/2007/0210
+      \endverb
+      \verb{file}
+      \verb IngentaConnect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\D9FIK746\\Fr\x{fffd}\x{fffd}h et al. - 2007 - Verification of precipitation from regional climat.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Kokhanovsky2007}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1ffb28bc29827bdbdf0457d1715bf582}{Schreier}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a503da85cde048f9505af2d0fd310a8}{Hoyningen-Huene}{H\bibinithyphendelim H\bibinitperiod}{W.\bibnamedelimi von}{W\bibinitperiod\bibinitdelim v\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b7894a11ae361af9b0b6cdeeb21ef8f}{Burrows}{B\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=c60c8f9af94f102e06e4c52673068635}{Kokhanovsky}{K\bibinitperiod}{A.\bibnamedelimi A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1ffb28bc29827bdbdf0457d1715bf582}{Schreier}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a503da85cde048f9505af2d0fd310a8}{Hoyningen-Huene}{H\bibinithyphendelim H\bibinitperiod}{W.\bibnamedelimi von}{W\bibinitperiod\bibinitdelim v\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b7894a11ae361af9b0b6cdeeb21ef8f}{Burrows}{B\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7a633a3466ef7ab927b8798fc5a14d15}
+      \strng{fullhash}{7a633a3466ef7ab927b8798fc5a14d15}
+      \field{sortinit}{2}
+      \field{labelyear}{2007}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The {Intercomparison} of {Cloud} {Parameters} {Derived} {Using} {Multiple} {Satellite} {Instruments}}
+      \field{abstract}{Cloud optical thickness (COT) has been retrieved using multiple optical instruments onboard ENVISAT and compared for consistency for a single cloud field over central Europe. To match the spatial resolution of the Scanning Imaging Absorption Spectrometer for Atmospheric Chartography (SCIAMACHY), the results of retrievals from higher resolution instruments have been averaged on the scale of 30 times 60 km. It was found that the Medium Resolution Imaging Spectrometer (MERIS), Advanced Along Track Scanning Radiometer (AATSR), and SCIAMACHY (all onboard ENVISAT) give close values of COT and, therefore, cloud albedo. Similar results have been obtained for Moderate Resolution Imaging Spectroradiometer onboard the Terra satellite. This suggests that these instruments can be used for synergetic retrievals of cloud properties from space. For instance, the high spectral resolution of SCIAMACHY can be used to enhance MERIS or AATSR retrievals of cloud top height and other cloud characteristics}
+      \field{issn}{0196-2892}
+      \field{journaltitle}{IEEE Transactions on Geoscience and Remote Sensing}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{The {Intercomparison} of {Cloud} {Parameters} {Derived} {Using} {Multiple} {Satellite} {Instruments}}
+      \field{volume}{45}
+      \field{year}{2007}
+      \field{pages}{195\bibrangedash 200}
+      \verb{doi}
+      \verb 10.1109/TGRS.2006.885019
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:D\:\\private\\thomas\\pim\\zotero\\storage\\43Z95RB8\\articleDetails.html:text/html
+      \endverb
+      \keyw{Advanced Along Track Scanning Radiometer,albedo,atmospheric measuring apparatus,cloud albedo,cloud optical thickness,cloud parameters,clouds,cloud top height,Electromagnetic wave absorption,ENVISAT,Europe,High-resolution imaging,Image retrieval,Instruments,Medium Resolution Imaging Spectrometer,MERIS,Moderate Resolution Imaging Spectroradiometer,Optical imaging,Radiative transfer,remote sensing,Satellite broadcasting,Scanning Imaging Absorption Spectrometer for Atmospheric Chartography,Spatial resolution,Terra satellite}
+    \endentry
+    \entry{Bendix2008}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=5894596bf612590ffc08f67d40be0047}{G\x{fffd}\x{fffd}ttlicher}{G\bibinitperiod}{Dietrich}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a17438bb24e13b99ae62aa3d295619af}{Fabian}{F\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=5894596bf612590ffc08f67d40be0047}{G\x{fffd}\x{fffd}ttlicher}{G\bibinitperiod}{Dietrich}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a17438bb24e13b99ae62aa3d295619af}{Fabian}{F\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5237bf701ce0607f87acc8e3b524110a}
+      \strng{fullhash}{5237bf701ce0607f87acc8e3b524110a}
+      \field{sortinit}{2}
+      \field{labelyear}{2008}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Seasonality and diurnal pattern of very low clouds in a deeply incised valley of the eastern tropical {Andes} ({South} {Ecuador}) as observed by a cost-effective {WebCam} system}
+      \field{abstract}{To date, the annual and diurnal pattern of low clouds touching the ground in tropical mountains is widely unknown. This holds true for the valley of the Rio San Francisco in southern Ecuador, and is mainly due to a lack of routine cloud observations, which is symptomatic for remote areas in tropical high mountains. A method to use a simple and cost-effective WebCam system for a quantitative analysis of cloud frequency as a proxy for the occurrence of low-cloud bases touching the ground is introduced. An interactive classification tool is developed, which is applied to a comprehensive dataset of 32 452 images (during the years 2002\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2004) archived at 5 min intervals. The results point to a rapid increase of cloud frequency at altitudes {\textgreater} 2600 m asl both during the day and the year, mainly caused by advective clouds veiling the crests of the Cordillera del Consuelo. Even if the formation of radiation fog directly at the valley bottom is nearly negligible with regard to the whole dataset, scatterometer measurements suggest that valley fog formation on the slopes is a regular process during the night, causing a clear drop in the cloud base around sunrise. The interaction of low-radiative and high-advective clouds is supposed to be the driving factor for a rainfall maximum at the valley bottom around sunrise. Higher values of cloud frequency still exist at the crest level around noon: these originate from well-developed upslope-breeze systems. Copyright \x{fffd}\x{fffd}\x{fffd}\x{fffd} 2008 Royal Meteorological Society}
+      \field{issn}{1469-8080}
+      \field{journaltitle}{Meteorological Applications}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{Seasonality and diurnal pattern of very low clouds in a deeply incised valley of the eastern tropical {Andes} ({South} {Ecuador}) as observed by a cost-effective {WebCam} system}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{281\bibrangedash 291}
+      \verb{doi}
+      \verb 10.1002/met.72
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\ZJDBJF9V\\Bendix et al. - 2008 - Seasonality and diurnal pattern of very low clouds.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\IHTSB3UN\\abstract.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1002/met.72/abstract
+      \endverb
+      \keyw{Andes,cloud frequency,Ecuador,WebCam}
+    \endentry
+    \entry{Thies2008}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=6f2b7f6d59ed758016767da5e2aa164c}{Thies}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=6f2b7f6d59ed758016767da5e2aa164c}{Thies}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8ffa90611c40c39f70bd4f0ff790f3b2}
+      \strng{fullhash}{8ffa90611c40c39f70bd4f0ff790f3b2}
+      \field{sortinit}{2}
+      \field{extrayear}{1}
+      \field{labelyear}{2008}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Discriminating raining from non-raining cloud areas at mid-latitudes using meteosat second generation {SEVIRI} night-time data}
+      \field{abstract}{A new method for the delineation of precipitation during night-time using multispectral satellite data is proposed. The approach is not only applicable to the detection of mainly convective precipitation by means of the commonly used relation between infrared cloud-top temperature and rainfall probability but enables also the detection of stratiform precipitation (e.g. in connection with mid-latitude frontal systems). The presented scheme is based on the conceptual model that precipitating clouds are characterized by a combination of particles large enough to fall, an adequate vertical extension [both represented by the cloud water path (CWP)], and the existence of ice particles in the upper part of the cloud. As no operational retrieval exists for Meteosat Second Generation (MSG) to compute the CWP during night-time, suitable combinations of brightness temperature differences (\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T) between the thermal bands of Meteosat Second Generation-Spinning Enhanced Visible and InfraRed Imager (MSG SEVIRI, \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T3.9\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}10.8, \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T3.9\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}7.3, \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T8.7\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}10.8, \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T10.8\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}12.1) are used to infer implicit information about the CWP and to compute a rainfall confidence level. \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T8.7\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}10.8 and \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T10.8\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}12.1 are particularly considered to supply information about the cloud phase. Rain area delineation is realized by using a minimum threshold of the rainfall confidence. To obtain a statistical transfer function between the rainfall confidence and the channel differences, the value combination of the channel differences is compared with ground-based radar data. The retrieval is validated against independent radar data not used for deriving the transfer function and shows an encouraging performance as well as clear improvements compared to existing optical retrieval techniques using only IR thresholds for cloud-top temperature. Copyright \x{fffd}\x{fffd}\x{fffd}\x{fffd} 2008 Royal Meteorological Society}
+      \field{issn}{1469-8080}
+      \field{journaltitle}{Meteorological Applications}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{Discriminating raining from non-raining cloud areas at mid-latitudes using meteosat second generation {SEVIRI} night-time data}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{219\bibrangedash 230}
+      \verb{doi}
+      \verb 10.1002/met.56
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\47ZS8XH4\\Thies et al. - 2008 - Discriminating raining from non-raining cloud area.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\Z8HMEJBK\\abstract\;jsessionid=621E4ED071BA3B2E9C4B23A6EE2FB51B.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1002/met.56/abstract
+      \endverb
+      \keyw{Cloud properties,MSG SEVIRI,precipitation detection,Radiative transfer}
+    \endentry
+    \entry{Thies2008a}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=6f2b7f6d59ed758016767da5e2aa164c}{Thies}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=6f2b7f6d59ed758016767da5e2aa164c}{Thies}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ffa90611c40c39f70bd4f0ff790f3b2}
+      \strng{fullhash}{8ffa90611c40c39f70bd4f0ff790f3b2}
+      \field{sortinit}{2}
+      \field{extrayear}{2}
+      \field{labelyear}{2008}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Discriminating raining from non-raining clouds at mid-latitudes using meteosat second generation daytime data}
+      \field{abstract}{A new method for the delineation of precipitation during daytime using multispectral satellite data is proposed. The approach is not only applicable to the detection of mainly convective precipitation by means of the commonly used relation between infrared cloud top temperature and rainfall probability but enables also the detection of stratiform precipitation (e.g. in connection with mid-latitude frontal systems). The presented scheme is based on the conceptual model that precipitating clouds are characterized by a combination of particles large enough to fall, an adequate vertical extension (both represented by the cloud water path; cwp), and the existence of ice particles in the upper part of the cloud. The technique considers the VIS0.6 and the NIR1.6 channel to gain information about the cloud water path. Additionally, the brightness temperature differences \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T8.7-10.8 and \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T10.8-12.1 are considered to supply information about the cloud phase. Rain area delineation is realized by using a minimum threshold of the rainfall confidence. To obtain a statistical transfer function between the rainfall confidence and the four parameters VIS, NIR1.6, \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} T8.7-10.8 and \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} T10.8-12.1, the value combinations of these four variables are compared to ground based radar data. The retrieval is validated against independent radar data not used for deriving the transfer function and shows an encouraging performance as well as clear improvements compared to existing optical retrieval techniques using only IR thresholds for cloud top temperature.}
+      \field{issn}{1680-7324}
+      \field{journaltitle}{Atmospheric Chemistry and Physics}
+      \field{month}{05}
+      \field{number}{9}
+      \field{title}{Discriminating raining from non-raining clouds at mid-latitudes using meteosat second generation daytime data}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{8}
+      \field{year}{2008}
+      \field{pages}{2341\bibrangedash 2349}
+      \verb{doi}
+      \verb 10.5194/acp-8-2341-2008
+      \endverb
+      \verb{file}
+      \verb Atmospheric Chemistry and Physics PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\72CVVNVZ\\Thies et al. - 2008 - Discriminating raining from non-raining clouds at .pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www.atmos-chem-phys.net/8/2341/2008/
+      \endverb
+    \endentry
+    \entry{Thies2008b}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{738bc92193f47f62b6cb3b70640973ca}
+      \strng{fullhash}{738bc92193f47f62b6cb3b70640973ca}
+      \field{sortinit}{2}
+      \field{extrayear}{3}
+      \field{labelyear}{2008}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Precipitation process and rainfall intensity differentiation using {Meteosat} {Second} {Generation} {Spinning} {Enhanced} {Visible} and {Infrared} {Imager} data}
+      \field{abstract}{A new day and night technique for precipitation process separation and rainfall intensity differentiation using the Meteosat Second Generation Spinning Enhanced Visible and Infrared Imager is proposed. It relies on the conceptual design that convective clouds with higher rainfall intensities are characterized by a larger vertical extension and a higher cloud top. For advective-stratiform precipitation areas, it is assumed that areas with a higher cloud water path (CWP) and more ice particles in the upper parts are characterized by higher rainfall intensities. First, the rain area is separated into areas of convective and advective-stratiform precipitation processes. Next, both areas are divided into subareas of differing rainfall intensities. The classification of the convective area relies on information about the cloud top height gained from water vapor-IR differences and the IR cloud top temperature. The subdivision of the advective-stratiform area is based on information about the CWP and the particle phase in the upper parts. Suitable combinations of temperature differences (\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T3.9\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}10.8, \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T3.9\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}7.3, \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T8.7\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}10.8, \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T10.8\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}12.1) are incorporated to infer information about the CWP during nighttime, while a visible and a near-IR channel are considered during the daytime. \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T8.7\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}10.8 and \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}T10.8\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}12.1 are particularly included to supply information about the cloud phase. Intensity differentiation is realized by using pixel-based confidences for each subarea calculated as a function of the respective value combinations of the previously mentioned variables. For the calculation of the confidences, the value combinations are compared with ground-based radar data. The proposed technique is validated against ground-based radar data and shows an encouraging performance (Heidke skill score 0.07\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}0.2 for 15-min intervals).}
+      \field{issn}{2156-2202}
+      \field{journaltitle}{Journal of Geophysical Research: Atmospheres}
+      \field{month}{12}
+      \field{number}{D23}
+      \field{title}{Precipitation process and rainfall intensity differentiation using {Meteosat} {Second} {Generation} {Spinning} {Enhanced} {Visible} and {Infrared} {Imager} data}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{113}
+      \field{year}{2008}
+      \field{pages}{D23206}
+      \verb{doi}
+      \verb 10.1029/2008JD010464
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\I95SNJTM\\Thies et al. - 2008 - Precipitation process and rainfall intensity diffe.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\STS2BG2M\\abstract.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1029/2008JD010464/abstract
+      \endverb
+      \keyw{0321 Cloud/radiation interaction,1855 Remote sensing,3314 Convective processes,Cloud properties,MSG SEVIRI,precipitation detection}
+    \endentry
     \entry{Appelhans2011}{inproceedings}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
@@ -130,6 +724,277 @@
       \field{title}{East African rainfall and vegetation dynamics in response to a changing El Ni\~no}
       \field{year}{2008}
     \endentry
+    \entry{Bendix2009}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a00be9c6e1fd9e8b14c247a99c572ba6}{Silva}{S\bibinitperiod}{Brenner}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0bcbb6d8af90343537c5abc92820ac04}{Roos}{R\bibinitperiod}{Kristin}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4b88d9d79ea83f23ce84a34c80ed01e4}{G\x{fffd}\x{fffd}ttlicher}{G\bibinitperiod}{Dietrich\bibnamedelima Otto}{D\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=688fa76fe4520eca4d689ac4e9cefc41}{Beck}{B\bibinitperiod}{Erwin}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a00be9c6e1fd9e8b14c247a99c572ba6}{Silva}{S\bibinitperiod}{Brenner}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0bcbb6d8af90343537c5abc92820ac04}{Roos}{R\bibinitperiod}{Kristin}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=4b88d9d79ea83f23ce84a34c80ed01e4}{G\x{fffd}\x{fffd}ttlicher}{G\bibinitperiod}{Dietrich\bibnamedelima Otto}{D\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=688fa76fe4520eca4d689ac4e9cefc41}{Beck}{B\bibinitperiod}{Erwin}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a715b04e88830e527605b54b9dac01af}
+      \strng{fullhash}{a715b04e88830e527605b54b9dac01af}
+      \field{sortinit}{2}
+      \field{labelyear}{2009}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Model parameterization to simulate and compare the {PAR} absorption potential of two competing plant species}
+      \field{abstract}{Mountain pastures dominated by the pasture grass Setaria sphacelata in the Andes of southern Ecuador are heavily infested by southern bracken (Pteridium arachnoideum), a major problem for pasture management. Field observations suggest that bracken might outcompete the grass due to its competitive strength with regard to the absorption of photosynthetically active radiation (PAR). To understand the PAR absorption potential of both species, the aims of the current paper are to (1) parameterize a radiation scheme of a two-big-leaf model by deriving structural (LAI, leaf angle parameter) and optical (leaf albedo, transmittance) plant traits for average individuals from field surveys, (2) to initialize the properly parameterized radiation scheme with realistic global irradiation conditions of the Rio San Francisco Valley in the Andes of southern Ecuador, and (3) to compare the PAR absorption capabilities of both species under typical local weather conditions. Field data show that bracken reveals a slightly higher average leaf area index (LAI) and more horizontally oriented leaves in comparison to Setaria. Spectrometer measurements reveal that bracken and Setaria are characterized by a similar average leaf absorptance. Simulations with the average diurnal course of incoming solar radiation (1998\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2005) and the mean leaf\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}sun geometry reveal that PAR absorption is fairly equal for both species. However, the comparison of typical clear and overcast days show that two parameters, (1) the relation of incoming diffuse and direct irradiance, and (2) the leaf\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}sun geometry play a major role for PAR absorption in the two-big-leaf approach: Under cloudy sky conditions (mainly diffuse irradiance), PAR absorption is slightly higher for Setaria while under clear sky conditions (mainly direct irradiance), the average bracken individual is characterized by a higher PAR absorption potential. (\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}74 MJ m\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2 year\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}1). The latter situation which occurs if the maximum daily irradiance exceeds 615 W m\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2 is mainly due to the nearly orthogonal incidence of the direct solar beam onto the horizontally oriented frond area which implies a high amount of direct PAR absorption during the noon maximum of direct irradiance. Such situations of solar irradiance favoring a higher PAR absorptance of bracken occur in \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}36\% of the observation period (1998\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2005). By considering the annual course of PAR irradiance in the San Francisco Valley, the clear advantage of bracken on clear days (36\% of all days) is completely compensated by the slight but more frequent advantage of Setaria under overcast conditions (64\% of all days). This means that neither bracken nor Setaria show a distinct advantage in PAR absorption capability under the current climatic conditions of the study area.}
+      \field{issn}{0020-7128, 1432-1254}
+      \field{journaltitle}{International Journal of Biometeorology}
+      \field{month}{11}
+      \field{number}{3}
+      \field{title}{Model parameterization to simulate and compare the {PAR} absorption potential of two competing plant species}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{54}
+      \field{year}{2009}
+      \field{pages}{283\bibrangedash 295}
+      \verb{doi}
+      \verb 10.1007/s00484-009-0279-3
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\IQMXD7BA\\Bendix et al. - 2009 - Model parameterization to simulate and compare the.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\QGV7BXGW\\10.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/article/10.1007/s00484-009-0279-3
+      \endverb
+      \keyw{Andes,Animal Physiology,Ecuador,Environmental Health,PAR absorption,Plant Physiology,Setaria sphacelata,Southern bracken,Two-big-leaf approach}
+    \endentry
+    \entry{Bendix2009a}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2d88f50cab4376999d949888642de59f}{Trachte}{T\bibinitperiod}{Katja}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f071817b861a0ce7216dd158715dfd97}{Cermak}{C\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2d88f50cab4376999d949888642de59f}{Trachte}{T\bibinitperiod}{Katja}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f071817b861a0ce7216dd158715dfd97}{Cermak}{C\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{af41a7fdc20430eaea01f4c62a80b370}
+      \strng{fullhash}{af41a7fdc20430eaea01f4c62a80b370}
+      \field{sortinit}{2}
+      \field{labelyear}{2009}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Formation of {Convective} {Clouds} at the {Foothills} of the {Tropical} {Eastern} {Andes} ({South} {Ecuador})}
+      \field{abstract}{This study examines the seasonal and diurnal dynamics of convective cloud entities\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}small cells and a mesoscale convective complex\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}like pattern\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}in the foothills of the tropical eastern Andes. The investigation is based on Geostationary Operational Environmental Satellite-East (GOES-E) satellite imagery (2005\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}07), images of a scanning X-band rain radar, and data from regular meteorological stations. The work was conducted in the framework of a major ecological research program, the Research Unit 816, in which meteorological instruments are installed in the Rio San Francisco valley, breaching the eastern Andes of south Ecuador. GOES image segmentation to discriminate convective cells and other clouds is performed for a 600 \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} 600 km2 target area, using the concept of connected component labeling by applying the 8-connectivity scheme as well as thresholds for minimum blackbody temperature, spatial extent, and eccentricity of the extracted components. The results show that the formation of convective clouds in the lowland part of the target area mainly occurs in austral summer during late afternoon. Nocturnal enhancement of cell formation could be observed from October to April (particularly February\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}April) between 0100 and 0400 LST (LST = UTC \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} 5 h) in the Andean foothill region of the target area, which is the relatively dry season of the adjacent eastern Andean slopes. Nocturnal cell formation is especially marked southeast of the Rio San Francisco valley in the southeast Andes of Ecuador, where a confluence area of major katabatic outflow systems coincide with a quasi-concave shape of the Andean terrain line. The confluent cold-air drainage flow leads to low-level instability and cellular convection in the warm, moist Amazon air mass. The novel result of the current study is to provide statistical evidence that, under these special topographic situations, katabatic outflow is strong enough to generate mainly mesoscale convective complexes (MCCs) with a great spatial extent. The MCC-like systems often increase in expanse during their mature phase and propagate toward the Andes because of the prevailing upper-air easterlies, causing early morning peaks of rainfall in the valley of the Rio San Francisco. It is striking that MCC formation in the foothill area is clearly reduced during the main rainy season [June\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}August (JJA)] of the higher eastern Andean slopes. At a first glance, this contradiction can be explained by rainfall persistence in the Rio San Francisco valley, which is clearly lower during the time of convective activity (December\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}April) in comparison with JJA, during which low-intensity rainfall is released by predominantly advective clouds with greater temporal endurance.}
+      \field{issn}{1558-8424}
+      \field{journaltitle}{Journal of Applied Meteorology and Climatology}
+      \field{month}{08}
+      \field{number}{8}
+      \field{title}{Formation of {Convective} {Clouds} at the {Foothills} of the {Tropical} {Eastern} {Andes} ({South} {Ecuador})}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{48}
+      \field{year}{2009}
+      \field{pages}{1682\bibrangedash 1695}
+      \verb{doi}
+      \verb 10.1175/2009JAMC2078.1
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\4WKF8KDS\\Bendix et al. - 2009 - Formation of Convective Clouds at the Foothills of.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\2CBF8HS4\\2009JAMC2078.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://journals.ametsoc.org/doi/abs/10.1175/2009JAMC2078.1
+      \endverb
+    \endentry
+    \entry{Braeuning2009}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=2266c47c5e96884a92a7896ed6a8f5e4}{Br\x{fffd}\x{fffd}uning}{B\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5e8b38843fcddd35ee237e47f113683c}{Volland-Voigt}{V\bibinithyphendelim V\bibinitperiod}{Franziska}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ddf09d36ccaac897181d7c797d242e7d}{Burchardt}{B\bibinitperiod}{Iris}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b8d300b241ea6b69fb80210f7e3777d}{Ganzhi}{G\bibinitperiod}{Oswaldo}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=2bfa7f6d6621f225afe8a4878554b3f0}{Peters}{P\bibinitperiod}{Thorsten}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=2266c47c5e96884a92a7896ed6a8f5e4}{Br\x{fffd}\x{fffd}uning}{B\bibinitperiod}{Achim}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5e8b38843fcddd35ee237e47f113683c}{Volland-Voigt}{V\bibinithyphendelim V\bibinitperiod}{Franziska}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ddf09d36ccaac897181d7c797d242e7d}{Burchardt}{B\bibinitperiod}{Iris}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4b8d300b241ea6b69fb80210f7e3777d}{Ganzhi}{G\bibinitperiod}{Oswaldo}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=2bfa7f6d6621f225afe8a4878554b3f0}{Peters}{P\bibinitperiod}{Thorsten}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{49f880379f6886e405392a7ffbbc95bf}
+      \strng{fullhash}{49f880379f6886e405392a7ffbbc95bf}
+      \field{sortinit}{2}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Climatic control of radial growth of {Cedrela} montana in a humid mountain rainforest in southern {Ecuador}}
+      \field{abstract}{Cedrela montana is a deciduous broad-leaved tree species growing in the humid mountain rainforests of southern Ecuador. High-resolution dendrometer data indicate a regular seasonal growth rhythm with cambial activity during January to April. Amplitudes of daily radial stem diameter variations are correlated with the amount of the maximum daily vapour pressure deficit. During humid periods, daily stem diameter variations are considerably smaller than during drier periods. This indicates that cambial activity is limited by available moisture even in such a very humid mountain climate. Wood anatomical studies on microcores show the formation of a marginal parenchyma band at the beginning of the growth period. This parenchyma band can be used to delineate annual growth rings. We were able to establish the first ring-width chronology from Cedrela montana which covers the time until 1840. However, the chronology is presently statistically robust back to 1910 only. Correlation functions calculated with NCEP/NCAR data indicate a significantly positive relationship of tree growth with temperatures during the growth period during January to April. However, only 8% of the growth variance is explained by this climatic factor. In the future, this relationship may be useful to reconstruct past temperature conditions of the study area.}
+      \field{issn}{00140015}
+      \field{journaltitle}{ERDKUNDE}
+      \field{number}{4}
+      \field{title}{Climatic control of radial growth of {Cedrela} montana in a humid mountain rainforest in southern {Ecuador}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{63}
+      \field{year}{2009}
+      \field{pages}{337\bibrangedash 345}
+      \verb{doi}
+      \verb 10.3112/erdkunde.2009.04.04
+      \endverb
+      \verb{url}
+      \verb http://www.erdkunde.uni-bonn.de/archive/2009/climatic-control-of-radial-growth-of-cedrela-montana-in-a-humid-mountain-rainforest-in-southern-ecuador
+      \endverb
+    \endentry
+    \entry{Fries2009}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=0,hash=d618b626d8b2a9b6c29e0db0d339d767}{Fries}{F\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=5894596bf612590ffc08f67d40be0047}{G\x{fffd}\x{fffd}ttlicher}{G\bibinitperiod}{Dietrich}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=def7ca32fdf3016de88e04ed548dc7e5}{Homeier}{H\bibinitperiod}{J\x{fffd}\x{fffd}\x{fffd}\x{fffd}rgen}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=2bfa7f6d6621f225afe8a4878554b3f0}{Peters}{P\bibinitperiod}{Thorsten}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=d618b626d8b2a9b6c29e0db0d339d767}{Fries}{F\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=5894596bf612590ffc08f67d40be0047}{G\x{fffd}\x{fffd}ttlicher}{G\bibinitperiod}{Dietrich}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=def7ca32fdf3016de88e04ed548dc7e5}{Homeier}{H\bibinitperiod}{J\x{fffd}\x{fffd}\x{fffd}\x{fffd}rgen}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=2bfa7f6d6621f225afe8a4878554b3f0}{Peters}{P\bibinitperiod}{Thorsten}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c46e4eb666024dc4d3be453ebb8ed288}
+      \strng{fullhash}{c46e4eb666024dc4d3be453ebb8ed288}
+      \field{sortinit}{2}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Thermal structure of a megadiverse {Andean} mountain ecosystem in southern {Ecuador} and its regionalization}
+      \field{abstract}{The thermal structure of a megadiverse mountain ecosystem in southern Ecuador is examined on the basis of temperature measurements inside the natural mountain forest and at open-sites along an altitudinal gradient from 1600 to 3200 m. The main methodological aim of the current study is to develop an air temperature regionalization tool to provide spatial datasets on average monthly mean, minimum and maximum temperature by using observation data. The maps, based on data of the period 1999\x{fffd}\x{fffd}\x{fffd}2007, are needed by ecological projects working on various plots where no climate station data are available. The temperature maps are generated by combining a straightforward detrending technique with a Digital Elevation Model and a satellite-based land cover classification which also provides the relative forest cover per pixel. The topical aim of the study is to investigate the thermal structure of both manifestations of our ecosystem (pastures and natural vegetation) with special considerations to the ecosystem temperature regulation service by converting natural forest into pasture. The results reveal a clear thermal differentiation over the year, partly triggered by the change of synoptic weather situation but also by land cover effects. Thermal amplitudes are particularly low during the main rainy season when cloudiness and air humidity are high, but markedly pronounced in the relative dry season when daily irradiance and outgoing nocturnal radiation cause distinct differences between the land cover units. Particularly the lower pasture areas gained by slash and burn of the natural forest exhibit the most extreme thermal conditions while the atmosphere inside the mountain forest is slightly cooler due to the regulating effects of the dense vegetation. Thus, clearing the forest clearly reduces the thermal regulation function (regulating ecosystem services) of the ecosystem which might become problematic under future global warming.}
+      \field{issn}{00140015}
+      \field{journaltitle}{ERDKUNDE}
+      \field{number}{4}
+      \field{title}{Thermal structure of a megadiverse {Andean} mountain ecosystem in southern {Ecuador} and its regionalization}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{63}
+      \field{year}{2009}
+      \field{pages}{321\bibrangedash 335}
+      \verb{doi}
+      \verb 10.3112/erdkunde.2009.04.03
+      \endverb
+      \verb{url}
+      \verb http://www.erdkunde.uni-bonn.de/archive/2009/thermal-structure-of-a-megadiverse-andean-mountain-ecosystem-in-southern-ecuador-and-its-regionalization
+      \endverb
+    \endentry
+    \entry{Goettlicher2009}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=1,hash=98545efc88a8a5e2034a75180de7089b}{G\x{fffd}\x{fffd}ttlicher}{G\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d6b211da8af7028d3789532ddcf4dcba}{Obregon}{O\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5f8f80b6cb963790e18c188ceed1e6b8}{Homeier}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=25050dd48f42ab207cfec07010a8aede}{Rollenbeck}{R\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=1,hash=98545efc88a8a5e2034a75180de7089b}{G\x{fffd}\x{fffd}ttlicher}{G\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d6b211da8af7028d3789532ddcf4dcba}{Obregon}{O\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5f8f80b6cb963790e18c188ceed1e6b8}{Homeier}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=25050dd48f42ab207cfec07010a8aede}{Rollenbeck}{R\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dff96a66b8916663f0d963b56365fb6}
+      \strng{fullhash}{1dff96a66b8916663f0d963b56365fb6}
+      \field{sortinit}{2}
+      \field{labelyear}{2009}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Land-cover classification in the Andes of southern Ecuador using Landsat ETM+ data as a basis for SVAT modelling}
+      \field{abstract}{A land-cover classification is needed to deduce surface boundary conditions for a soil-vegetation-atmosphere transfer (SVAT) scheme that is operated by a geoecological research unit working in the Andes of southern Ecuador. Landsat Enhanced Thematic Mapper Plus (ETM+) data are used to classify distinct vegetation types in the tropical mountain forest. Besides a hard classification, a soft classification technique is applied. Dempste-Shafer evidence theory is used to analyse the quality of the spectral training sites and a modified linear spectral unmixing technique is selected to produce abundancies of the spectral endmembers. The hard classification provides very good results, with a Kappa value of 0.86. The Dempster\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}Shafer ambiguity underlines the good quality of the training sites and the probability guided spectral unmixing is chosen for the determination of plant functional types for the land model. A similar model run with a spatial distribution of land cover from both the hard and the soft classification processes clearly points to more realistic model results by using the land surface based on the probability guided spectral unmixing technique.}
+      \field{issn}{0143-1161}
+      \field{journaltitle}{International Journal of Remote Sensing}
+      \field{month}{04}
+      \field{number}{8}
+      \field{title}{Land-cover classification in the Andes of southern Ecuador using Landsat ETM+ data as a basis for SVAT modelling}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{30}
+      \field{year}{2009}
+      \field{pages}{1867\bibrangedash 1886}
+      \verb{doi}
+      \verb 10.1080/01431160802541531
+      \endverb
+      \verb{file}
+      \verb Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\D7QG94B3\\01431160802541531.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1080/01431160802541531
+      \endverb
+    \endentry
+    \entry{Trachte2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=1b8aa0823a8c38f2ec3c7c03dbe4da2b}{Trachte}{T\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=1b8aa0823a8c38f2ec3c7c03dbe4da2b}{Trachte}{T\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=410f240e482b2412bce36297d5960ff8}{Nauss}{N\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=6b73e29bc8e35a827bbd087fce9b207a}{Bendix}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7c6159311d03f8e1ea81c3f043ccdca4}
+      \strng{fullhash}{7c6159311d03f8e1ea81c3f043ccdca4}
+      \field{sortinit}{2}
+      \field{labelyear}{2009}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The {Impact} of {Different} {Terrain} {Configurations} on the {Formation} and {Dynamics} of {Katabatic} {Flows}}
+      \field{abstract}{Impacts of different terrain configurations on the general behaviour of idealised katabatic flows are investigated in a numerical model study. Various simplified terrain models are applied to unveil modifications of the dynamics of nocturnal cold drainage of air as a result of predefined topographical structures. The generated idealised terrain models encompass all major topographical elements of an area in the tropical eastern Andes of southern Ecuador and northern Peru, and the adjacent Amazon. The idealised simulations corroborate that (i) katabatic flows develop over topographical elements (slopes and valleys), that (ii) confluence of katabatic flows in a lowland basin with a concave terrainline occur, and (iii) a complex drainage flow system regime directed into such a basin can sustain the confluence despite varying slope angles and slope distances.}
+      \field{issn}{0006-8314, 1573-1472}
+      \field{journaltitle}{Boundary-Layer Meteorology}
+      \field{month}{11}
+      \field{number}{2}
+      \field{shorttitle}{The {Impact} of {Different} {Terrain} {Configurations} on the {Formation} and {Dynamics} of {Katabatic} {Flows}}
+      \field{title}{The {Impact} of {Different} {Terrain} {Configurations} on the {Formation} and {Dynamics} of {Katabatic} {Flows}: {Idealised} {Case} {Studies}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{134}
+      \field{year}{2009}
+      \field{pages}{307\bibrangedash 325}
+      \verb{doi}
+      \verb 10.1007/s10546-009-9445-8
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\A4INPW4R\\Trachte et al. - 2009 - The Impact of Different Terrain Configurations on .pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\QU4CMPCJ\\10.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/article/10.1007/s10546-009-9445-8
+      \endverb
+      \keyw{Atmospheric Protection/Air Quality Control/Air Pollution,Confluence,Katabatic flows,Meteorology/Climatology,Numerical simulation,Terrain configuration}
+    \endentry
     \entry{Wilton2009}{report}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=872adbc8e978f813dd7698c2f39126ef}{Wilton}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
@@ -168,17 +1033,17 @@
     \endentry
     \entry{Appelhans2010b}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3d738c4fcaf638de7e26d8e2a7f7b7a8}{Sturman}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3d738c4fcaf638de7e26d8e2a7f7b7a8}{Sturman}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{23656388ff3f6744c2417b464bf17229}
-      \strng{fullhash}{23656388ff3f6744c2417b464bf17229}
+      \strng{namehash}{ab65d8f2d2d862b9d9d96d15b3361df7}
+      \strng{fullhash}{ab65d8f2d2d862b9d9d96d15b3361df7}
       \field{sortinit}{2}
       \field{labelyear}{2010}
       \field{datelabelsource}{}
@@ -195,15 +1060,15 @@
     \endentry
     \entry{Appelhans2010a}{article}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{bf980b5d60e5ca501b5ecaeef8ff9b3b}
-      \strng{fullhash}{bf980b5d60e5ca501b5ecaeef8ff9b3b}
+      \strng{namehash}{f8172adadda92ca1de3d92c8005da454}
+      \strng{fullhash}{f8172adadda92ca1de3d92c8005da454}
       \field{sortinit}{2}
       \field{labelyear}{2010}
       \field{datelabelsource}{}
@@ -215,21 +1080,109 @@
       \field{year}{2010}
       \field{pages}{24\bibrangedash 29}
     \endentry
+    \entry{Kuehnlein2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=b787208c7807efff10e5b0b3e08a5eb8}{K\x{fffd}\x{fffd}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=b787208c7807efff10e5b0b3e08a5eb8}{K\x{fffd}\x{fffd}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{aab99321f2dbd67a69cf65bbc76401a4}
+      \strng{fullhash}{aab99321f2dbd67a69cf65bbc76401a4}
+      \field{sortinit}{2}
+      \field{labelyear}{2010}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Rainfall-{Rate} {Assignment} {Using} {MSG} {SEVIRI} {Data}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}{A} {Promising} {Approach} to {Spaceborne} {Rainfall}-{Rate} {Retrieval} for {Midlatitudes}}
+      \field{abstract}{The potential of rainfall-rate assignment using Meteosat Second Generation (MSG) Spinning Enhanced Visible and Infrared Instrument (SEVIRI) data is investigated. For this purpose, a new conceptual model for precipitation processes in connection with midlatitude cyclones is developed, based on the assumption that high rainfall rates are linked to a high optical thickness and a large effective particle radius, whereas low rainfall rates are linked to a low optical thickness and a small effective particle radius. Reflection values in the 0.56\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}0.71-\x{fffd}\x{fffd}\x{fffd}\x{fffd}m (VIS0.6) and 1.5\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}1.78-\x{fffd}\x{fffd}\x{fffd}\x{fffd}m (NIR1.6) channels, which provide information about the optical thickness and the effective radius, are considered in lieu of the optical and microphysical cloud properties. An analysis of the relationship between VIS0.6 and NIR1.6 reflection and the ground-based rainfall rate revealed a high correlation between the sensor signal and the rainfall rate. Based on these findings, a method for rainfall-rate assignment as a function of VIS0.6 and NIR1.6 reflection is proposed. The validation of the proposed technique showed encouraging results, especially for temporal resolutions of 6 and 12 h. This is a significant improvement compared to existing IR retrievals, which obtain comparable results for monthly resolution. The existing relationship between the VIS0.6 and NIR1.6 reflection values and the ground-based rainfall rate is corroborated with the new conceptual model. The good validation results indicate the high potential for rainfall retrieval in the midlatitudes with the high spatial and temporal resolution provided by MSG SEVIRI.}
+      \field{issn}{1558-8424}
+      \field{journaltitle}{Journal of Applied Meteorology and Climatology}
+      \field{month}{03}
+      \field{number}{7}
+      \field{title}{Rainfall-{Rate} {Assignment} {Using} {MSG} {SEVIRI} {Data}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}{A} {Promising} {Approach} to {Spaceborne} {Rainfall}-{Rate} {Retrieval} for {Midlatitudes}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{49}
+      \field{year}{2010}
+      \field{pages}{1477\bibrangedash 1495}
+      \verb{doi}
+      \verb 10.1175/2010JAMC2284.1
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\U3V8I5SC\\K\x{fffd}\x{fffd}hnlein et al. - 2010 - Rainfall-Rate Assignment Using MSG SEVIRI Data\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}A P.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\W2ID6NSC\\2010JAMC2284.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://journals.ametsoc.org/doi/abs/10.1175/2010JAMC2284.1
+      \endverb
+    \endentry
+    \entry{Thies2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=28ed05573eafb8d05a31dc13bb4b2432}{Turek}{T\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=28ed05573eafb8d05a31dc13bb4b2432}{Turek}{T\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d71f9a3fd215c20b3b3d61273c8bb4bd}
+      \strng{fullhash}{d71f9a3fd215c20b3b3d61273c8bb4bd}
+      \field{sortinit}{2}
+      \field{labelyear}{2010}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Weather type dependent quality assessment of a satellite-based rainfall detection scheme for the mid-latitudes}
+      \field{abstract}{The sensitivity of a recently published satellite-based rainfall detection scheme with differing frontal weather regimes is investigated for 676 precipitation scenes between January and August 2004. For this purpose, the rain area classified by the recent Rain Area Delineation Scheme during Night time (RADS-N) was compared to the rain area detected by the radar network of the German Weather Service. The validation results indicate that the rain area detected by RADS-N is highly consistent with the radar network (mean POD: 0.62; mean FAR: 0.52; mean ETS: 0.22). However, the bias indicates a mean overestimation of 42\%. The classification results show that the satellite technique performs better in cold frontal situations and thunderstorms. Therefore, further investigations are needed to address the overall performance as well as the dependency on different weather situations and in order to allow reliable rain area detection during night-time, independent of the prevailing weather situation.}
+      \field{issn}{0177-7971, 1436-5065}
+      \field{journaltitle}{Meteorology and Atmospheric Physics}
+      \field{month}{06}
+      \field{number}{3-4}
+      \field{title}{Weather type dependent quality assessment of a satellite-based rainfall detection scheme for the mid-latitudes}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{107}
+      \field{year}{2010}
+      \field{pages}{81\bibrangedash 89}
+      \verb{doi}
+      \verb 10.1007/s00703-010-0076-x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\C7UDP85G\\Thies et al. - 2010 - Weather type dependent quality assessment of a sat.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\SMDHJDES\\10.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/article/10.1007/s00703-010-0076-x
+      \endverb
+      \keyw{Atmospheric Protection/Air Quality Control/Air Pollution,Climate change,Math. Appl. in Environmental Science,Meteorology/Climatology,Terrestrial Pollution,Waste Water Technology / Water Pollution Control / Water Management / Aquatic Pollution}
+    \endentry
     \entry{Zawar-Reza2010}{article}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=7df81f9ce60f1cee9c901149d9fe3383}{\textbf{T.\bibnamedelimi Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=85025cc11102709945c9285c613ca005}{Appelhans}{A\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=81c9530e52b90e786290f1d6e090cf46}{Gharaylou}{G\bibinitperiod}{Maryam}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=29394208d0b11cdae67fec3dc468be83}{Shamsipour}{S\bibinitperiod}{AliAkbar}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=7df81f9ce60f1cee9c901149d9fe3383}{\textbf{T.\bibnamedelimi Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=85025cc11102709945c9285c613ca005}{Appelhans}{A\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=81c9530e52b90e786290f1d6e090cf46}{Gharaylou}{G\bibinitperiod}{Maryam}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=29394208d0b11cdae67fec3dc468be83}{Shamsipour}{S\bibinitperiod}{AliAkbar}{A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{274ce4570f9cff40217346dd6ccd1a30}
-      \strng{fullhash}{274ce4570f9cff40217346dd6ccd1a30}
+      \strng{namehash}{3208cebb6920150e27a6da92a13296c8}
+      \strng{fullhash}{3208cebb6920150e27a6da92a13296c8}
       \field{sortinit}{2}
       \field{labelyear}{2010}
       \field{datelabelsource}{}
@@ -244,22 +1197,149 @@
       \verb http://dx.doi.org/10.1504/IJEP.2010.032252
       \endverb
     \endentry
+    \entry{Bendix2011}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=1,hash=9fb7acc2afc265cd3234fad339694845}{Bendix}{B\bibinitperiod}{Joerg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b08e8f85eac8fd3897b8aa5ed9231f26}{Trache}{T\bibinitperiod}{Katja}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6cc6202b7965e6d0d1420c897a3401d8}{Palacios}{P\bibinitperiod}{Enrique}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=833e3cb8b1cab16b26b51a5c23bff0ad}{Rollenbeck}{R\bibinitperiod}{Ruetger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9a9e478afb4ad106de4aef6a65da3321}{Goettlicher}{G\bibinitperiod}{Dietrich}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=1d764b4ef13df8caf7a8dfdbdda548ac}{Bendix}{B\bibinitperiod}{Astrid}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=1,hash=9fb7acc2afc265cd3234fad339694845}{Bendix}{B\bibinitperiod}{Joerg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b08e8f85eac8fd3897b8aa5ed9231f26}{Trache}{T\bibinitperiod}{Katja}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6cc6202b7965e6d0d1420c897a3401d8}{Palacios}{P\bibinitperiod}{Enrique}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=833e3cb8b1cab16b26b51a5c23bff0ad}{Rollenbeck}{R\bibinitperiod}{Ruetger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9a9e478afb4ad106de4aef6a65da3321}{Goettlicher}{G\bibinitperiod}{Dietrich}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=1d764b4ef13df8caf7a8dfdbdda548ac}{Bendix}{B\bibinitperiod}{Astrid}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0e8ba0ee029f237882336ff2c5d489a6}
+      \strng{fullhash}{0e8ba0ee029f237882336ff2c5d489a6}
+      \field{sortinit}{2}
+      \field{labelyear}{2011}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{El Ni\x{fffd}\x{fffd}o meets La Ni\x{fffd}\x{fffd}a \x{fffd}\x{fffd}\x{fffd} anomalous rainfall patterns in the \x{fffd}\x{fffd}\x{fffd}traditional\x{fffd}\x{fffd}\x{fffd} El Ni\x{fffd}\x{fffd}o region of southern Ecuador}
+      \field{abstract}{In this paper, the central Pacific cold event of 2008 and its exceptionally warm conditions in the eastern tropical Pacific are analyzed by using rainfall data of south Ecuadorian meteorological stations, sea surface temperatures in the El Ni\x{fffd}\x{fffd}o3 and 1+2 regions, and simulations with the Weather Research and Forecasting (WRF) model. It can be shown that El Ni\x{fffd}\x{fffd}o-like rainfall conditions with severe inundations occur particularly in the coastal plains of southern Ecuador while a central Pacific cold event prevails. In contrary to previous situations, positive rainfall anomalies as a result of El Ni\x{fffd}\x{fffd}o-like conditions in the El Ni\x{fffd}\x{fffd}o1+2 region during the 2008 La Ni\x{fffd}\x{fffd}a event occurred in both regions, the coastal plains and the highlands, for the first time. A detailed analysis of the ocean-atmosphere system during episodes of heavy rainfall reveals typical El Ni\x{fffd}\x{fffd}o circulation and rainfall patterns as observed during previous El Ni\x{fffd}\x{fffd}o events for the coastal area and La Ni\x{fffd}\x{fffd}a-like conditions for the highlands. The spreading of Pacific instability in the Ni\x{fffd}\x{fffd}o1+2 region to the eastern escarpment of the Andes could be the result of a temporary eastward shift of the Walker circulation. The unusual combination of El Ni\x{fffd}\x{fffd}o-like conditions in the eastern tropical Pacific during a La Ni\x{fffd}\x{fffd}a state in the central Pacific is the newest indicator for an impact mode shift regarding severe rainfall anomalies during El Ni\x{fffd}\x{fffd}o/La Ni\x{fffd}\x{fffd}a events in the traditional El Ni\x{fffd}\x{fffd}o area of southern Ecuador since the end of the last century. Since 2000, El Ni\x{fffd}\x{fffd}o events unexpectedly provide below average rainfall while central Pacific La Ni\x{fffd}\x{fffd}a conditions generate exceptional severe flooding in the normally drier coastal plains. The novel sea surface temperature (SST) anomaly dipole structure between the eastern and central/western tropical Pacific and the weakening of El Ni\x{fffd}\x{fffd}o events since 2000 could be due to natural decadal oscillations in the El Ni\x{fffd}\x{fffd}o background state, the Pacific Decadal Oscillation (PDO). However, the observed atmospheric patterns and the recent increase of the SST anomaly difference between the central and the eastern tropical Pacific resemble structures that also result from climate change simulations.}
+      \field{issn}{00140015}
+      \field{journaltitle}{ERDKUNDE}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{El Ni\x{fffd}\x{fffd}o meets La Ni\x{fffd}\x{fffd}a \x{fffd}\x{fffd}\x{fffd} anomalous rainfall patterns in the \x{fffd}\x{fffd}\x{fffd}traditional\x{fffd}\x{fffd}\x{fffd} El Ni\x{fffd}\x{fffd}o region of southern Ecuador}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{65}
+      \field{year}{2011}
+      \field{pages}{151\bibrangedash 167}
+      \verb{doi}
+      \verb 10.3112/erdkunde.2011.02.04
+      \endverb
+      \verb{url}
+      \verb http://www.erdkunde.uni-bonn.de/archive/2011/el-nino-meets-la-nina-2013-anomalous-rainfall-patterns-in-the-201ctraditional201d-el-nino-region-of-southern-ecuador
+      \endverb
+    \endentry
+    \entry{Goettlilcher2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=979eedfa2c98112b19d6c4ed80699aa0}{G\x{fffd}\x{fffd}ttlilcher}{G\bibinitperiod}{Dietrich}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=26743636d1fda658c0eb90edb4eacde7}{Albert}{A\bibinitperiod}{Janina}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=979eedfa2c98112b19d6c4ed80699aa0}{G\x{fffd}\x{fffd}ttlilcher}{G\bibinitperiod}{Dietrich}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=26743636d1fda658c0eb90edb4eacde7}{Albert}{A\bibinitperiod}{Janina}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3263678c323a0155403a08b19e371d8d}
+      \strng{fullhash}{3263678c323a0155403a08b19e371d8d}
+      \field{sortinit}{2}
+      \field{labelyear}{2011}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Optical properties of selected plants from a tropical mountain ecosystem Traits for plant functional types to parametrize a land surface model}
+      \field{abstract}{The optical properties (reflectance and transmittance) of selected leaves from a tropical mountain rainforest in southern Ecuador are determined to parametrize optical traits of plant functional types (PFT) of a state of the art land model (Community Land Model, CLM). 46 spatially dominating species are selected from 4 different forest types, the subp\x{fffd}\x{fffd}\x{fffd}\x{fffd}ramo and a succession stage of pasture areas representing ecologically predefined functional types within the study area. Measurements are conducted under a standardized experimental setup with a field spectrometer covering the radiation between 305 and 1305 nm. The results of the optical properties of all species are checked for similarity by cluster analysis and are compared to the composition of species of the predefined PFTs. Furthermore the results are compared to other studies, the default values for the globally defined PFT of tropical evergreen trees in the CLM and another forest growth model operated in the same study area. The results show that the clusters aggregated by the reflectance, transmittance or combined properties do not represent the predefined PFTs. The values of the other studies suggest a reassessment of the experimental setup for the transmittance measurements. Nevertheless, new reflectance values for the regionalized PFTs can be determined. The optical values differ from the CLM-PFT of tropical evergreen trees, and new values for the reflectance are recommended.}
+      \field{issn}{0304-3800}
+      \field{journaltitle}{Ecological Modelling}
+      \field{month}{02}
+      \field{number}{3}
+      \field{title}{Optical properties of selected plants from a tropical mountain ecosystem Traits for plant functional types to parametrize a land surface model}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{222}
+      \field{year}{2011}
+      \field{pages}{493\bibrangedash 502}
+      \verb{doi}
+      \verb 10.1016/j.ecolmodel.2010.09.021
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\H3PQQRAQ\\G\x{fffd}\x{fffd}ttlicher et al. - 2011 - Optical properties of selected plants from a tropi.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\4EBER6KQ\\S0304380010004928.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0304380010004928
+      \endverb
+      \keyw{CLM,Ecuador,Reflectance,SVAT,Transmittance}
+    \endentry
+    \entry{Nauss2011}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ae8f78dbd5277d9c4743c7a20270bcb2}{Kokhanovsky}{K\bibinitperiod}{Alexander\bibnamedelima A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ae8f78dbd5277d9c4743c7a20270bcb2}{Kokhanovsky}{K\bibinitperiod}{Alexander\bibnamedelima A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6d9eac8e50d3eb0b5fe216f44eaf692f}
+      \strng{fullhash}{6d9eac8e50d3eb0b5fe216f44eaf692f}
+      \field{sortinit}{2}
+      \field{labelyear}{2011}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Retrieval of warm cloud optical properties using simple approximations}
+      \field{abstract}{A new technique relying on SimpLe Approximations for cLOudy Media (SLALOM) for the retrieval of cloud optical and microphysical parameters from optical satellite data during daytime is introduced. The technique is based on simple yet highly accurate approximations of the asymptotic solutions of the radiative transfer theory which have already been implemented in the forward radiative transfer model CLOUD. These approximations enable a solution of the equations of the corresponding backward model during runtime leading to a very fast computation speed. Since these asymptotic solutions are generally applicable to weakly absorbing media only, pre-calculated look-up tables for the reflection function of a semi-infinite cloud (and also the escape function) are used to overcome this restriction within this new retrieval. SLALOM is capable of retrieving the cloud optical thickness, the effective cloud droplet radius, the liquid and ice water paths, the particle absorption length as well as some other properties of water and ice clouds. The comparison of SLALOM with both exact radiative transfer computations and the NASA MODIS cloud property product shows a very good agreement. A Fortran implementation of both CLOUD and SLALOM is available for download under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 license (see http://creativecommons.org/licenses/by-nc-sa/3.0) at http://www.klimatologie.uni-bayreuth.de.}
+      \field{issn}{0034-4257}
+      \field{journaltitle}{Remote Sensing of Environment}
+      \field{month}{06}
+      \field{number}{6}
+      \field{title}{Retrieval of warm cloud optical properties using simple approximations}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{115}
+      \field{year}{2011}
+      \field{pages}{1317\bibrangedash 1325}
+      \verb{doi}
+      \verb 10.1016/j.rse.2011.01.010
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\KX37FB8N\\Nauss and Kokhanovsky - 2011 - Retrieval of warm cloud optical properties using s.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\65N5EGT9\\S0034425711000307.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0034425711000307
+      \endverb
+      \keyw{Cloud properties,Radiative transfer,Satellite retrieval}
+    \endentry
     \entry{Appelhans2013}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3d738c4fcaf638de7e26d8e2a7f7b7a8}{Sturman}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3d738c4fcaf638de7e26d8e2a7f7b7a8}{Sturman}{S\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=13401f00fc1f21a806f6eb5ae98a79a3}{Zawar-Reza}{Z\bibinithyphendelim R\bibinitperiod}{Peyman}{P\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {John Wiley & Sons, Ltd.}%
       }
-      \strng{namehash}{23656388ff3f6744c2417b464bf17229}
-      \strng{fullhash}{23656388ff3f6744c2417b464bf17229}
+      \strng{namehash}{ab65d8f2d2d862b9d9d96d15b3361df7}
+      \strng{fullhash}{ab65d8f2d2d862b9d9d96d15b3361df7}
       \field{sortinit}{2}
       \field{labelyear}{2012}
       \field{datelabelsource}{}
@@ -279,40 +1359,138 @@
       \endverb
       \keyw{synoptic climatology,air pollution climatology,particulate matter,PM10,New Zealand,Southern Hemisphere,CART}
     \endentry
+    \entry{Ayanu2012}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=3ec6f636286bd54373028882c10d81b0}{Ayanu}{A\bibinitperiod}{Yohannes\bibnamedelima Zergaw}{Y\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ce6df4824f043cd7389f7ebb566f458b}{Conrad}{C\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ad6d1a4156f2b6107a63cbc979522ab2}{Wegmann}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=307cf856b5e5e9533b1bfd22aa795051}{Koellner}{K\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=3ec6f636286bd54373028882c10d81b0}{Ayanu}{A\bibinitperiod}{Yohannes\bibnamedelima Zergaw}{Y\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ce6df4824f043cd7389f7ebb566f458b}{Conrad}{C\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ad6d1a4156f2b6107a63cbc979522ab2}{Wegmann}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=307cf856b5e5e9533b1bfd22aa795051}{Koellner}{K\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{588107392916bad164cab4d25f687b95}
+      \strng{fullhash}{588107392916bad164cab4d25f687b95}
+      \field{sortinit}{2}
+      \field{labelyear}{2012}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Quantifying and {Mapping} {Ecosystem} {Services} {Supplies} and {Demands}}
+      \field{abstract}{Ecosystems provide services necessary for the livelihoods and well-being of people. Quantifying and mapping supplies and demands of ecosystem services is essential for continuous monitoring of such services to support decision-making. Area-wide and spatially explicit mapping of ecosystem services based on extensive ground surveys is restricted to local scales and limited due to high costs. In contrast, remote sensing provides reliable area-wide data for quantifying and mapping ecosystem services at comparatively low costs, and with the option of fast, frequent, and continuous observations for monitoring. In this paper, we review relevant remote sensing systems, sensor types, and methods applicable in quantifying selected provisioning and regulatory services. Furthermore, opportunities, challenges, and future prospects in using remote sensing for supporting ecosystem services? quantification and mapping are discussed.}
+      \field{issn}{0013-936X}
+      \field{journaltitle}{Environmental Science \& Technology}
+      \field{month}{08}
+      \field{number}{16}
+      \field{shorttitle}{Quantifying and {Mapping} {Ecosystem} {Services} {Supplies} and {Demands}}
+      \field{title}{Quantifying and {Mapping} {Ecosystem} {Services} {Supplies} and {Demands}: {A} {Review} of {Remote} {Sensing} {Applications}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{46}
+      \field{year}{2012}
+      \field{pages}{8529\bibrangedash 8541}
+      \verb{doi}
+      \verb 10.1021/es300157u
+      \endverb
+      \verb{file}
+      \verb ACS Full Text PDF w/ Links:D\:\\private\\thomas\\pim\\zotero\\storage\\PM8UJ7UQ\\Ayanu et al. - 2012 - Quantifying and Mapping Ecosystem Services Supplie.pdf:application/pdf;ACS Full Text Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\B6RBFIGZ\\es300157u.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/es300157u
+      \endverb
+    \endentry
+    \entry{Fries2012}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=d618b626d8b2a9b6c29e0db0d339d767}{Fries}{F\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=2bfa7f6d6621f225afe8a4878554b3f0}{Peters}{P\bibinitperiod}{Thorsten}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=d618b626d8b2a9b6c29e0db0d339d767}{Fries}{F\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=018246f1a6717dbaf42510dede261429}{Rollenbeck}{R\bibinitperiod}{R\x{fffd}\x{fffd}tger}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=2bfa7f6d6621f225afe8a4878554b3f0}{Peters}{P\bibinitperiod}{Thorsten}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bb4a4ba5e7b57730133a605f7a7023ff}
+      \strng{fullhash}{bb4a4ba5e7b57730133a605f7a7023ff}
+      \field{sortinit}{2}
+      \field{labelyear}{2012}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Near surface air humidity in a megadiverse {Andean} mountain ecosystem of southern {Ecuador} and its regionalization}
+      \field{abstract}{The near surface humidity in a megadiverse mountain ecosystem in southern Ecuador is examined on the basis of Relative Humidity (RH) measurements inside the natural mountain forest and at open sites along an altitudinal gradient from 1700 to 3200 m. The main methodological aim of the current study is to generate a humidity regionalization tool to provide spatial datasets on average monthly mean, minimum and maximum RH, Specific Humidity (q) and Specific Saturation Deficit (DS) by using observation data of RH. The maps based on data of the period 1999\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2009 are needed by ecological projects working on various plots where no climate station data are available. The humidity maps are generated by combining a straightforward detrending technique with a Digital Elevation Model and a satellite-based land cover classification which also provides the relative forest cover per pixel. The topical aim of the study is to investigate the humidity distribution and structure of both manifestations of our ecosystem (pastures and natural vegetation) with special considerations to the ecosystem regulation service by converting natural forest into pasture. The results reveal a clear differentiation over the year, partly triggered by the change of synoptic weather situation but also by land cover effects. Humidity amplitudes are particularly low during the main rainy season when cloudiness and rainfall are high, but markedly pronounced in the relative dry season when daily irradiance and outgoing nocturnal radiation causes distinct differences between the land cover units. Particularly the upper pasture areas gained by slash and burn of the natural forest exhibit the lowest humidity values while the humidity inside the mountain forest is significantly higher due to the regulating effects of the dense vegetation. Thus, clearing the forest clearly reduces the regulation function (regulating ecosystem services) of the ecosystem which might become problematic for reforestation under future global warming.}
+      \field{issn}{0168-1923}
+      \field{journaltitle}{Agricultural and Forest Meteorology}
+      \field{month}{01}
+      \field{title}{Near surface air humidity in a megadiverse {Andean} mountain ecosystem of southern {Ecuador} and its regionalization}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{152}
+      \field{year}{2012}
+      \field{pages}{17\bibrangedash 30}
+      \verb{doi}
+      \verb 10.1016/j.agrformet.2011.08.004
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\RU8FEJQK\\Fries et al. - 2012 - Near surface air humidity in a megadiverse Andean .pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\9IH4MBIP\\S0168192311002619.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0168192311002619
+      \endverb
+      \keyw{Distribution,Forest and open land,Near surface humidity,Regionalization,South Ecuador,structure}
+    \endentry
     \entry{Kuehnlein2013}{article}{}
       \name{labelname}{5}{}{%
-        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=7df81f9ce60f1cee9c901149d9fe3383}{\textbf{T.\bibnamedelimi Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b787208c7807efff10e5b0b3e08a5eb8}{K\x{fffd}\x{fffd}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=ae8f78dbd5277d9c4743c7a20270bcb2}{Kokhanovsky}{K\bibinitperiod}{Alexander\bibnamedelima A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
-        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=7df81f9ce60f1cee9c901149d9fe3383}{\textbf{T.\bibnamedelimi Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b787208c7807efff10e5b0b3e08a5eb8}{K\x{fffd}\x{fffd}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=ae8f78dbd5277d9c4743c7a20270bcb2}{Kokhanovsky}{K\bibinitperiod}{Alexander\bibnamedelima A.}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{a18a5be43060fb42baa03556c12181c9}
-      \strng{fullhash}{a18a5be43060fb42baa03556c12181c9}
+      \strng{namehash}{3a813626446edc849549bca57db8bfa1}
+      \strng{fullhash}{3a813626446edc849549bca57db8bfa1}
       \field{sortinit}{2}
       \field{labelyear}{2013}
+      \field{labelmonth}{03}
       \field{datelabelsource}{}
-      \field{labeltitle}{An evaluation of a semi-analytical cloud property retrieval using MSG SEVIRI, MODIS and CloudSat}
+      \field{labeltitle}{An evaluation of a semi-analytical cloud property retrieval using {MSG} {SEVIRI}, {MODIS} and {CloudSat}}
+      \field{abstract}{Knowledge of cloud properties such as cloud effective radius (aef) and optical thickness (\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}) is essential to understand their role in the dynamic radiation budget and climate change. The Spinning Enhanced Visible and Infrared Instrument (SEVIRI) on board Meteosat Second Generation (MSG) with its high temporal resolution (15 min), permits a quasi-continuous monitoring of the evolution of cloud properties. This has motivated the adaptation of the SLALOM (SimpLe Approximations for cLOudy Media) algorithm, a semi-analytical cloud property retrieval technique to MSG SEVIRI. The optical properties retrieved by SLALOM are compared against the well known and validated NASA MODIS cloud property product (MODIS 06) as well as the cloud optical depth product (2B-TAU) of CloudSat. The results are shown over the North Atlantic and over the European continent with the intention of determine the relative accuracy between SLALOM and the other retrievals. Over the North Atlantic, SLALOM-based cloud properties retrieved from SEVIRI datasets show a good agreement with the MODIS 06 product with correlation coefficients of 0.93 (\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}) and 0.82 (aef). The largest deviations were found in less homogeneous cloud areas that are characterized by broken clouds and toward the cloud borders. Moreover, SLALOM optical thickness values are well within the range of corresponding CloudSat 2B-TAU optical thickness values which can be found within a SEVIRI pixel, except for \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} \&lt; 5 where SLALOM tends to overestimate \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}. Despite the different sensor characteristics and viewing geometries, the retrieved cloud properties compare very well. Over Europe, the evaluation between SLALOM and MODIS 06 showed larger differences. We attribute this to (a) uncertainties related to the surface albedo which is treated differently in the algorithms and is based on different albedo maps and (b) inhomogeneities of clouds which exhibit quite complex structures particularly over land. The latter are detected on different scales by MODIS and SEVIRI because of their different spatial resolutions. Given the demonstrated accuracy of SLALOM using MSG SEVIRI data there is a wide spread of potential applications.}
       \field{issn}{0169-8095}
       \field{journaltitle}{Atmospheric Research}
-      \field{title}{An evaluation of a semi-analytical cloud property retrieval using MSG SEVIRI, MODIS and CloudSat}
+      \field{month}{03}
+      \field{title}{An evaluation of a semi-analytical cloud property retrieval using {MSG} {SEVIRI}, {MODIS} and {CloudSat}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
       \field{volume}{122}
       \field{year}{2013}
       \field{pages}{111\bibrangedash 135}
       \verb{doi}
       \verb 10.1016/j.atmosres.2012.10.029
       \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\52DVK4DR\\K\x{fffd}\x{fffd}hnlein et al. - 2013 - An evaluation of a semi-analytical cloud property .pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\SARS29ND\\S0169809512003833.html:text/html
+      \endverb
       \verb{url}
       \verb http://www.sciencedirect.com/science/article/pii/S0169809512003833
       \endverb
-      \keyw{Cloud properties,Satellite retrieval,SLALOM,MSG SEVIRI,CloudSat,MODIS}
+      \keyw{Cloud properties,CloudSat,MODIS,MSG SEVIRI,Satellite retrieval,SLALOM}
     \endentry
     \entry{Appelhans2013a}{inproceedings}{}
       \name{labelname}{2}{}{%
@@ -341,52 +1519,61 @@
     \endentry
     \entry{Kuehnlein2014}{article}{}
       \name{labelname}{4}{}{%
-        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b787208c7807efff10e5b0b3e08a5eb8}{K\x{fffd}\x{fffd}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
-        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b787208c7807efff10e5b0b3e08a5eb8}{K\x{fffd}\x{fffd}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{e679acfac44842c4e9cb887f905c12df}
-      \strng{fullhash}{e679acfac44842c4e9cb887f905c12df}
+      \strng{namehash}{b79851bf3fc59a74d598dea6957d11ef}
+      \strng{fullhash}{b79851bf3fc59a74d598dea6957d11ef}
       \field{sortinit}{2}
       \field{labelyear}{2014}
+      \field{labelmonth}{09}
       \field{datelabelsource}{}
-      \field{labeltitle}{Precipitation Estimates from MSG SEVIRI Daytime, Nighttime, and Twilight Data with Random Forests}
+      \field{labeltitle}{Precipitation {Estimates} from {MSG} {SEVIRI} {Daytime}, {Nighttime}, and {Twilight} {Data} with {Random} {Forests}}
+      \field{abstract}{A new rainfall retrieval technique for determining rainfall rates in a continuous manner (day, twilight, and night) resulting in a 24-h estimation applicable to midlatitudes is presented. The approach is based on satellite-derived information on cloud-top height, cloud-top temperature, cloud phase, and cloud water path retrieved from Meteosat Second Generation (MSG) Spinning Enhanced Visible and Infrared Imager (SEVIRI) data and uses the random forests (RF) machine-learning algorithm. The technique is realized in three steps: (i) precipitating cloud areas are identified, (ii) the areas are separated into convective and advective-stratiform precipitating areas, and (iii) rainfall rates are assigned separately to the convective and advective-stratiform precipitating areas. Validation studies were carried out for each individual step as well as for the overall procedure using collocated ground-based radar data. Regarding each individual step, the models for rain area and convective precipitation detection produce good results. Both retrieval steps show a general tendency toward elevated prediction skill during summer months and daytime. The RF models for rainfall-rate assignment exhibit similar performance patterns, yet it is noteworthy how well the model is able to predict rainfall rates during nighttime and twilight. The performance of the overall procedure shows a very promising potential to estimate rainfall rates at high temporal and spatial resolutions in an automated manner. The near-real-time continuous applicability of the technique with acceptable prediction performances at 3\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}8-hourly intervals is particularly remarkable. This provides a very promising basis for future investigations into precipitation estimation based on machine-learning approaches and MSG SEVIRI data.}
+      \field{issn}{1558-8424}
       \field{journaltitle}{Journal of Applied Meteorology and Climatology}
+      \field{month}{09}
       \field{number}{11}
-      \field{title}{Precipitation Estimates from MSG SEVIRI Daytime, Nighttime, and Twilight Data with Random Forests}
+      \field{title}{Precipitation {Estimates} from {MSG} {SEVIRI} {Daytime}, {Nighttime}, and {Twilight} {Data} with {Random} {Forests}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
       \field{volume}{53}
       \field{year}{2014}
       \field{pages}{2457\bibrangedash 2480}
       \verb{doi}
-      \verb http://dx.doi.org/10.1175/JAMC-D-14-0082.1
+      \verb 10.1175/JAMC-D-14-0082.1
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\5J8EWFZ9\\K\x{fffd}\x{fffd}hnlein et al. - 2014 - Precipitation Estimates from MSG SEVIRI Daytime, N.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\QRR6X6HV\\JAMC-D-14-0082.html:text/html
       \endverb
       \verb{url}
       \verb http://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-14-0082.1
       \endverb
-      \keyw{Precipitation,Rainfall,Remote sensing}
     \endentry
     \entry{Kuehnlein2014a}{article}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{eeb4964750b57cd9d7bd4d0553b614ed}
-      \strng{fullhash}{eeb4964750b57cd9d7bd4d0553b614ed}
+      \strng{namehash}{191e0915d46a8e276b527b2a13458544}
+      \strng{fullhash}{191e0915d46a8e276b527b2a13458544}
       \field{sortinit}{2}
       \field{labelyear}{2014}
       \field{datelabelsource}{}
@@ -398,40 +1585,134 @@
       \field{pages}{129\bibrangedash 143}
       \keyw{Optical sensors}
     \endentry
-    \entry{Appelhans2015b}{article}{}
+    \entry{Thies2014}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea4cf49f7927ab044e101d44246fab4a}{Meyer}{M\bibinitperiod}{Hanna}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=b19823c02c0a18103fad752b83379b6c}{Thies}{T\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea4cf49f7927ab044e101d44246fab4a}{Meyer}{M\bibinitperiod}{Hanna}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=8e01afe4daca0aca8fd4449591d5587e}{Bendix}{B\bibinitperiod}{J\x{fffd}\x{fffd}rg}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8b862129ce392321c4d2a6d25d75c634}
+      \strng{fullhash}{8b862129ce392321c4d2a6d25d75c634}
+      \field{sortinit}{2}
+      \field{labelyear}{2014}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Projecting land-use and land-cover changes in a tropical mountain forest of {Southern} {Ecuador}}
+      \field{abstract}{Land-use and land-cover changes (LULCC) affect local climate. Human-induced deforestation is a common phenomenon of LULCC. This also holds true for the biodiversity hotspot in the Andes of Ecuador. This study assesses the possibility to project LULCC to future time steps with a focus on deforestation in the San Francisco valley in South Ecuador. A business-as-usual scenario based on two Landsat scenes from 1987 and 2001 was created to project LULCC until 2006. The uncertainty assessment indicated the difficulty of projecting human impact on the ecosystem since circumstances of LULCC in the study area cannot be assumed to stay invariant. The projection performs better than a naive model relying on slope as its suitability factor.}
+      \field{issn}{1747-423X}
+      \field{journaltitle}{Journal of Land Use Science}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Projecting land-use and land-cover changes in a tropical mountain forest of {Southern} {Ecuador}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{9}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 33}
+      \verb{doi}
+      \verb 10.1080/1747423X.2012.718378
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\UGHW8BDJ\\Thies et al. - 2014 - Projecting land-use and land-cover changes in a tr.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\B8CK798U\\1747423X.2012.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1080/1747423X.2012.718378
+      \endverb
+    \endentry
+    \entry{Appelhans2015}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{f2602a5e66c4bf30c1ba18183b088091}
-      \strng{fullhash}{f2602a5e66c4bf30c1ba18183b088091}
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5c8f3137668ef2080de8430322c8f0d7}
+      \strng{fullhash}{5c8f3137668ef2080de8430322c8f0d7}
       \field{sortinit}{2}
       \field{labelyear}{2015}
       \field{datelabelsource}{}
-      \field{labeltitle}{remote: Empirical Orthogonal Teleconnections in R}
+      \field{labeltitle}{\textbf{remote}}
+      \field{abstract}{In climate science, teleconnection analysis has a long standing history as a means for describing regions that exhibit above average capability of explaining variance over time within a certain spatial domain (e.g., global). The most prominent example of a global coupled ocean-atmosphere teleconnection is the El Nin ?o Southern Oscillation. There are numerous signal decomposition methods for identifying such regions, the most widely used of which are (rotated) empirical orthogonal functions. First introduced by van den Dool, Saha, and Johansson (2000), empirical orthogonal teleconnections (EOT) denote a regression based approach that allows for straight-forward interpretation of the extracted modes. In this paper we present the R implementation of the original algorithm in the remote package. To highlight its usefulness, we provide three examples of potential use- case scenarios for the method including the replication of one of the original examples from van den Dool et al. (2000). Furthermore, we highlight the algorithms use for cross- correlations between two different geographic fields (identifying sea surface temperature drivers for precipitation), as well as statistical downscaling from coarse to fine grids (using Normalized Difference Vegetation Index fields).}
+      \field{issn}{1548-7660}
       \field{journaltitle}{Journal of Statistical Software}
       \field{number}{10}
-      \field{title}{remote: Empirical Orthogonal Teleconnections in R}
+      \field{shorttitle}{\textbf{remote}}
+      \field{title}{\textbf{remote} : {Empirical} {Orthogonal} {Teleconnections} in \textit{{R}}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
       \field{volume}{65}
       \field{year}{2015}
-      \field{pages}{1\bibrangedash 19}
       \verb{doi}
       \verb 10.18637/jss.v065.i10
       \endverb
-      \verb{file}
-      \verb :Appelhans, Detsch, Nauss - accepted.pdf:PDF
+      \verb{url}
+      \verb http://www.jstatsoft.org/v65/i10/
       \endverb
-      \keyw{teleconnection analysis,spatial data mining,raster data,R,climate science}
     \endentry
-    \entry{Appelhans2015c}{article}{}
+    \entry{Appelhans2015a}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=5766bdfcff2e3308cc1c5f3a86133c03}{Hardy}{H\bibinitperiod}{Douglas\bibnamedelima R.}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=5766bdfcff2e3308cc1c5f3a86133c03}{Hardy}{H\bibinitperiod}{Douglas\bibnamedelima R.}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6e490257a05fd04a05b7e3f3f6169500}
+      \strng{fullhash}{6e490257a05fd04a05b7e3f3f6169500}
+      \field{sortinit}{2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Evaluating machine learning approaches for the interpolation of monthly air temperature at {Mt}. {Kilimanjaro}, {Tanzania}}
+      \field{abstract}{Spatially high resolution climate information is required for a variety of applications in but not limited to functional biodiversity research. In order to scale the generally plot-based research findings to a landscape level, spatial interpolation methods of meteorological variables are required. Based on a network of temperature observation plots across the southern slopes of Mt. Kilimanjaro, the skill of 14 machine learning algorithms in predicting spatial temperature patterns is tested and evaluated against the heavily utilized kriging approach. Based on a 10-fold cross-validation testing design, regression trees generally perform better than linear and non-linear regression models. The best individual performance has been observed by the stochastic gradient boosting model followed by Cubist, random forest and model averaged neural networks which except for the latter are all regression tree-based algorithms. While these machine learning algorithms perform better than kriging in a quantitative evaluation, the overall visual interpretation of the resulting air temperature maps is ambiguous. Here, a combined Cubist and residual kriging approach can be considered the best solution.}
+      \field{issn}{2211-6753}
+      \field{journaltitle}{Spatial Statistics}
+      \field{month}{11}
+      \field{series}{Spatial and {Spatio}-{Temporal} {Models} for {Interpolating} {Climatic} and {Meteorological} {Data}}
+      \field{title}{Evaluating machine learning approaches for the interpolation of monthly air temperature at {Mt}. {Kilimanjaro}, {Tanzania}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{14, Part A}
+      \field{year}{2015}
+      \field{pages}{91\bibrangedash 113}
+      \verb{doi}
+      \verb 10.1016/j.spasta.2015.05.008
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\AANUZF2M\\Appelhans et al. - 2015 - Evaluating machine learning approaches for the int.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\TXD74X8M\\S2211675315000482.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S2211675315000482
+      \endverb
+      \keyw{Air temperature,Cross-validation,Cubist,Kriging,Machine learning,Spatial interpolation}
+    \endentry
+    \entry{Appelhans2015b}{article}{}
       \name{labelname}{6}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
@@ -439,35 +1720,50 @@
         {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{6}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{84109135b6f7c695f367093a578461a8}
-      \strng{fullhash}{84109135b6f7c695f367093a578461a8}
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ffe045673ed48be7e63bf3d79dddf951}
+      \strng{fullhash}{ffe045673ed48be7e63bf3d79dddf951}
       \field{sortinit}{2}
       \field{labelyear}{2015}
+      \field{labelmonth}{11}
       \field{datelabelsource}{}
-      \field{labeltitle}{Eco-meteorological characteristics of the southern slopes of Mt. Kilimanjaro, Tanzania}
+      \field{labeltitle}{Eco-meteorological characteristics of the southern slopes of {Kilimanjaro}, {Tanzania}}
+      \field{abstract}{This study introduces the set-up of a new meteorological station network on the southern slopes of Kilimanjaro, Tanzania, since 2010 and presents the recorded characteristics of air temperature, air humidity and precipitation in both a plot-based and area-wide perspectives. The station set-up follows a hierarchical approach covering an elevational as well as a land-use disturbance gradient. It consists of 52 basic stations measuring ambient air temperature and above-ground air humidity and 11 precipitation measurement sites, with recording intervals of 5\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}min. With respect to precipitation observations, the network extends the long-term recordings of A. Hemp who has installed and maintained up to 117 multi-month accumulating rainfall buckets in the region since 1997. The meteorological characteristics of the study region based on the derived data since 2010 are mostly in line with previous studies, although we see increased precipitation amounts at higher elevations during these years when compared with long-term means. We furthermore identify a mean annual condensation level at about 2300\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}m\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}a.s.l. which has not been reported before. Finally, this is the first study to provide high resolution maps of mean monthly and mean annual temperature, humidity and precipitation for Kilimanjaro, which are of great value for geographically oriented meteorological or ecological investigations. Detailed performance statistics of the geo-statistical and machine learning techniques used for the gap filling of the recorded meteorological time series and their regionalization to the Kilimanjaro region indicate that the presented data sets provide reliable measurements of the meteorological reality at Kilimanjaro.}
+      \field{issn}{1097-0088}
       \field{journaltitle}{International Journal of Climatology}
-      \field{title}{Eco-meteorological characteristics of the southern slopes of Mt. Kilimanjaro, Tanzania}
+      \field{month}{11}
+      \field{title}{Eco-meteorological characteristics of the southern slopes of {Kilimanjaro}, {Tanzania}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
       \field{year}{2015}
+      \field{pages}{n/a\bibrangedash n/a}
       \verb{doi}
       \verb 10.1002/joc.4552
       \endverb
       \verb{file}
-      \verb :Appelhans et al. - submitted.pdf:PDF
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\7ZI5FU9P\\Appelhans et al. - 2015 - Eco-meteorological characteristics of the southern.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\K95JS6JN\\abstract.html:text/html
       \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1002/joc.4552/abstract
+      \endverb
+      \keyw{Climatology,Kilimanjaro,Kriging,Machine learning,meteorology,Tanzania}
     \endentry
     \entry{Classen2015}{article}{}
       \name{labelname}{9}{}{%
         {{uniquename=0,hash=463b8cbcb4ccc3f04cab4448af370983}{Classen}{C\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b7bcfdad0428a96030eb58c9d587f7f3}{Peters}{P\bibinitperiod}{Marcell\bibnamedelima K.}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=b7bcfdad0428a96030eb58c9d587f7f3}{Peters}{P\bibinitperiod}{Marcell\bibnamedelima K.}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=73c5bd9cc1403208b00579745548be38}{Kindeketa}{K\bibinitperiod}{William\bibnamedelima J.}{W\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=fc1c7c60a85f6be99e888959299165db}{Eardley}{E\bibinitperiod}{Connal\bibnamedelima D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=66b8cdc69ab7e1f5bab0a2640977fff5}{Gikungu}{G\bibinitperiod}{Mary\bibnamedelima W.}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
@@ -476,70 +1772,48 @@
       }
       \name{author}{9}{}{%
         {{uniquename=0,hash=463b8cbcb4ccc3f04cab4448af370983}{Classen}{C\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b7bcfdad0428a96030eb58c9d587f7f3}{Peters}{P\bibinitperiod}{Marcell\bibnamedelima K.}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=b7bcfdad0428a96030eb58c9d587f7f3}{Peters}{P\bibinitperiod}{Marcell\bibnamedelima K.}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=73c5bd9cc1403208b00579745548be38}{Kindeketa}{K\bibinitperiod}{William\bibnamedelima J.}{W\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=fc1c7c60a85f6be99e888959299165db}{Eardley}{E\bibinitperiod}{Connal\bibnamedelima D.}{C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=66b8cdc69ab7e1f5bab0a2640977fff5}{Gikungu}{G\bibinitperiod}{Mary\bibnamedelima W.}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f3be02dcfb574c1a9e6e2838edf0c1f9}{Steffan-Dewenter}{S\bibinithyphendelim D\bibinitperiod}{Ingolf}{I\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{23ced8714686409bb9dd40e0dcd2d99d}
-      \strng{fullhash}{23ced8714686409bb9dd40e0dcd2d99d}
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8e9fe179320e6589283b110f8993c9b1}
+      \strng{fullhash}{8e9fe179320e6589283b110f8993c9b1}
       \field{sortinit}{2}
       \field{labelyear}{2015}
+      \field{labelmonth}{06}
       \field{datelabelsource}{}
-      \field{labeltitle}{Temperature versus resource constraints: which factors determine bee diversity on Mount Kilimanjaro, Tanzania?}
+      \field{labeltitle}{Temperature versus resource constraints}
+      \field{abstract}{Aim Understanding the mechanisms controlling variation in species richness along environmental gradients is one of the most important objectives in ecology. Resource availability is often considered as the major driver of animal diversity. However, in ectotherms, temperature might play a predominant role as it modulates metabolic rates and the access of animals to resources. Here, we investigate the relative importance of resource availability and temperature in determining the diversity pattern of bees along a 3.6-km elevational gradient. Location Mount Kilimanjaro, Tanzania. Methods We assessed bee species richness and abundance with pan traps and floral resources with transect records on 60 study sites which were equally distributed over six near-natural and six disturbed habitat types along an elevational gradient from 870 to 4550\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}m a.s.l. We used path analysis to disentangle the effects of temperature, precipitation, floral resource abundance, bee abundance and land use on bee species richness. In addition, we monitored flower visitation rates during transect walks at different elevations to evaluate the temperature dependence of bee\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}flower interactions. Results Bee species richness continuously declined with elevation in natural and disturbed habitats. While the abundance of floral resources had a significant but only weak effect on species richness, the effect of temperature was strong. Temperature had a strong positive effect on species richness that was not mediated by bee abundance and an indirect effect via bee abundances. We observed higher levels of bee\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}flower interactions at higher temperatures, supporting the hypothesis that temperature limits diversity by constraining resource exploitation in ectotherms. Main conclusions Temperature and the availability of resources shape species richness patterns along environmental gradients. In ectothermic organisms like bees temperature seems to have the more important role, as it both limits the access to resources (abundance-mediated effect) and accelerates other (abundance-independent) ecological and evolutionary processes that drive the maintenance and origination of diversity.}
       \field{issn}{1466-8238}
       \field{journaltitle}{Global Ecology and Biogeography}
+      \field{month}{06}
       \field{number}{6}
-      \field{title}{Temperature versus resource constraints: which factors determine bee diversity on Mount Kilimanjaro, Tanzania?}
+      \field{shorttitle}{Temperature versus resource constraints}
+      \field{title}{Temperature versus resource constraints: which factors determine bee diversity on {Mount} {Kilimanjaro}, {Tanzania}?}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
       \field{volume}{24}
       \field{year}{2015}
       \field{pages}{642\bibrangedash 652}
       \verb{doi}
       \verb 10.1111/geb.12286
       \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1111/geb.12286
-      \endverb
-      \keyw{Apoidea,climate change,elevational gradients,energy\x{fffd}\x{fffd}\x{fffd}richness hypothesis,land-use change,macroecology,physiological tolerance hypothesis,pollination,productivity hypothesis,temperature\x{fffd}\x{fffd}\x{fffd}speciation hypothesis}
-    \endentry
-    \entry{Appelhans2015}{article}{}
-      \name{labelname}{5}{}{%
-        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
-        {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=5766bdfcff2e3308cc1c5f3a86133c03}{Hardy}{H\bibinitperiod}{Douglas\bibnamedelima R.}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{5}{}{%
-        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
-        {{uniquename=0,hash=d10905ed4ba0aa63f63d8e98e0ccd76f}{Mwangomo}{M\bibinitperiod}{Ephraim}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=5766bdfcff2e3308cc1c5f3a86133c03}{Hardy}{H\bibinitperiod}{Douglas\bibnamedelima R.}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{9593cd6f4d6cc28c67410ce19a276db6}
-      \strng{fullhash}{9593cd6f4d6cc28c67410ce19a276db6}
-      \field{sortinit}{2}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
-      \field{labeltitle}{Evaluating machine learning approaches for the interpolation of monthly air temperature at Mt. Kilimanjaro, Tanzania}
-      \field{abstract}{Abstract Spatially high resolution climate information is required for a variety of applications in but not limited to functional biodiversity research. In order to scale the generally plot-based research fndings to a landscape level, spatial interpolation methods of meteorological variables are required. Based on a network of tempreature observation plots across the southern slopes of Mt. Kilimanjaro, the skill of 14 machine learning algorithms in predicting spatial temperature patterns is tested and evaluated against the heavily utilized kriging approach. Based on a 10-fold cross-validation testing design, regression trees generally perform better than linear and non-linear regression models. The best individual performance has been observed by the stochastic gradient boosting model followed by Cubist, random forest and model averaged neural networks which except for the latter are all regression tree-based algorithms. While these machine learning algorithms perform better than kriging in a quantitative evaluation, the overall visual interpretation of the resulting air temperature maps is ambiguous. Here, a combined Cubist and residual kriging approach can be considered the best solution.}
-      \field{issn}{2211-6753}
-      \field{journaltitle}{Spatial Statistics}
-      \field{title}{Evaluating machine learning approaches for the interpolation of monthly air temperature at Mt. Kilimanjaro, Tanzania}
-      \field{year}{2015}
-      \field{pages}{91\bibrangedash 113}
-      \verb{doi}
-      \verb http://dx.doi.org/10.1016/j.spasta.2015.05.008
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\4ESF5ITP\\Classen et al. - 2015 - Temperature versus resource constraints which fac.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\ZWDZFSE5\\abstract.html:text/html
       \endverb
       \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/S2211675315000482
+      \verb http://onlinelibrary.wiley.com/doi/10.1111/geb.12286/abstract
       \endverb
-      \keyw{Spatial interpolation}
+      \keyw{Apoidea,Climate change,elevational gradients,energy\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}richness hypothesis,land-use change,macroecology,physiological tolerance hypothesis,Pollination,productivity hypothesis,temperature\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}speciation hypothesis}
     \endentry
     \entry{Appelhansegu2015b}{inproceedings}{}
       \name{labelname}{5}{}{%
@@ -611,132 +1885,165 @@
     \endentry
     \entry{Appelhans2016}{article}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{546c27bf2008784827de84dbaeacc1e3}
-      \strng{fullhash}{546c27bf2008784827de84dbaeacc1e3}
+      \strng{namehash}{b99c3f0349314a28b7c3131615357d81}
+      \strng{fullhash}{b99c3f0349314a28b7c3131615357d81}
       \field{sortinit}{2}
       \field{labelyear}{2016}
       \field{datelabelsource}{}
-      \field{labeltitle}{Spatial patterns of sea surface temperature influences on East African precipitation as revealed by empirical orthogonal teleconnections}
-      \field{issn}{2296-6463}
-      \field{journaltitle}{Frontiers in Earth Science - Atmospheric Science}
-      \field{number}{4}
-      \field{title}{Spatial patterns of sea surface temperature influences on East African precipitation as revealed by empirical orthogonal teleconnections}
-      \field{volume}{3}
+      \field{labeltitle}{Spatial {Patterns} of {Sea} {Surface} {Temperature} {Influences} on {East} {African} {Precipitation} as {Revealed} by {Empirical} {Orthogonal} {Teleconnections}}
+      \field{abstract}{East Africa is characterized by a rather dry annual precipitation climatology with two distinct rainy seasons. In order to investigate sea surface temperature driven precipitation anomalies for the region we use the algorithm of empirical orthogonal teleconnection analysis as a data mining tool. We investigate the entire East African domain as well as 5 smaller sub-regions mainly located in areas of mountainous terrain. In searching for influential sea surface temperature patterns we do not focus any particular season or oceanic region. Furthermore, we investigate different time lags from 0 to 12 months. The strongest influence is identified for the immediate (i.e., non-lagged) influences of the Indian Ocean in close vicinity to the East African coast. None of the most important modes are located in the tropical Pacific Ocean, though the region is sometimes coupled with the Indian Ocean basin. Furthermore, we identify a region in the southern Indian Ocean around the Kerguelen Plateau which has not yet been reported in the literature with regard to precipitation modulation in East Africa. Finally, it is observed that not all regions in East Africa are equally influenced by the identified patterns.}
+      \field{journaltitle}{Atmospheric Science}
+      \field{title}{Spatial {Patterns} of {Sea} {Surface} {Temperature} {Influences} on {East} {African} {Precipitation} as {Revealed} by {Empirical} {Orthogonal} {Teleconnections}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
       \field{year}{2016}
+      \field{pages}{3}
       \verb{doi}
       \verb 10.3389/feart.2016.00003
       \endverb
       \verb{url}
-      \verb http://www.frontiersin.org/atmospheric_science/10.3389/feart.2016.00003/abstract
+      \verb http://journal.frontiersin.org/article/10.3389/feart.2016.00003/full
       \endverb
+      \keyw{Climatology,empirical orthogonal teleconnection,Kilimanjaro,precipitation,sea surface temperatures}
     \endentry
-    \entry{Detsch2016a}{article}{}
-      \name{labelname}{4}{}{%
-        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
-        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1f6061a7e051c1ccae8fed9c1f73b26a}{\textbf{Appelhans,\bibnamedelimb Tim}}{\\bibinitperiod}{}{}{}{}{}{}}%
-        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{dfd7b804426b8feeaa40a0523e75a158}
-      \strng{fullhash}{dfd7b804426b8feeaa40a0523e75a158}
-      \field{sortinit}{2}
-      \field{labelyear}{2016}
-      \field{datelabelsource}{}
-      \field{labeltitle}{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region -- A Matter of Sensor, Degradation Calibration, and Significance}
-      \field{issn}{2072-4292}
-      \field{journaltitle}{Remote Sensing}
-      \field{number}{2}
-      \field{title}{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region -- A Matter of Sensor, Degradation Calibration, and Significance}
-      \field{volume}{8}
-      \field{year}{2016}
-      \field{pages}{159}
-      \verb{doi}
-      \verb 10.3390/rs8020159
-      \endverb
-      \verb{url}
-      \verb http://www.mdpi.com/2072-4292/8/2/159
-      \endverb
-    \endentry
-    \entry{Detsch2016b}{article}{}
+    \entry{Detsch2016}{article}{}
       \name{labelname}{5}{}{%
         {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
         {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8afe3064a8688b35adf96f6c4c247aa9}{Hemp}{H\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{ec557fb345fb72ee10a58d9f3ed6394b}
-      \strng{fullhash}{ec557fb345fb72ee10a58d9f3ed6394b}
+      \strng{namehash}{73c90755b9fc1b1d1d5a07ca01501a1c}
+      \strng{fullhash}{73c90755b9fc1b1d1d5a07ca01501a1c}
       \field{sortinit}{2}
       \field{labelyear}{2016}
+      \field{labelmonth}{06}
       \field{datelabelsource}{}
-      \field{labeltitle}{Seasonal and long-term vegetation dynamics from 1-km GIMMS-based \{NDVI\} time series at Mt. Kilimanjaro, Tanzania}
+      \field{labeltitle}{Seasonal and long-term vegetation dynamics from 1-km {GIMMS}-based {NDVI} time series at {Mt}. {Kilimanjaro}, {Tanzania}}
+      \field{abstract}{Vegetation dynamics in the Kilimanjaro region, Tanzania, are subject to (i) global climate change and (ii) local land-cover change resulting from natural or anthropogenic disturbance. While recent climate models predict rising temperatures over East Africa throughout the 21st century, effects of land-use change on the local-scale water budget and, related therewith, on vegetation response are much more diverse. In addition, sea surface temperature anomalies in the Pacific (El Ni\x{fffd}\x{fffd}\x{fffd}\x{fffd}o Southern Oscillation, ENSO) and Indian Ocean (Indian Ocean Dipole, IOD) are known to severely impact rainfall patterns and vegetation activity in the study area and possibly reinforce each other. Here we present long-term and seasonal vegetation dynamics derived from a GIMMS-based NDVI record resampled to 1 km spatial resolution and covering a 30-year period (1982\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2011). In the long term, most of the upper mountain regions showed positive trends which was mainly attributed to vegetation recovery after disastrous fires during the outgoing 20th century. Along the western mountainside, by contrast, strong negative trends emerged as a consequence of fire-driven downward migration of Erica bush along the upper slopes and massive land conversion processes affecting the lower slopes. On the seasonal scale, a strong dependence of the regional vegetation on the effects of ENSO/IOD teleconnections became evident. Similar to previous findings on rainfall, the most beneficial effects occurred during concurrent El Ni\x{fffd}\x{fffd}\x{fffd}\x{fffd}o/IOD events, while the impacts of La Ni\x{fffd}\x{fffd}\x{fffd}\x{fffd}a were far less pronounced. To sum up, the newly created 1-km NDVI record proved capable of capturing long-term and seasonal vegetation patterns, which particularly applies for large-scale teleconnections, and thus provides an invaluable archive of decadal-scale vegetation dynamics in the study area.}
       \field{issn}{0034-4257}
       \field{journaltitle}{Remote Sensing of Environment}
-      \field{title}{Seasonal and long-term vegetation dynamics from 1-km GIMMS-based \{NDVI\} time series at Mt. Kilimanjaro, Tanzania}
+      \field{month}{06}
+      \field{title}{Seasonal and long-term vegetation dynamics from 1-km {GIMMS}-based {NDVI} time series at {Mt}. {Kilimanjaro}, {Tanzania}}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
       \field{volume}{178}
       \field{year}{2016}
       \field{pages}{70\bibrangedash 83}
       \verb{doi}
-      \verb http://dx.doi.org/10.1016/j.rse.2016.03.007
+      \verb 10.1016/j.rse.2016.03.007
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\863RXZNB\\Detsch et al. - 2016 - Seasonal and long-term vegetation dynamics from 1-.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\28SVERC4\\S0034425716301006.html:text/html
       \endverb
       \verb{url}
       \verb http://www.sciencedirect.com/science/article/pii/S0034425716301006
       \endverb
-      \keyw{Mt. Kilimanjaro}
+      \keyw{Fire disturbance,Mt. Kilimanjaro,NDVI,seasonality,Teleconnections,Trends}
+    \endentry
+    \entry{Detsch2016a}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=2cd32692ec4b7b713c7c3ae823beb63f}{Detsch}{D\bibinitperiod}{Florian}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=058012102fc1986c3e294b4d0b6c49c1}{Otte}{O\bibinitperiod}{Insa}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{309dac3fb7f566b9be8927dc0a29179f}
+      \strng{fullhash}{309dac3fb7f566b9be8927dc0a29179f}
+      \field{sortinit}{2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region\x{fffd}\x{fffd}\x{fffd}A Matter of Sensor, Degradation Calibration, and Significance}
+      \field{abstract}{While satellite-based monitoring of vegetation activity at the earth\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}s surface is of vital importance for many eco-climatological applications, the degree of agreement among certain sensors and products providing estimates of the Normalized Difference Vegetation Index (NDVI) has been found to vary considerably. In order to assess the extent of such differences in highly heterogeneous terrain, we analyze and compare intra-annual seasonal fluctuations and long-term monotonic trends (2003\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}2012) in the Kilimanjaro region, Tanzania. The considered NDVI datasets include the Moderate Resolution Imaging Spectroradiometer (MODIS) products from Terra and Aqua, Collections 5 and 6, and the 3rd Generation Global Inventory Modeling and Mapping Studies (GIMMS) product. The degree of agreement in seasonal fluctuations is assessed by calculating a pairwise Index of Association (IOAs), whereas long-term trends are derived from the trend-free pre-whitened Mann\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}Kendall test. On the seasonal scale, the two Terra-MODIS products (and, accordingly, the two Aqua-MODIS products) are best associated with each other, indicating that the seasonal signal remained largely unaffected by the new Collection 6 calibration approach. On the long-term scale, we find that the negative impacts of band ageing on Terra-MODIS NDVI have been accounted for in Collection 6, which now distinctly outweighs Aqua-MODIS in terms of greening trends. GIMMS NDVI, by contrast, fails to capture small-scale seasonal and trend patterns that are characteristic for the highly fragmented landscape which is likely owing to the coarse spatial resolution. As a short digression, we also demonstrate that the amount of false discoveries in the determined trend fraction is distinctly higher for p \&lt; 0.05 ( 52.6 \% ) than for p \&lt; 0.001 ( 2.2 \% ) which should point the way for any future studies focusing on the reliable deduction of long-term monotonic trends.}
+      \field{journaltitle}{Remote Sensing}
+      \field{month}{02}
+      \field{number}{2}
+      \field{title}{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region\x{fffd}\x{fffd}\x{fffd}A Matter of Sensor, Degradation Calibration, and Significance}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{159}
+      \verb{doi}
+      \verb 10.3390/rs8020159
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\BI6RK9D8\\Detsch et al. - 2016 - A Comparative Study of Cross-Product NDVI Dynamics.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\R6X8J2ZD\\159.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/2072-4292/8/2/159
+      \endverb
+      \keyw{AVHRR GIMMS,Kilimanjaro,MODIS,monotonic trends,NDVI,seasonal fluctuations,sensor degradation,trend significance}
     \endentry
     \entry{Meyer2016}{article}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=ea4cf49f7927ab044e101d44246fab4a}{Meyer}{M\bibinitperiod}{Hanna}{H\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b787208c7807efff10e5b0b3e08a5eb8}{K\x{fffd}\x{fffd}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{uniquename=0,hash=ea4cf49f7927ab044e101d44246fab4a}{Meyer}{M\bibinitperiod}{Hanna}{H\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d2e73d547e7b1ed5f077c49c7d56bb10}{Kuehnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9043c801efca2911e99e639154346fe1}{\textbf{Tim\bibnamedelimb Appelhans}}{\\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=b787208c7807efff10e5b0b3e08a5eb8}{K\x{fffd}\x{fffd}hnlein}{K\bibinitperiod}{Meike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1ad1e92a97cefebf56a747a598f249b}{Appelhans}{A\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=1,hash=7edfd94756995820b27254e329fa0c2a}{Nauss}{N\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3aef8c5b3a473220b9dbf214cf870566}
-      \strng{fullhash}{3aef8c5b3a473220b9dbf214cf870566}
+      \strng{namehash}{4e619804ba18ddfed0f766f44905b062}
+      \strng{fullhash}{4e619804ba18ddfed0f766f44905b062}
       \field{sortinit}{2}
       \field{labelyear}{2016}
+      \field{labelmonth}{03}
       \field{datelabelsource}{}
       \field{labeltitle}{Comparison of four machine learning algorithms for their applicability in satellite-based optical rainfall retrievals}
+      \field{abstract}{Machine learning (ML) algorithms have successfully been demonstrated to be valuable tools in satellite-based rainfall retrievals which show the practicability of using ML algorithms when faced with high dimensional and complex data. Moreover, recent developments in parallel computing with ML present new possibilities for training and prediction speed and therefore make their usage in real-time systems feasible. This study compares four ML algorithms \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} random forests (RF), neural networks (NNET), averaged neural networks (AVNNET) and support vector machines (SVM) \x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd} for rainfall area detection and rainfall rate assignment using MSG SEVIRI data over Germany. Satellite-based proxies for cloud top height, cloud top temperature, cloud phase and cloud water path serve as predictor variables. The results indicate an overestimation of rainfall area delineation regardless of the ML algorithm (averaged bias = 1.8) but a high probability of detection ranging from 81\% (SVM) to 85\% (NNET). On a 24-hour basis, the performance of the rainfall rate assignment yielded R2 values between 0.39 (SVM) and 0.44 (AVNNET). Though the differences in the algorithms' performance were rather small, NNET and AVNNET were identified as the most suitable algorithms. On average, they demonstrated the best performance in rainfall area delineation as well as in rainfall rate assignment. NNET's computational speed is an additional advantage in work with large datasets such as in remote sensing based rainfall retrievals. However, since no single algorithm performed considerably better than the others we conclude that further research in providing suitable predictors for rainfall is of greater necessity than an optimization through the choice of the ML algorithm.}
       \field{issn}{0169-8095}
       \field{journaltitle}{Atmospheric Research}
+      \field{month}{03}
       \field{title}{Comparison of four machine learning algorithms for their applicability in satellite-based optical rainfall retrievals}
+      \field{urlday}{23}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
       \field{volume}{169, Part B}
       \field{year}{2016}
       \field{pages}{424\bibrangedash 433}
       \verb{doi}
-      \verb http://dx.doi.org/10.1016/j.atmosres.2015.09.021
+      \verb 10.1016/j.atmosres.2015.09.021
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\U2E24WXX\\Meyer et al. - 2016 - Comparison of four machine learning algorithms for.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\QDF5G55P\\S0169809515003014.html:text/html
       \endverb
       \verb{url}
       \verb http://www.sciencedirect.com/science/article/pii/S0169809515003014
       \endverb
-      \keyw{MSG \{SEVIRI\}}
+      \keyw{Machine learning,MSG SEVIRI,Rainfall area,Rainfall rate,Rainfall retrieval}
     \endentry
     \entry{satellite}{manual}{}
       \name{labelname}{4}{}{%
