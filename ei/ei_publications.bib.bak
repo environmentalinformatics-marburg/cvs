@@ -497,7 +497,7 @@ Temperature and the availability of resources shape species richness patterns al
   note =      {{Under review in Agricultural and Forest Meteorology}},
   month =     feb,
   year =      {2016},
-  comment =   {Evapotranspiration (ET) in the southern Kilimanjaro region strongly depends upon elevation and the degree of natural or human disturbance. Non-natural land covers generally reveal a higher net water loss than their natural counterparts. While ET at the colline and submontane level strictly follows the course of the sun, peak ET rates over subalpine and lower alpine habitats typically occur right after sunrise.},
+  comment =   {Evapotranspiration (ET) in the southern Kilimanjaro region strongly depends upon elevation and the degree of natural or human disturbance. Non-natural land covers tend to suffer from a higher net water loss during the day when compared with their natural counterparts (i.e., at similar elevations). While ET at the colline and submontane level strictly follows the course of the sun, the subalpine and lower alpine habitats reveal peak ET rates right after sunrise.},
   file =      {:Detsch et al. - 2016b.pdf:PDF},
   keywords =  {Climate change, Elevation gradient, Evapotranspiration, Kilimanjaro, Land-cover change, Surface-layer scintillometer},
   owner =     {fdetsch},
