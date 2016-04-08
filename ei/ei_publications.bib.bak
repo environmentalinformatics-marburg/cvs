@@ -1,4 +1,5 @@
-% Encoding: UTF-8
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
 
 
 @TechReport{Appelhans2007,
@@ -167,18 +168,6 @@
   Urldate                  = {2016-03-23}
 }
 
-@Article{Appelhans2010b,
-  Title                    = {{M}odelling emission trends from non-constant time series of {$PM_{10}$} concentrations in {C}hristchurch, {N}ew {Z}ealand},
-  Author                   = {Appelhans, Tim and Sturman, Andrew and Zawar-Reza, Peyman},
-  Journal                  = {International Journal of Environment and Pollution},
-  Year                     = {2010},
-  Number                   = {4},
-  Pages                    = {354--363},
-  Volume                   = {43},
-
-  Url                      = {http://dx.doi.org/10.1504/IJEP.2010.036932}
-}
-
 @Article{Appelhans2013,
   Title                    = {{S}ynoptic and climatological controls of particulate matter pollution in a {S}outhern {H}emisphere coastal city},
   Author                   = {Appelhans, Tim and Sturman, Andrew and Zawar-Reza, Peyman},
@@ -193,6 +182,18 @@
   Keywords                 = {synoptic climatology, air pollution climatology, particulate matter, PM10, New Zealand, Southern Hemisphere, CART},
   Publisher                = {John Wiley \& Sons, Ltd.},
   Url                      = {http://dx.doi.org/10.1002/joc.3439}
+}
+
+@Article{Appelhans2010b,
+  Title                    = {{M}odelling emission trends from non-constant time series of {$PM_{10}$} concentrations in {C}hristchurch, {N}ew {Z}ealand},
+  Author                   = {Appelhans, Tim and Sturman, Andrew and Zawar-Reza, Peyman},
+  Journal                  = {International Journal of Environment and Pollution},
+  Year                     = {2010},
+  Number                   = {4},
+  Pages                    = {354--363},
+  Volume                   = {43},
+
+  Url                      = {http://dx.doi.org/10.1504/IJEP.2010.036932}
 }
 
 @Article{Appelhans2010a,
@@ -325,7 +326,7 @@
 }
 
 @Article{Bendix2011,
-  Title                    = {{E}l {N}iño meets {L}a {N}iña – anomalous rainfall patterns in the “traditional” {E}l {N}iño region of southern {E}cuador},
+  Title                    = {{E}l {N}iño meets {L}a {N}iña – anomalous rainfall patterns in the “traditional�? {E}l {N}iño region of southern {E}cuador},
   Author                   = {Bendix, Joerg and Trache, Katja and Palacios, Enrique and Rollenbeck, Ruetger and Goettlicher, Dietrich and Nauss, Thomas and Bendix, Astrid},
   Journal                  = {ERDKUNDE},
   Year                     = {2011},
@@ -357,7 +358,7 @@
   Volume                   = {48},
 
   __markedentry            = {[tnauss:6]},
-  Abstract                 = {This study examines the seasonal and diurnal dynamics of convective cloud entitiesâ€”small cells and a mesoscale convective complexâ€“like patternâ€”in the foothills of the tropical eastern Andes. The investigation is based on Geostationary Operational Environmental Satellite-East (GOES-E) satellite imagery (2005â€“07), images of a scanning X-band rain radar, and data from regular meteorological stations. The work was conducted in the framework of a major ecological research program, the Research Unit 816, in which meteorological instruments are installed in the Rio San Francisco valley, breaching the eastern Andes of south Ecuador. GOES image segmentation to discriminate convective cells and other clouds is performed for a 600 Ã— 600 km2 target area, using the concept of connected component labeling by applying the 8-connectivity scheme as well as thresholds for minimum blackbody temperature, spatial extent, and eccentricity of the extracted components. The results show that the formation of convective clouds in the lowland part of the target area mainly occurs in austral summer during late afternoon. Nocturnal enhancement of cell formation could be observed from October to April (particularly Februaryâ€“April) between 0100 and 0400 LST (LST = UTC âˆ’ 5 h) in the Andean foothill region of the target area, which is the relatively dry season of the adjacent eastern Andean slopes. Nocturnal cell formation is especially marked southeast of the Rio San Francisco valley in the southeast Andes of Ecuador, where a confluence area of major katabatic outflow systems coincide with a quasi-concave shape of the Andean terrain line. The confluent cold-air drainage flow leads to low-level instability and cellular convection in the warm, moist Amazon air mass. The novel result of the current study is to provide statistical evidence that, under these special topographic situations, katabatic outflow is strong enough to generate mainly mesoscale convective complexes (MCCs) with a great spatial extent. The MCC-like systems often increase in expanse during their mature phase and propagate toward the Andes because of the prevailing upper-air easterlies, causing early morning peaks of rainfall in the valley of the Rio San Francisco. It is striking that MCC formation in the foothill area is clearly reduced during the main rainy season [Juneâ€“August (JJA)] of the higher eastern Andean slopes. At a first glance, this contradiction can be explained by rainfall persistence in the Rio San Francisco valley, which is clearly lower during the time of convective activity (Decemberâ€“April) in comparison with JJA, during which low-intensity rainfall is released by predominantly advective clouds with greater temporal endurance.},
+  Abstract                 = {This study examines the seasonal and diurnal dynamics of convective cloud entitiesâ€�?small cells and a mesoscale convective complexâ€“like patternâ€�?in the foothills of the tropical eastern Andes. The investigation is based on Geostationary Operational Environmental Satellite-East (GOES-E) satellite imagery (2005â€“07), images of a scanning X-band rain radar, and data from regular meteorological stations. The work was conducted in the framework of a major ecological research program, the Research Unit 816, in which meteorological instruments are installed in the Rio San Francisco valley, breaching the eastern Andes of south Ecuador. GOES image segmentation to discriminate convective cells and other clouds is performed for a 600 Ã— 600 km2 target area, using the concept of connected component labeling by applying the 8-connectivity scheme as well as thresholds for minimum blackbody temperature, spatial extent, and eccentricity of the extracted components. The results show that the formation of convective clouds in the lowland part of the target area mainly occurs in austral summer during late afternoon. Nocturnal enhancement of cell formation could be observed from October to April (particularly Februaryâ€“April) between 0100 and 0400 LST (LST = UTC âˆ’ 5 h) in the Andean foothill region of the target area, which is the relatively dry season of the adjacent eastern Andean slopes. Nocturnal cell formation is especially marked southeast of the Rio San Francisco valley in the southeast Andes of Ecuador, where a confluence area of major katabatic outflow systems coincide with a quasi-concave shape of the Andean terrain line. The confluent cold-air drainage flow leads to low-level instability and cellular convection in the warm, moist Amazon air mass. The novel result of the current study is to provide statistical evidence that, under these special topographic situations, katabatic outflow is strong enough to generate mainly mesoscale convective complexes (MCCs) with a great spatial extent. The MCC-like systems often increase in expanse during their mature phase and propagate toward the Andes because of the prevailing upper-air easterlies, causing early morning peaks of rainfall in the valley of the Rio San Francisco. It is striking that MCC formation in the foothill area is clearly reduced during the main rainy season [Juneâ€“August (JJA)] of the higher eastern Andean slopes. At a first glance, this contradiction can be explained by rainfall persistence in the Rio San Francisco valley, which is clearly lower during the time of convective activity (Decemberâ€“April) in comparison with JJA, during which low-intensity rainfall is released by predominantly advective clouds with greater temporal endurance.},
   Doi                      = {10.1175/2009JAMC2078.1},
   File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\4WKF8KDS\\Bendix et al. - 2009 - Formation of Convective Clouds at the Foothills of.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\2CBF8HS4\\2009JAMC2078.html:text/html},
   ISSN                     = {1558-8424},
@@ -436,84 +437,112 @@ Temperature and the availability of resources shape species richness patterns al
 }
 
 @Manual{Detsch2016c,
-  title =     {{gimms: Download and Process GIMMS NDVI3g Data}},
-  author =    {Detsch, Florian},
-  month =     jan,
-  year =      {2016},
-  note =      {R package version 0.6.0},
-  comment =   {We provide a set of functions to download and pre-process GIMMS NDVI3g files based on the widely applied \textbf{raster} package; extract quality flags and perform quality control; calculate monthly value composites from the bi-monthly input data; and derive long-term monotonous Mann-Kendall trends, optionally featuring pre-whitening to account for lag-1 autocorrelation.},
-  file =      {:Detsch et al. - 2016c.pdf:PDF},
-  owner =     {fdetsch},
-  timestamp = {2016.04.08}
+  Title                    = {{gimms: Download and Process GIMMS NDVI3g Data}},
+  Author                   = {Detsch, Florian},
+  Month                    = jan,
+  Note                     = {R package version 0.6.0},
+  Year                     = {2016},
+
+  Comment                  = {We provide a set of functions to download and pre-process GIMMS NDVI3g files based on the widely applied \textbf{raster} package; extract quality flags and perform quality control; calculate monthly value composites from the bi-monthly input data; and derive long-term monotonous Mann-Kendall trends, optionally featuring pre-whitening to account for lag-1 autocorrelation.},
+  File                     = {:Detsch et al. - 2016c.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2016.04.08}
 }
 
 @Article{Detsch2016,
-  author =        {Detsch, Florian and Otte, Insa and Appelhans, Tim and Hemp, Andreas and Nauss, Thomas},
-  title =         {{Seasonal and long-term vegetation dynamics from 1-km GIMMS-based NDVI time series at Mt. Kilimanjaro, Tanzania}},
-  journal =       {Remote Sensing of Environment},
-  year =          {2016},
-  volume =        {178},
-  pages =         {70--83},
-  month =         jun,
-  __markedentry = {[tnauss:6]},
-  abstract =      {Vegetation dynamics in the Kilimanjaro region, Tanzania, are subject to (i) global climate change and (ii) local land-cover change resulting from natural or anthropogenic disturbance. While recent climate models predict rising temperatures over East Africa throughout the 21st century, effects of land-use change on the local-scale water budget and, related therewith, on vegetation response are much more diverse. In addition, sea surface temperature anomalies in the Pacific (El NiÃ±o Southern Oscillation, ENSO) and Indian Ocean (Indian Ocean Dipole, IOD) are known to severely impact rainfall patterns and vegetation activity in the study area and possibly reinforce each other. Here we present long-term and seasonal vegetation dynamics derived from a GIMMS-based NDVI record resampled to 1 km spatial resolution and covering a 30-year period (1982â€“2011). In the long term, most of the upper mountain regions showed positive trends which was mainly attributed to vegetation recovery after disastrous fires during the outgoing 20th century. Along the western mountainside, by contrast, strong negative trends emerged as a consequence of fire-driven downward migration of Erica bush along the upper slopes and massive land conversion processes affecting the lower slopes. On the seasonal scale, a strong dependence of the regional vegetation on the effects of ENSO/IOD teleconnections became evident. Similar to previous findings on rainfall, the most beneficial effects occurred during concurrent El NiÃ±o/IOD events, while the impacts of La NiÃ±a were far less pronounced. To sum up, the newly created 1-km NDVI record proved capable of capturing long-term and seasonal vegetation patterns, which particularly applies for large-scale teleconnections, and thus provides an invaluable archive of decadal-scale vegetation dynamics in the study area.},
-  comment =       {An 8-km GIMMS NDVI record resampled to 1 km spatial resolution using empirical orthogonal teleconnections with MODIS offers comparatively detailed information about seasonal and long-term vegetation activity in the Kilimanjaro region. NDVI is strongly coupled to El Ni\~{n} and Indian Ocean Dipole (IOD) teleconnection effects, whereas the impact during La Ni\~{n}a phases is less severe.},
-  doi =           {10.1016/j.rse.2016.03.007},
-  file =          {:Detsch et al. - 2016.pdf:PDF},
-  issn =          {0034-4257},
-  keywords =      {Fire disturbance, Mt. Kilimanjaro, NDVI, Seasonality, Teleconnections, Trends},
-  owner =         {tnauss, fdetsch},
-  timestamp =     {2016.04.08},
-  url =           {http://www.sciencedirect.com/science/article/pii/S0034425716301006},
-  urldate =       {2016-03-23}
+  Title                    = {{Seasonal and long-term vegetation dynamics from 1-km GIMMS-based NDVI time series at Mt. Kilimanjaro, Tanzania}},
+  Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Hemp, Andreas and Nauss, Thomas},
+  Journal                  = {Remote Sensing of Environment},
+  Year                     = {2016},
+
+  Month                    = jun,
+  Pages                    = {70--83},
+  Volume                   = {178},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {Vegetation dynamics in the Kilimanjaro region, Tanzania, are subject to (i) global climate change and (ii) local land-cover change resulting from natural or anthropogenic disturbance. While recent climate models predict rising temperatures over East Africa throughout the 21st century, effects of land-use change on the local-scale water budget and, related therewith, on vegetation response are much more diverse. In addition, sea surface temperature anomalies in the Pacific (El NiÃ±o Southern Oscillation, ENSO) and Indian Ocean (Indian Ocean Dipole, IOD) are known to severely impact rainfall patterns and vegetation activity in the study area and possibly reinforce each other. Here we present long-term and seasonal vegetation dynamics derived from a GIMMS-based NDVI record resampled to 1 km spatial resolution and covering a 30-year period (1982â€“2011). In the long term, most of the upper mountain regions showed positive trends which was mainly attributed to vegetation recovery after disastrous fires during the outgoing 20th century. Along the western mountainside, by contrast, strong negative trends emerged as a consequence of fire-driven downward migration of Erica bush along the upper slopes and massive land conversion processes affecting the lower slopes. On the seasonal scale, a strong dependence of the regional vegetation on the effects of ENSO/IOD teleconnections became evident. Similar to previous findings on rainfall, the most beneficial effects occurred during concurrent El NiÃ±o/IOD events, while the impacts of La NiÃ±a were far less pronounced. To sum up, the newly created 1-km NDVI record proved capable of capturing long-term and seasonal vegetation patterns, which particularly applies for large-scale teleconnections, and thus provides an invaluable archive of decadal-scale vegetation dynamics in the study area.},
+  Comment                  = {An 8-km GIMMS NDVI record resampled to 1 km spatial resolution using empirical orthogonal teleconnections with MODIS offers comparatively detailed information about seasonal and long-term vegetation activity in the Kilimanjaro region. NDVI is strongly coupled to El Ni\~{n} and Indian Ocean Dipole (IOD) teleconnection effects, whereas the impact during La Ni\~{n}a phases is less severe.},
+  Doi                      = {10.1016/j.rse.2016.03.007},
+  File                     = {:Detsch et al. - 2016.pdf:PDF},
+  ISSN                     = {0034-4257},
+  Keywords                 = {Fire disturbance, Mt. Kilimanjaro, NDVI, Seasonality, Teleconnections, Trends},
+  Owner                    = {tnauss, fdetsch},
+  Timestamp                = {2016.04.08},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425716301006},
+  Urldate                  = {2016-03-23}
 }
 
 @Article{Detsch2016a,
-  author =        {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
-  title =         {{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region -- A Matter of Sensor, Degradation Calibration, and Significance}},
-  journal =       {Remote Sensing},
-  year =          {2016},
-  volume =        {8},
-  number =        {2},
-  pages =         {159},
-  month =         feb,
-  __markedentry = {[tnauss:6]},
-  abstract =      {While satellite-based monitoring of vegetation activity at the earthâ€™s surface is of vital importance for many eco-climatological applications, the degree of agreement among certain sensors and products providing estimates of the Normalized Difference Vegetation Index (NDVI) has been found to vary considerably. In order to assess the extent of such differences in highly heterogeneous terrain, we analyze and compare intra-annual seasonal fluctuations and long-term monotonic trends (2003â€“2012) in the Kilimanjaro region, Tanzania. The considered NDVI datasets include the Moderate Resolution Imaging Spectroradiometer (MODIS) products from Terra and Aqua, Collections 5 and 6, and the 3rd Generation Global Inventory Modeling and Mapping Studies (GIMMS) product. The degree of agreement in seasonal fluctuations is assessed by calculating a pairwise Index of Association (IOAs), whereas long-term trends are derived from the trend-free pre-whitened Mannâ€“Kendall test. On the seasonal scale, the two Terra-MODIS products (and, accordingly, the two Aqua-MODIS products) are best associated with each other, indicating that the seasonal signal remained largely unaffected by the new Collection 6 calibration approach. On the long-term scale, we find that the negative impacts of band ageing on Terra-MODIS NDVI have been accounted for in Collection 6, which now distinctly outweighs Aqua-MODIS in terms of greening trends. GIMMS NDVI, by contrast, fails to capture small-scale seasonal and trend patterns that are characteristic for the highly fragmented landscape which is likely owing to the coarse spatial resolution. As a short digression, we also demonstrate that the amount of false discoveries in the determined trend fraction is distinctly higher for p \&lt; 0.05 ( 52.6 \% ) than for p \&lt; 0.001 ( 2.2 \% ) which should point the way for any future studies focusing on the reliable deduction of long-term monotonic trends.},
-  comment =       {While the 8-km GIMMS product fails to capture long-term monotonic and intra-annual vegetation trends and seasonality, respectively, the impacts of band ageing on Terra-MODIS NDVI, Collection 5, have seemingly been accounted for in the Collection 6 degradation calibration algorithm. However, the excess in greening trends when compared with Aqua-MODIS NDVI might point towards a possible overcompensation of sensor ageing effects.},
-  copyright =     {http://creativecommons.org/licenses/by/3.0/},
-  doi =           {10.3390/rs8020159},
-  file =          {:Detsch et al. - 2016a.pdf:PDF},
-  keywords =      {AVHRR GIMMS, Kilimanjaro, MODIS, monotonic trends, NDVI, seasonal fluctuations, sensor degradation, trend significance},
-  language =      {en},
-  owner =         {tnauss, fdetsch},
-  timestamp =     {2016.04.08},
-  url =           {http://www.mdpi.com/2072-4292/8/2/159},
-  urldate =       {2016-03-23}
+  Title                    = {{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region -- A Matter of Sensor, Degradation Calibration, and Significance}},
+  Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
+  Journal                  = {Remote Sensing},
+  Year                     = {2016},
+
+  Month                    = feb,
+  Number                   = {2},
+  Pages                    = {159},
+  Volume                   = {8},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {While satellite-based monitoring of vegetation activity at the earthâ€™s surface is of vital importance for many eco-climatological applications, the degree of agreement among certain sensors and products providing estimates of the Normalized Difference Vegetation Index (NDVI) has been found to vary considerably. In order to assess the extent of such differences in highly heterogeneous terrain, we analyze and compare intra-annual seasonal fluctuations and long-term monotonic trends (2003â€“2012) in the Kilimanjaro region, Tanzania. The considered NDVI datasets include the Moderate Resolution Imaging Spectroradiometer (MODIS) products from Terra and Aqua, Collections 5 and 6, and the 3rd Generation Global Inventory Modeling and Mapping Studies (GIMMS) product. The degree of agreement in seasonal fluctuations is assessed by calculating a pairwise Index of Association (IOAs), whereas long-term trends are derived from the trend-free pre-whitened Mannâ€“Kendall test. On the seasonal scale, the two Terra-MODIS products (and, accordingly, the two Aqua-MODIS products) are best associated with each other, indicating that the seasonal signal remained largely unaffected by the new Collection 6 calibration approach. On the long-term scale, we find that the negative impacts of band ageing on Terra-MODIS NDVI have been accounted for in Collection 6, which now distinctly outweighs Aqua-MODIS in terms of greening trends. GIMMS NDVI, by contrast, fails to capture small-scale seasonal and trend patterns that are characteristic for the highly fragmented landscape which is likely owing to the coarse spatial resolution. As a short digression, we also demonstrate that the amount of false discoveries in the determined trend fraction is distinctly higher for p \&lt; 0.05 ( 52.6 \% ) than for p \&lt; 0.001 ( 2.2 \% ) which should point the way for any future studies focusing on the reliable deduction of long-term monotonic trends.},
+  Comment                  = {While the 8-km GIMMS product fails to capture long-term monotonic and intra-annual vegetation trends and seasonality, respectively, the impacts of band ageing on Terra-MODIS NDVI, Collection 5, have seemingly been accounted for in the Collection 6 degradation calibration algorithm. However, the excess in greening trends when compared with Aqua-MODIS NDVI might point towards a possible overcompensation of sensor ageing effects.},
+  Copyright                = {http://creativecommons.org/licenses/by/3.0/},
+  Doi                      = {10.3390/rs8020159},
+  File                     = {:Detsch et al. - 2016a.pdf:PDF},
+  Keywords                 = {AVHRR GIMMS, Kilimanjaro, MODIS, monotonic trends, NDVI, seasonal fluctuations, sensor degradation, trend significance},
+  Language                 = {en},
+  Owner                    = {tnauss, fdetsch},
+  Timestamp                = {2016.04.08},
+  Url                      = {http://www.mdpi.com/2072-4292/8/2/159},
+  Urldate                  = {2016-03-23}
 }
 
 @Unpublished{Detsch2016b,
-  author =    {Detsch, Florian and Otte, Insa and Mwangomo, Ephraim and Appelhans, Tim and Nauss, Thomas},
-  title =     {{A Scintillometer-based evapotranspiration-elevation gradient along the southern slopes of Kilimanjaro}},
-  note =      {{Under review in Agricultural and Forest Meteorology}},
-  month =     feb,
-  year =      {2016},
-  comment =   {Evapotranspiration (ET) in the southern Kilimanjaro region strongly depends upon elevation and the degree of natural or human disturbance. Non-natural land covers tend to suffer from a higher net water loss during the day when compared with their natural counterparts (i.e., at similar elevations). While ET at the colline and submontane level strictly follows the course of the sun, the subalpine and lower alpine habitats reveal peak ET rates right after sunrise.},
-  file =      {:Detsch et al. - 2016b.pdf:PDF},
-  keywords =  {Climate change, Elevation gradient, Evapotranspiration, Kilimanjaro, Land-cover change, Surface-layer scintillometer},
-  owner =     {fdetsch},
-  timestamp = {2016.04.08}
+  Title                    = {{A Scintillometer-based evapotranspiration-elevation gradient along the southern slopes of Kilimanjaro}},
+  Author                   = {Detsch, Florian and Otte, Insa and Mwangomo, Ephraim and Appelhans, Tim and Nauss, Thomas},
+  Note                     = {{Under review in Agricultural and Forest Meteorology}},
+
+  Month                    = feb,
+  Year                     = {2016},
+
+  Comment                  = {Evapotranspiration (ET) in the southern Kilimanjaro region strongly depends upon elevation and the degree of natural or human disturbance. Non-natural land covers generally reveal a higher net water loss than their natural counterparts. While ET at the colline and submontane level strictly follows the course of the sun, peak ET rates over subalpine and lower alpine habitats typically occur right after sunrise.},
+  File                     = {:Detsch et al. - 2016b.pdf:PDF},
+  Keywords                 = {Climate change, Elevation gradient, Evapotranspiration, Kilimanjaro, Land-cover change, Surface-layer scintillometer},
+  Owner                    = {fdetsch},
+  Timestamp                = {2016.04.08}
 }
 
 @Unpublished{Ferger2015,
-  author =    {Ferger, Stefan and Schleuning, Matthias and Peters, Marcell and Appelhans, Tim and Detsch, Florian and Hemp, Andreas and Nauss, Thomas and Otte, Insa and B\"{o}hning-Gaese, Katrin},
-  title =     {{Synergistic effects of climate and land use on avian beta diversity}},
-  note =      {{Under review in Ecography}},
-  month =     nov,
-  year =      {2015},
-  file =      {:Ferger et al. - 2015.pdf:PDF},
-  keywords =  {Beta diversity partitioning, Climate-land use interaction, Elevation gradient},
-  owner =     {fdetsch},
-  timestamp = {2016.04.08}
+  Title                    = {{Synergistic effects of climate and land use on avian beta diversity}},
+  Author                   = {Ferger, Stefan and Schleuning, Matthias and Peters, Marcell and Appelhans, Tim and Detsch, Florian and Hemp, Andreas and Nauss, Thomas and Otte, Insa and B\"{o}hning-Gaese, Katrin},
+  Note                     = {{Under review in Ecography}},
+
+  Month                    = nov,
+  Year                     = {2015},
+
+  File                     = {:Ferger et al. - 2015.pdf:PDF},
+  Keywords                 = {Beta diversity partitioning, Climate-land use interaction, Elevation gradient},
+  Owner                    = {fdetsch},
+  Timestamp                = {2016.04.08}
+}
+
+@Article{Frueh2007,
+  Title                    = {{V}erification of precipitation from regional climate simulations and remote-sensing observations with respect to ground-based observations in the upper {Danube} catchment},
+  Author                   = {Früh, Barbara and Bendix, Jörg and Nauss, Thomas and Paulat, Marcus and Pfeiffer, Andreas and Schipper, Janus W. and Thies, Boris and Wernli, Heini},
+  Journal                  = {Meteorologische Zeitschrift},
+  Year                     = {2007},
+
+  Month                    = jun,
+  Number                   = {3},
+  Pages                    = {275--293},
+  Volume                   = {16},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {An evaluation of precipitation fields for four selected months simulated by the regional climate model and provided by the satellite retrieval method is presented. As reference, observations at 5 km resolution on a daily and monthly basis are used. We applied conventional verification tools (root mean square error, grid-point based categorical error scores, etc.) as well as the new error score SAL, which separately considers aspects of the structure, amplitude and location of the precipitation field in a predefined area. We also discussed the advantages and disadvantages of each of the scores. The aim of our evaluation was to unfold the strengths and weaknesses of and to calculate daily and monthly high resolution precipitation. As a result we found that the catchment averaged monthly mean precipitation is simulated with an acceptable accuracy by both methods. The spatial pattern of the monthly precipitation (typically with a precipitation maximum in the alpine foreland) can only be reproduced by . Regarding the daily precipitation, our evaluation revealed that both methods still need improvement. The deviations to the observations increase with decreasing precipitation amount resulting in large uncertainties in case of very dry conditions. Overall, we can conclude that is better suited to simulate precipitation at 5 km resolution on a daily basis than . German Diese Studie beschreibt eine Evaluation der Niederschlagsfelder am Beispiel von vier ausgewÃ¤hlten Monaten, welche zum einen mit dem regionalen Klimamodell AtmoMM5 simuliert und zum anderen von der fernerkundlichen Methode AtmoSat bereitgestellt wurden. Als Referenz dienen Beobachtungen mit 5 km AuflÃ¶sung auf tÃ¤glicher und monatlicher Basis. Es wurden sowohl konventionelle Verifikationsmethoden (mittlere quadratische Abweichung, gitterpunkt basierte kategorische FehlermaÃŸe, usw.) als auch das neue FehlermaÃŸ SAL verwendet. SAL berÃ¼cksichtigt Aspekte der Struktur, Amplitude und Position des Niederschlagsfeldes in einem definierten Gebiet jeweils unabhÃ¤ngig. Desweiteren werden die Vor- und Nachteile der verwendeten FehlermaÃŸe diskutiert. Das Ziel dieser Evaluation war die StÃ¤rken und SchwÃ¤chen von AtmoMM5 und AtmoSat aufzudecken, mit welchen die Modelle den tÃ¤glichen und monatlichen Niederschlag mit hoher rÃ¤umlicher AuflÃ¶sung berechnen. Als Ergebnis lÃ¤sst sich zusammenfassen, dass der monatliche Niederschlag gemittelt Ã¼ber das Einzugsbiet von beiden Methoden mit akzeptabler Genauigkeit simuliert wird. Das rÃ¤umliche Muster des Monatsniederschlags (typischerweise mit einem Niederschlagsmaximum im Alpenvorland) kann jedoch nur von AtmoMM5 reproduziert werden. BezÃ¼glich des tÃ¤glichen Niederschlags ergab sich aus der Evaluation, dass fÃ¼r beide Verfahren weiterhin Verbesserungsbedarf besteht. Die Abweichungen zu den Beobachtungen steigen mit abnehmender Niederschlagsmenge. Dies resultiert in groÃŸen Unsicherheiten im Fall von sehr trockenen Bedingungen. Allgemein kann festgehalten werden, dass AtmoMM5 besser geeignet ist den tÃ¤glichen Niederschlag mit 5 km AuflÃ¶sung zu simulieren als AtmoSat .},
+  Doi                      = {10.1127/0941-2948/2007/0210},
+  File                     = {IngentaConnect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\D9FIK746\\Früh et al. - 2007 - Verification of precipitation from regional climat.pdf:application/pdf},
+  Owner                    = {tnauss},
+  Timestamp                = {2016.03.23}
 }
 
 @Article{Fries2009,
@@ -557,62 +586,18 @@ Temperature and the availability of resources shape species richness patterns al
   Urldate                  = {2016-03-23}
 }
 
-@Article{Frueh2007,
-  Title                    = {{V}erification of precipitation from regional climate simulations and remote-sensing observations with respect to ground-based observations in the upper {Danube} catchment},
-  Author                   = {Früh, Barbara and Bendix, Jörg and Nauss, Thomas and Paulat, Marcus and Pfeiffer, Andreas and Schipper, Janus W. and Thies, Boris and Wernli, Heini},
-  Journal                  = {Meteorologische Zeitschrift},
-  Year                     = {2007},
-
-  Month                    = jun,
-  Number                   = {3},
-  Pages                    = {275--293},
-  Volume                   = {16},
-
-  __markedentry            = {[tnauss:6]},
-  Abstract                 = {An evaluation of precipitation fields for four selected months simulated by the regional climate model and provided by the satellite retrieval method is presented. As reference, observations at 5 km resolution on a daily and monthly basis are used. We applied conventional verification tools (root mean square error, grid-point based categorical error scores, etc.) as well as the new error score SAL, which separately considers aspects of the structure, amplitude and location of the precipitation field in a predefined area. We also discussed the advantages and disadvantages of each of the scores. The aim of our evaluation was to unfold the strengths and weaknesses of and to calculate daily and monthly high resolution precipitation. As a result we found that the catchment averaged monthly mean precipitation is simulated with an acceptable accuracy by both methods. The spatial pattern of the monthly precipitation (typically with a precipitation maximum in the alpine foreland) can only be reproduced by . Regarding the daily precipitation, our evaluation revealed that both methods still need improvement. The deviations to the observations increase with decreasing precipitation amount resulting in large uncertainties in case of very dry conditions. Overall, we can conclude that is better suited to simulate precipitation at 5 km resolution on a daily basis than . German Diese Studie beschreibt eine Evaluation der Niederschlagsfelder am Beispiel von vier ausgewÃ¤hlten Monaten, welche zum einen mit dem regionalen Klimamodell AtmoMM5 simuliert und zum anderen von der fernerkundlichen Methode AtmoSat bereitgestellt wurden. Als Referenz dienen Beobachtungen mit 5 km AuflÃ¶sung auf tÃ¤glicher und monatlicher Basis. Es wurden sowohl konventionelle Verifikationsmethoden (mittlere quadratische Abweichung, gitterpunkt basierte kategorische FehlermaÃŸe, usw.) als auch das neue FehlermaÃŸ SAL verwendet. SAL berÃ¼cksichtigt Aspekte der Struktur, Amplitude und Position des Niederschlagsfeldes in einem definierten Gebiet jeweils unabhÃ¤ngig. Desweiteren werden die Vor- und Nachteile der verwendeten FehlermaÃŸe diskutiert. Das Ziel dieser Evaluation war die StÃ¤rken und SchwÃ¤chen von AtmoMM5 und AtmoSat aufzudecken, mit welchen die Modelle den tÃ¤glichen und monatlichen Niederschlag mit hoher rÃ¤umlicher AuflÃ¶sung berechnen. Als Ergebnis lÃ¤sst sich zusammenfassen, dass der monatliche Niederschlag gemittelt Ã¼ber das Einzugsbiet von beiden Methoden mit akzeptabler Genauigkeit simuliert wird. Das rÃ¤umliche Muster des Monatsniederschlags (typischerweise mit einem Niederschlagsmaximum im Alpenvorland) kann jedoch nur von AtmoMM5 reproduziert werden. BezÃ¼glich des tÃ¤glichen Niederschlags ergab sich aus der Evaluation, dass fÃ¼r beide Verfahren weiterhin Verbesserungsbedarf besteht. Die Abweichungen zu den Beobachtungen steigen mit abnehmender Niederschlagsmenge. Dies resultiert in groÃŸen Unsicherheiten im Fall von sehr trockenen Bedingungen. Allgemein kann festgehalten werden, dass AtmoMM5 besser geeignet ist den tÃ¤glichen Niederschlag mit 5 km AuflÃ¶sung zu simulieren als AtmoSat .},
-  Doi                      = {10.1127/0941-2948/2007/0210},
-  File                     = {IngentaConnect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\D9FIK746\\Früh et al. - 2007 - Verification of precipitation from regional climat.pdf:application/pdf},
-  Owner                    = {tnauss},
-  Timestamp                = {2016.03.23}
-}
-
 @Unpublished{Guetlein2016,
-  author =    {G\"{u}tlein, Adrian and Zistl-Schlingmann, Marcus and Becker, Joscha and Sierra Cornejo, Natalia and Detsch, Florian and Dannenmann, Michael and Appelhans, Tim and Hertel, Dietrich and Kuzyakov, Yakov and Kiese, Ralf},
-  title =     {{N-turnover and greenhouse gas emissions in a tropical alpine ecosystem on Mt. Kilimanjaro}},
-  note =      {{Under review in Plant and Soil}},
-  month =     apr,
-  year =      {2016},
-  file =      {:Gütlein et al. - 2016.pdf:PDF},
-  keywords =  {15N pool dilution, Gross N turnover, Greenhouse gases, Soil N cycling, Tropical alpine ecosystem},
-  owner =     {fdetsch},
-  timestamp = {2016.04.08}
-}
+  Title                    = {{N-turnover and greenhouse gas emissions in a tropical alpine ecosystem on Mt. Kilimanjaro}},
+  Author                   = {G\"{u}tlein, Adrian and Zistl-Schlingmann, Marcus and Becker, Joscha and Sierra Cornejo, Natalia and Detsch, Florian and Dannenmann, Michael and Appelhans, Tim and Hertel, Dietrich and Kuzyakov, Yakov and Kiese, Ralf},
+  Note                     = {{Under review in Plant and Soil}},
 
-@InProceedings{,
-  Title                    = {{G}eostatistical modelling with 3{D}+{T} data: soil moisture, temperature, and electrical conductivity at the field scale},
-  Author                   = {Gasch, C. and Hengl, T. and Gräler, B. and Meyer, H. and Magney, T. and Brown, D.J.},
-  Year                     = {2015},
-  Number                   = {EGU2015-8598-2},
-  Volume                   = {17},
+  Month                    = apr,
+  Year                     = {2016},
 
-  Owner                    = {hanna},
-  Timestamp                = {2016.04.07}
-}
-
-@Article{Gasch2015,
-  Title                    = {{S}patio-temporal interpolation of soil water, temperature, and electrical conductivity in 3{D} + {T}: {T}he {C}ook {A}gronomy {F}arm data set },
-  Author                   = {Caley K. Gasch and Tomislav Hengl and Benedikt Gräler and Hanna Meyer and Troy S. Magney and David J. Brown},
-  Journal                  = {Spatial Statistics },
-  Year                     = {2015},
-  Note                     = {Spatial and Spatio-Temporal Models for Interpolating Climatic and Meteorological Data },
-  Pages                    = {70 - 90},
-  Volume                   = {14, Part A},
-
-  Doi                      = {http://dx.doi.org/10.1016/j.spasta.2015.04.001},
-  File                     = {:pdf/Gasch2015.pdf:PDF},
-  ISSN                     = {2211-6753},
-  Keywords                 = {Digital soil mapping},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S2211675315000251}
+  File                     = {:Gütlein et al. - 2016.pdf:PDF},
+  Keywords                 = {15N pool dilution, Gross N turnover, Greenhouse gases, Soil N cycling, Tropical alpine ecosystem},
+  Owner                    = {fdetsch},
+  Timestamp                = {2016.04.08}
 }
 
 @Article{Goettlicher2009,
@@ -660,27 +645,96 @@ Temperature and the availability of resources shape species richness patterns al
   Urldate                  = {2016-03-23}
 }
 
-@Article{Kokhanovsky2005,
-  Title                    = {{S}atellite-based retrieval of ice cloud properties using a semianalytical algorithm},
-  Author                   = {Kokhanovsky, A. A. and Nauss, T.},
-  Journal                  = {Journal of Geophysical Research: Atmospheres},
-  Year                     = {2005},
+@InProceedings{,
+  Title                    = {{G}eostatistical modelling with 3{D}+{T} data: soil moisture, temperature, and electrical conductivity at the field scale},
+  Author                   = {Gasch, C. and Hengl, T. and Gräler, B. and Meyer, H. and Magney, T. and Brown, D.J.},
+  Year                     = {2015},
+  Number                   = {EGU2015-8598-2},
+  Volume                   = {17},
 
-  Month                    = oct,
-  Number                   = {D19},
-  Pages                    = {D19206},
-  Volume                   = {110},
+  Owner                    = {hanna},
+  Timestamp                = {2016.04.07}
+}
+
+@Article{Gasch2015,
+  Title                    = {{S}patio-temporal interpolation of soil water, temperature, and electrical conductivity in 3{D} + {T}: {T}he {C}ook {A}gronomy {F}arm data set },
+  Author                   = {Caley K. Gasch and Tomislav Hengl and Benedikt Gräler and Hanna Meyer and Troy S. Magney and David J. Brown},
+  Journal                  = {Spatial Statistics },
+  Year                     = {2015},
+  Note                     = {Spatial and Spatio-Temporal Models for Interpolating Climatic and Meteorological Data },
+  Pages                    = {70 - 90},
+  Volume                   = {14, Part A},
+
+  Doi                      = {http://dx.doi.org/10.1016/j.spasta.2015.04.001},
+  File                     = {:pdf/Gasch2015.pdf:PDF},
+  ISSN                     = {2211-6753},
+  Keywords                 = {Digital soil mapping},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S2211675315000251}
+}
+
+@Article{Kuehnlein2013,
+  Title                    = {{A}n evaluation of a semi-analytical cloud property retrieval using {MSG} {SEVIRI}, {MODIS} and {CloudSat}},
+  Author                   = {Kühnlein, Meike and Appelhans, Tim and Thies, Boris and Kokhanovsky, Alexander A. and Nauss, Thomas},
+  Journal                  = {Atmospheric Research},
+  Year                     = {2013},
+
+  Month                    = mar,
+  Pages                    = {111--135},
+  Volume                   = {122},
 
   __markedentry            = {[tnauss:6]},
-  Abstract                 = {A semianalytical algorithm for the retrieval of ice cloud properties from satellite data is presented. The new method is based on the semianalytical cloud retrieval algorithm and uses solutions of the asymptotic radiative transfer theory applicable for optically thick media. Therefore the new method is much less computer time expensive than the commonly used lookup table approaches. Usually, the cloud optical thickness and cloud effective droplet radius are reported for water and ice clouds even though both parameters are dependent on the actual crystal shape assumed in the retrieval procedures. Thus the authors propose to use the reduced optical thickness (ROT) and the particle absorption length (PAL) for the characterization of ice clouds. This implies that no a priori or climatological estimates of the particle shape/size distribution are necessary and increases the comparability of different cloud retrieval algorithms, which are built on many different distribution functions. If still necessary, the retrieved ROT and PAL can easily be transferred to values of the optical thickness and the cloud effective droplet radius by assuming any of those size distribution functions. The developed technique has been applied to data from the NASA EOS Terra Moderate Resolution Imaging Spectroradiometer sensor. The scene shows Hurricane Jeanne just before its landfall near the coast of Florida in September 2004. Both the reduced cloud optical thickness and the particle absorption length have been derived for the eye wall region.},
-  Doi                      = {10.1029/2004JD005744},
-  File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\7263EPQH\\Kokhanovsky and Nauss - 2005 - Satellite-based retrieval of ice cloud properties .pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\X9JG74RE\\abstract.html:text/html},
-  ISSN                     = {2156-2202},
-  Keywords                 = {0305 Aerosols and particles, 0319 Cloud optics, 0321 Cloud/radiation interaction, 0345 Pollution: urban and regional, 0360 Radiation: transmission and scattering, ice clouds, light scattering, remote sensing},
-  Language                 = {en},
+  Abstract                 = {Knowledge of cloud properties such as cloud effective radius (aef) and optical thickness (�?„) is essential to understand their role in the dynamic radiation budget and climate change. The Spinning Enhanced Visible and Infrared Instrument (SEVIRI) on board Meteosat Second Generation (MSG) with its high temporal resolution (15 min), permits a quasi-continuous monitoring of the evolution of cloud properties. This has motivated the adaptation of the SLALOM (SimpLe Approximations for cLOudy Media) algorithm, a semi-analytical cloud property retrieval technique to MSG SEVIRI. The optical properties retrieved by SLALOM are compared against the well known and validated NASA MODIS cloud property product (MODIS 06) as well as the cloud optical depth product (2B-TAU) of CloudSat. The results are shown over the North Atlantic and over the European continent with the intention of determine the relative accuracy between SLALOM and the other retrievals. Over the North Atlantic, SLALOM-based cloud properties retrieved from SEVIRI datasets show a good agreement with the MODIS 06 product with correlation coefficients of 0.93 (�?„) and 0.82 (aef). The largest deviations were found in less homogeneous cloud areas that are characterized by broken clouds and toward the cloud borders. Moreover, SLALOM optical thickness values are well within the range of corresponding CloudSat 2B-TAU optical thickness values which can be found within a SEVIRI pixel, except for �?„ \&lt; 5 where SLALOM tends to overestimate �?„. Despite the different sensor characteristics and viewing geometries, the retrieved cloud properties compare very well. Over Europe, the evaluation between SLALOM and MODIS 06 showed larger differences. We attribute this to (a) uncertainties related to the surface albedo which is treated differently in the algorithms and is based on different albedo maps and (b) inhomogeneities of clouds which exhibit quite complex structures particularly over land. The latter are detected on different scales by MODIS and SEVIRI because of their different spatial resolutions. Given the demonstrated accuracy of SLALOM using MSG SEVIRI data there is a wide spread of potential applications.},
+  Doi                      = {10.1016/j.atmosres.2012.10.029},
+  File                     = {ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\52DVK4DR\\Kühnlein et al. - 2013 - An evaluation of a semi-analytical cloud property .pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\SARS29ND\\S0169809512003833.html:text/html},
+  ISSN                     = {0169-8095},
+  Keywords                 = {Cloud properties, CloudSat, MODIS, MSG SEVIRI, Satellite retrieval, SLALOM},
   Owner                    = {tnauss},
   Timestamp                = {2016.03.23},
-  Url                      = {http://onlinelibrary.wiley.com/doi/10.1029/2004JD005744/abstract},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0169809512003833},
+  Urldate                  = {2016-03-23}
+}
+
+@Article{Kuehnlein2014,
+  Title                    = {{P}recipitation {Estimates} from {MSG} {SEVIRI} {Daytime}, {Nighttime}, and {Twilight} {Data} with {Random} {Forests}},
+  Author                   = {Kühnlein, Meike and Appelhans, Tim and Thies, Boris and Nauss, Thomas},
+  Journal                  = {Journal of Applied Meteorology and Climatology},
+  Year                     = {2014},
+
+  Month                    = sep,
+  Number                   = {11},
+  Pages                    = {2457--2480},
+  Volume                   = {53},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {A new rainfall retrieval technique for determining rainfall rates in a continuous manner (day, twilight, and night) resulting in a 24-h estimation applicable to midlatitudes is presented. The approach is based on satellite-derived information on cloud-top height, cloud-top temperature, cloud phase, and cloud water path retrieved from Meteosat Second Generation (MSG) Spinning Enhanced Visible and Infrared Imager (SEVIRI) data and uses the random forests (RF) machine-learning algorithm. The technique is realized in three steps: (i) precipitating cloud areas are identified, (ii) the areas are separated into convective and advective-stratiform precipitating areas, and (iii) rainfall rates are assigned separately to the convective and advective-stratiform precipitating areas. Validation studies were carried out for each individual step as well as for the overall procedure using collocated ground-based radar data. Regarding each individual step, the models for rain area and convective precipitation detection produce good results. Both retrieval steps show a general tendency toward elevated prediction skill during summer months and daytime. The RF models for rainfall-rate assignment exhibit similar performance patterns, yet it is noteworthy how well the model is able to predict rainfall rates during nighttime and twilight. The performance of the overall procedure shows a very promising potential to estimate rainfall rates at high temporal and spatial resolutions in an automated manner. The near-real-time continuous applicability of the technique with acceptable prediction performances at 3â€“8-hourly intervals is particularly remarkable. This provides a very promising basis for future investigations into precipitation estimation based on machine-learning approaches and MSG SEVIRI data.},
+  Doi                      = {10.1175/JAMC-D-14-0082.1},
+  File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\5J8EWFZ9\\Kühnlein et al. - 2014 - Precipitation Estimates from MSG SEVIRI Daytime, N.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\QRR6X6HV\\JAMC-D-14-0082.html:text/html},
+  ISSN                     = {1558-8424},
+  Owner                    = {tnauss},
+  Timestamp                = {2016.03.23},
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-14-0082.1},
+  Urldate                  = {2016-03-23}
+}
+
+@Article{Kuehnlein2010,
+  Title                    = {{R}ainfall-{Rate} {Assignment} {Using} {MSG} {SEVIRI} {Data}â€�?{A} {Promising} {Approach} to {Spaceborne} {Rainfall}-{Rate} {Retrieval} for {Midlatitudes}},
+  Author                   = {Kühnlein, Meike and Thies, Boris and Nauss, Thomas and Bendix, Jörg},
+  Journal                  = {Journal of Applied Meteorology and Climatology},
+  Year                     = {2010},
+
+  Month                    = mar,
+  Number                   = {7},
+  Pages                    = {1477--1495},
+  Volume                   = {49},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {The potential of rainfall-rate assignment using Meteosat Second Generation (MSG) Spinning Enhanced Visible and Infrared Instrument (SEVIRI) data is investigated. For this purpose, a new conceptual model for precipitation processes in connection with midlatitude cyclones is developed, based on the assumption that high rainfall rates are linked to a high optical thickness and a large effective particle radius, whereas low rainfall rates are linked to a low optical thickness and a small effective particle radius. Reflection values in the 0.56â€“0.71-Î¼m (VIS0.6) and 1.5â€“1.78-Î¼m (NIR1.6) channels, which provide information about the optical thickness and the effective radius, are considered in lieu of the optical and microphysical cloud properties. An analysis of the relationship between VIS0.6 and NIR1.6 reflection and the ground-based rainfall rate revealed a high correlation between the sensor signal and the rainfall rate. Based on these findings, a method for rainfall-rate assignment as a function of VIS0.6 and NIR1.6 reflection is proposed. The validation of the proposed technique showed encouraging results, especially for temporal resolutions of 6 and 12 h. This is a significant improvement compared to existing IR retrievals, which obtain comparable results for monthly resolution. The existing relationship between the VIS0.6 and NIR1.6 reflection values and the ground-based rainfall rate is corroborated with the new conceptual model. The good validation results indicate the high potential for rainfall retrieval in the midlatitudes with the high spatial and temporal resolution provided by MSG SEVIRI.},
+  Doi                      = {10.1175/2010JAMC2284.1},
+  File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\U3V8I5SC\\Kühnlein et al. - 2010 - Rainfall-Rate Assignment Using MSG SEVIRI Dataâ€�?A P.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\W2ID6NSC\\2010JAMC2284.html:text/html},
+  ISSN                     = {1558-8424},
+  Owner                    = {tnauss},
+  Timestamp                = {2016.03.23},
+  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2010JAMC2284.1},
   Urldate                  = {2016-03-23}
 }
 
@@ -704,6 +758,30 @@ Temperature and the availability of resources shape species richness patterns al
   Shorttitle               = {Reflection and transmission of solar light by clouds},
   Timestamp                = {2016.03.23},
   Url                      = {http://www.atmos-chem-phys.net/6/5537/2006/},
+  Urldate                  = {2016-03-23}
+}
+
+@Article{Kokhanovsky2005,
+  Title                    = {{S}atellite-based retrieval of ice cloud properties using a semianalytical algorithm},
+  Author                   = {Kokhanovsky, A. A. and Nauss, T.},
+  Journal                  = {Journal of Geophysical Research: Atmospheres},
+  Year                     = {2005},
+
+  Month                    = oct,
+  Number                   = {D19},
+  Pages                    = {D19206},
+  Volume                   = {110},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {A semianalytical algorithm for the retrieval of ice cloud properties from satellite data is presented. The new method is based on the semianalytical cloud retrieval algorithm and uses solutions of the asymptotic radiative transfer theory applicable for optically thick media. Therefore the new method is much less computer time expensive than the commonly used lookup table approaches. Usually, the cloud optical thickness and cloud effective droplet radius are reported for water and ice clouds even though both parameters are dependent on the actual crystal shape assumed in the retrieval procedures. Thus the authors propose to use the reduced optical thickness (ROT) and the particle absorption length (PAL) for the characterization of ice clouds. This implies that no a priori or climatological estimates of the particle shape/size distribution are necessary and increases the comparability of different cloud retrieval algorithms, which are built on many different distribution functions. If still necessary, the retrieved ROT and PAL can easily be transferred to values of the optical thickness and the cloud effective droplet radius by assuming any of those size distribution functions. The developed technique has been applied to data from the NASA EOS Terra Moderate Resolution Imaging Spectroradiometer sensor. The scene shows Hurricane Jeanne just before its landfall near the coast of Florida in September 2004. Both the reduced cloud optical thickness and the particle absorption length have been derived for the eye wall region.},
+  Doi                      = {10.1029/2004JD005744},
+  File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\7263EPQH\\Kokhanovsky and Nauss - 2005 - Satellite-based retrieval of ice cloud properties .pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\X9JG74RE\\abstract.html:text/html},
+  ISSN                     = {2156-2202},
+  Keywords                 = {0305 Aerosols and particles, 0319 Cloud optics, 0321 Cloud/radiation interaction, 0345 Pollution: urban and regional, 0360 Radiation: transmission and scattering, ice clouds, light scattering, remote sensing},
+  Language                 = {en},
+  Owner                    = {tnauss},
+  Timestamp                = {2016.03.23},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1029/2004JD005744/abstract},
   Urldate                  = {2016-03-23}
 }
 
@@ -762,72 +840,6 @@ Temperature and the availability of resources shape species richness patterns al
   Keywords                 = {Rainfall rate}
 }
 
-@Article{Kuehnlein2013,
-  Title                    = {{A}n evaluation of a semi-analytical cloud property retrieval using {MSG} {SEVIRI}, {MODIS} and {CloudSat}},
-  Author                   = {Kühnlein, Meike and Appelhans, Tim and Thies, Boris and Kokhanovsky, Alexander A. and Nauss, Thomas},
-  Journal                  = {Atmospheric Research},
-  Year                     = {2013},
-
-  Month                    = mar,
-  Pages                    = {111--135},
-  Volume                   = {122},
-
-  __markedentry            = {[tnauss:6]},
-  Abstract                 = {Knowledge of cloud properties such as cloud effective radius (aef) and optical thickness (Ï„) is essential to understand their role in the dynamic radiation budget and climate change. The Spinning Enhanced Visible and Infrared Instrument (SEVIRI) on board Meteosat Second Generation (MSG) with its high temporal resolution (15 min), permits a quasi-continuous monitoring of the evolution of cloud properties. This has motivated the adaptation of the SLALOM (SimpLe Approximations for cLOudy Media) algorithm, a semi-analytical cloud property retrieval technique to MSG SEVIRI. The optical properties retrieved by SLALOM are compared against the well known and validated NASA MODIS cloud property product (MODIS 06) as well as the cloud optical depth product (2B-TAU) of CloudSat. The results are shown over the North Atlantic and over the European continent with the intention of determine the relative accuracy between SLALOM and the other retrievals. Over the North Atlantic, SLALOM-based cloud properties retrieved from SEVIRI datasets show a good agreement with the MODIS 06 product with correlation coefficients of 0.93 (Ï„) and 0.82 (aef). The largest deviations were found in less homogeneous cloud areas that are characterized by broken clouds and toward the cloud borders. Moreover, SLALOM optical thickness values are well within the range of corresponding CloudSat 2B-TAU optical thickness values which can be found within a SEVIRI pixel, except for Ï„ \&lt; 5 where SLALOM tends to overestimate Ï„. Despite the different sensor characteristics and viewing geometries, the retrieved cloud properties compare very well. Over Europe, the evaluation between SLALOM and MODIS 06 showed larger differences. We attribute this to (a) uncertainties related to the surface albedo which is treated differently in the algorithms and is based on different albedo maps and (b) inhomogeneities of clouds which exhibit quite complex structures particularly over land. The latter are detected on different scales by MODIS and SEVIRI because of their different spatial resolutions. Given the demonstrated accuracy of SLALOM using MSG SEVIRI data there is a wide spread of potential applications.},
-  Doi                      = {10.1016/j.atmosres.2012.10.029},
-  File                     = {ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\52DVK4DR\\Kühnlein et al. - 2013 - An evaluation of a semi-analytical cloud property .pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\SARS29ND\\S0169809512003833.html:text/html},
-  ISSN                     = {0169-8095},
-  Keywords                 = {Cloud properties, CloudSat, MODIS, MSG SEVIRI, Satellite retrieval, SLALOM},
-  Owner                    = {tnauss},
-  Timestamp                = {2016.03.23},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S0169809512003833},
-  Urldate                  = {2016-03-23}
-}
-
-@Article{Kuehnlein2014,
-  Title                    = {{P}recipitation {Estimates} from {MSG} {SEVIRI} {Daytime}, {Nighttime}, and {Twilight} {Data} with {Random} {Forests}},
-  Author                   = {Kühnlein, Meike and Appelhans, Tim and Thies, Boris and Nauss, Thomas},
-  Journal                  = {Journal of Applied Meteorology and Climatology},
-  Year                     = {2014},
-
-  Month                    = sep,
-  Number                   = {11},
-  Pages                    = {2457--2480},
-  Volume                   = {53},
-
-  __markedentry            = {[tnauss:6]},
-  Abstract                 = {A new rainfall retrieval technique for determining rainfall rates in a continuous manner (day, twilight, and night) resulting in a 24-h estimation applicable to midlatitudes is presented. The approach is based on satellite-derived information on cloud-top height, cloud-top temperature, cloud phase, and cloud water path retrieved from Meteosat Second Generation (MSG) Spinning Enhanced Visible and Infrared Imager (SEVIRI) data and uses the random forests (RF) machine-learning algorithm. The technique is realized in three steps: (i) precipitating cloud areas are identified, (ii) the areas are separated into convective and advective-stratiform precipitating areas, and (iii) rainfall rates are assigned separately to the convective and advective-stratiform precipitating areas. Validation studies were carried out for each individual step as well as for the overall procedure using collocated ground-based radar data. Regarding each individual step, the models for rain area and convective precipitation detection produce good results. Both retrieval steps show a general tendency toward elevated prediction skill during summer months and daytime. The RF models for rainfall-rate assignment exhibit similar performance patterns, yet it is noteworthy how well the model is able to predict rainfall rates during nighttime and twilight. The performance of the overall procedure shows a very promising potential to estimate rainfall rates at high temporal and spatial resolutions in an automated manner. The near-real-time continuous applicability of the technique with acceptable prediction performances at 3â€“8-hourly intervals is particularly remarkable. This provides a very promising basis for future investigations into precipitation estimation based on machine-learning approaches and MSG SEVIRI data.},
-  Doi                      = {10.1175/JAMC-D-14-0082.1},
-  File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\5J8EWFZ9\\Kühnlein et al. - 2014 - Precipitation Estimates from MSG SEVIRI Daytime, N.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\QRR6X6HV\\JAMC-D-14-0082.html:text/html},
-  ISSN                     = {1558-8424},
-  Owner                    = {tnauss},
-  Timestamp                = {2016.03.23},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/JAMC-D-14-0082.1},
-  Urldate                  = {2016-03-23}
-}
-
-@Article{Kuehnlein2010,
-  Title                    = {{R}ainfall-{Rate} {Assignment} {Using} {MSG} {SEVIRI} {Data}â€”{A} {Promising} {Approach} to {Spaceborne} {Rainfall}-{Rate} {Retrieval} for {Midlatitudes}},
-  Author                   = {Kühnlein, Meike and Thies, Boris and Nauss, Thomas and Bendix, Jörg},
-  Journal                  = {Journal of Applied Meteorology and Climatology},
-  Year                     = {2010},
-
-  Month                    = mar,
-  Number                   = {7},
-  Pages                    = {1477--1495},
-  Volume                   = {49},
-
-  __markedentry            = {[tnauss:6]},
-  Abstract                 = {The potential of rainfall-rate assignment using Meteosat Second Generation (MSG) Spinning Enhanced Visible and Infrared Instrument (SEVIRI) data is investigated. For this purpose, a new conceptual model for precipitation processes in connection with midlatitude cyclones is developed, based on the assumption that high rainfall rates are linked to a high optical thickness and a large effective particle radius, whereas low rainfall rates are linked to a low optical thickness and a small effective particle radius. Reflection values in the 0.56â€“0.71-Î¼m (VIS0.6) and 1.5â€“1.78-Î¼m (NIR1.6) channels, which provide information about the optical thickness and the effective radius, are considered in lieu of the optical and microphysical cloud properties. An analysis of the relationship between VIS0.6 and NIR1.6 reflection and the ground-based rainfall rate revealed a high correlation between the sensor signal and the rainfall rate. Based on these findings, a method for rainfall-rate assignment as a function of VIS0.6 and NIR1.6 reflection is proposed. The validation of the proposed technique showed encouraging results, especially for temporal resolutions of 6 and 12 h. This is a significant improvement compared to existing IR retrievals, which obtain comparable results for monthly resolution. The existing relationship between the VIS0.6 and NIR1.6 reflection values and the ground-based rainfall rate is corroborated with the new conceptual model. The good validation results indicate the high potential for rainfall retrieval in the midlatitudes with the high spatial and temporal resolution provided by MSG SEVIRI.},
-  Doi                      = {10.1175/2010JAMC2284.1},
-  File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\U3V8I5SC\\Kühnlein et al. - 2010 - Rainfall-Rate Assignment Using MSG SEVIRI Dataâ€”A P.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\W2ID6NSC\\2010JAMC2284.html:text/html},
-  ISSN                     = {1558-8424},
-  Owner                    = {tnauss},
-  Timestamp                = {2016.03.23},
-  Url                      = {http://journals.ametsoc.org/doi/abs/10.1175/2010JAMC2284.1},
-  Urldate                  = {2016-03-23}
-}
-
 @Conference{Lehnert2015b,
   Title                    = {{H}yperspectral {D}ata {A}nalysis in {R}: {T}he new hsdar-package},
   Author                   = {Lehnert, L. and Meyer, H. and Bendix, J.},
@@ -855,18 +867,6 @@ Temperature and the availability of resources shape species richness patterns al
   Year                     = {2015}
 }
 
-@InProceedings{Lehnert2013,
-  Title                    = {{A}ssessing pasture quality and degradation status using hyperspectral imaging: a case study from western {T}ibet},
-  Author                   = {Lehnert, Lukas W. and Meyer, Hanna and Meyer, Nele and Reudenbach, Christoph and Bendix, Jörg},
-  Booktitle                = {Proc. SPIE 8887, Remote Sensing for Agriculture, Ecosystems, and Hydrology XV, 88870I (16 October 2013)},
-  Year                     = {2013},
-  Volume                   = {8887},
-
-  Abstract                 = {Alpine grasslands on the Tibetan Plateau (TP) are suffering from pasture degradation induced by over-grazing, climate change and improper livestock management. Meanwhile, the status of pastures is largely unknown especially in poor accessible western parts on the TP. The aim of this case study was to assess the suitability of hyperspectral imaging to predict quality and amount of forage on the western TP. Therefore, 18 ground- based hyperspectral images taken along two transects on a winter pasture were used to estimate leaf chlorophyll content, photosynthetic-active vegetation cover (PV) and proportion of grasses. For calibration and validation purposes, chlorophyll content of 20 grass plants was measured in situ. From the images reference spectra of grass and non-grass species were collected. PV was assessed from similarity of images to mean vegetation spectra using spectral angle mapper and threshold classifications. A set of 48 previously published hyperspectral vegetation indices (VI) was used as predictors to estimate chlorophyll content and to discriminate grass and non-grass pixels. Separation into grass and non-grass species was performed using partial least squares (PLS) discriminant analysis and chlorophyll content was estimated with PLS regression. The accuracy of the models was assessed with leave-one-out cross validation and normalised root mean square errors (nRMSE) for chlorophyll and contingency matrices for grass classification and total PV separation. Highest error rates were observed for discrimination between vegetated and non-vegetated parts (Overall accuracy = 0.85), whilst accuracies of grass and non grass separation (Overall accuracy = 0.98) and chlorophyll estimation were higher (nRMSE = 10.7).},
-  Comment                  = {10.1117/12.2028348},
-  Timestamp                = {2013.12.03}
-}
-
 @Article{Lehnert2014,
   Title                    = {{A} hyperspectral indicator system for rangeland degradation on the {T}ibetan {P}lateau: {A} case study towards spaceborne monitoring },
   Author                   = {Lukas W. Lehnert and Hanna Meyer and Nele Meyer and Christoph Reudenbach and Jörg Bendix},
@@ -885,6 +885,18 @@ Testing the suitability of common multi- and hyperspectral satellite sensors to 
   ISSN                     = {1470-160X},
   Keywords                 = {Tibetan Plateau},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S1470160X13004950}
+}
+
+@InProceedings{Lehnert2013,
+  Title                    = {{A}ssessing pasture quality and degradation status using hyperspectral imaging: a case study from western {T}ibet},
+  Author                   = {Lehnert, Lukas W. and Meyer, Hanna and Meyer, Nele and Reudenbach, Christoph and Bendix, Jörg},
+  Booktitle                = {Proc. SPIE 8887, Remote Sensing for Agriculture, Ecosystems, and Hydrology XV, 88870I (16 October 2013)},
+  Year                     = {2013},
+  Volume                   = {8887},
+
+  Abstract                 = {Alpine grasslands on the Tibetan Plateau (TP) are suffering from pasture degradation induced by over-grazing, climate change and improper livestock management. Meanwhile, the status of pastures is largely unknown especially in poor accessible western parts on the TP. The aim of this case study was to assess the suitability of hyperspectral imaging to predict quality and amount of forage on the western TP. Therefore, 18 ground- based hyperspectral images taken along two transects on a winter pasture were used to estimate leaf chlorophyll content, photosynthetic-active vegetation cover (PV) and proportion of grasses. For calibration and validation purposes, chlorophyll content of 20 grass plants was measured in situ. From the images reference spectra of grass and non-grass species were collected. PV was assessed from similarity of images to mean vegetation spectra using spectral angle mapper and threshold classifications. A set of 48 previously published hyperspectral vegetation indices (VI) was used as predictors to estimate chlorophyll content and to discriminate grass and non-grass pixels. Separation into grass and non-grass species was performed using partial least squares (PLS) discriminant analysis and chlorophyll content was estimated with PLS regression. The accuracy of the models was assessed with leave-one-out cross validation and normalised root mean square errors (nRMSE) for chlorophyll and contingency matrices for grass classification and total PV separation. Highest error rates were observed for discrimination between vegetated and non-vegetated parts (Overall accuracy = 0.85), whilst accuracies of grass and non grass separation (Overall accuracy = 0.98) and chlorophyll estimation were higher (nRMSE = 10.7).},
+  Comment                  = {10.1117/12.2028348},
+  Timestamp                = {2013.12.03}
 }
 
 @Article{Lehnert2015,
@@ -956,18 +968,6 @@ A rock mechanical view on the concept of paraglacial rockfall activity.},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0169555X16300083}
 }
 
-@InProceedings{Meyer2015,
-  Title                    = {{C}omparison of machine learning algorithms for their applicability in satellite-based optical rainfall retrievals},
-  Author                   = {Meyer, H. and Kühnlein, M. and Appelhans, T. and Nauss, T.},
-  Booktitle                = {EGU General Assembly Conference Abstracts},
-  Year                     = {2015},
-  Number                   = {EGU2015-3321-1},
-  Volume                   = {17},
-
-  Owner                    = {hanna},
-  Timestamp                = {2016.04.07}
-}
-
 @Article{Meyer2016,
   Title                    = {{C}omparison of four machine learning algorithms for their applicability in satellite-based optical rainfall retrievals},
   Author                   = {Meyer, Hanna and Kühnlein, Meike and Appelhans, Tim and Nauss, Thomas},
@@ -980,7 +980,7 @@ A rock mechanical view on the concept of paraglacial rockfall activity.},
 
   __markedentry            = {[tnauss:6]},
   Abstract                 = {Machine learning (ML) algorithms have successfully been demonstrated to be valuable tools in satellite-based rainfall retrievals which show the practicability of using ML algorithms when faced with high dimensional and complex data. Moreover, recent developments in parallel computing with ML present new possibilities for training and prediction speed and therefore make their usage in real-time systems feasible.
-This study compares four ML algorithms â€” random forests (RF), neural networks (NNET), averaged neural networks (AVNNET) and support vector machines (SVM) â€” for rainfall area detection and rainfall rate assignment using MSG SEVIRI data over Germany. Satellite-based proxies for cloud top height, cloud top temperature, cloud phase and cloud water path serve as predictor variables.
+This study compares four ML algorithms â€�? random forests (RF), neural networks (NNET), averaged neural networks (AVNNET) and support vector machines (SVM) â€�? for rainfall area detection and rainfall rate assignment using MSG SEVIRI data over Germany. Satellite-based proxies for cloud top height, cloud top temperature, cloud phase and cloud water path serve as predictor variables.
 The results indicate an overestimation of rainfall area delineation regardless of the ML algorithm (averaged bias = 1.8) but a high probability of detection ranging from 81\% (SVM) to 85\% (NNET). On a 24-hour basis, the performance of the rainfall rate assignment yielded R2 values between 0.39 (SVM) and 0.44 (AVNNET). Though the differences in the algorithms' performance were rather small, NNET and AVNNET were identified as the most suitable algorithms. On average, they demonstrated the best performance in rainfall area delineation as well as in rainfall rate assignment. NNET's computational speed is an additional advantage in work with large datasets such as in remote sensing based rainfall retrievals.
 However, since no single algorithm performed considerably better than the others we conclude that further research in providing suitable predictors for rainfall is of greater necessity than an optimization through the choice of the ML algorithm.},
   Comment                  = {We compared four machine learning algorithms for optical rainfall retrievals.
@@ -995,6 +995,18 @@ Neural networks further had low computation times thus we rate it as most suitab
   Timestamp                = {2016.03.23},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0169809515003014},
   Urldate                  = {2016-03-23}
+}
+
+@InProceedings{Meyer2015,
+  Title                    = {{C}omparison of machine learning algorithms for their applicability in satellite-based optical rainfall retrievals},
+  Author                   = {Meyer, H. and Kühnlein, M. and Appelhans, T. and Nauss, T.},
+  Booktitle                = {EGU General Assembly Conference Abstracts},
+  Year                     = {2015},
+  Number                   = {EGU2015-3321-1},
+  Volume                   = {17},
+
+  Owner                    = {hanna},
+  Timestamp                = {2016.04.07}
 }
 
 @InProceedings{Meyer2013a,
@@ -1032,28 +1044,6 @@ Neural networks further had low computation times thus we rate it as most suitab
   Urldate                  = {2016-03-23}
 }
 
-@Article{Nauss2006,
-  Title                    = {{D}iscriminating raining from non-raining clouds at mid-latitudes using multispectral satellite data},
-  Author                   = {Nauss, T. and Kokhanovsky, A. A.},
-  Journal                  = {Atmospheric Chemistry and Physics},
-  Year                     = {2006},
-
-  Month                    = nov,
-  Number                   = {12},
-  Pages                    = {5031--5036},
-  Volume                   = {6},
-
-  __markedentry            = {[tnauss:6]},
-  Abstract                 = {We propose a new method for the delineation of precipitation using cloud properties derived from optical satellite data. This approach is not only sufficient for the detection of mainly convective precipitation by means of the commonly used connection between infrared cloud top temperature and rainfall probability but enables the detection of stratiform precipitation (e.g., in connection with mid-latitude frontal systems). The scheme presented is based on the concept model, that precipitating clouds must have both a sufficient vertical extent and large enough droplets. Therefore, we have analysed MODIS scenes during the severe European summer floods in 2002 and retrieved functions for the computation of an auto-adaptive threshold value of the effective cloud droplet radius with respect to the corresponding optical thickness which links these cloud properties with rainfall areas on a pixel basis.},
-  Doi                      = {10.5194/acp-6-5031-2006},
-  File                     = {Atmospheric Chemistry and Physics PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\DCV8S4KZ\\Nauss and Kokhanovsky - 2006 - Discriminating raining from non-raining clouds at .pdf:application/pdf},
-  ISSN                     = {1680-7324},
-  Owner                    = {tnauss},
-  Timestamp                = {2016.03.23},
-  Url                      = {http://www.atmos-chem-phys.net/6/5031/2006/},
-  Urldate                  = {2016-03-23}
-}
-
 @Article{Nauss2011,
   Title                    = {{R}etrieval of warm cloud optical properties using simple approximations},
   Author                   = {Nauss, Thomas and Kokhanovsky, Alexander A.},
@@ -1074,6 +1064,28 @@ Neural networks further had low computation times thus we rate it as most suitab
   Owner                    = {tnauss},
   Timestamp                = {2016.03.23},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425711000307},
+  Urldate                  = {2016-03-23}
+}
+
+@Article{Nauss2006,
+  Title                    = {{D}iscriminating raining from non-raining clouds at mid-latitudes using multispectral satellite data},
+  Author                   = {Nauss, T. and Kokhanovsky, A. A.},
+  Journal                  = {Atmospheric Chemistry and Physics},
+  Year                     = {2006},
+
+  Month                    = nov,
+  Number                   = {12},
+  Pages                    = {5031--5036},
+  Volume                   = {6},
+
+  __markedentry            = {[tnauss:6]},
+  Abstract                 = {We propose a new method for the delineation of precipitation using cloud properties derived from optical satellite data. This approach is not only sufficient for the detection of mainly convective precipitation by means of the commonly used connection between infrared cloud top temperature and rainfall probability but enables the detection of stratiform precipitation (e.g., in connection with mid-latitude frontal systems). The scheme presented is based on the concept model, that precipitating clouds must have both a sufficient vertical extent and large enough droplets. Therefore, we have analysed MODIS scenes during the severe European summer floods in 2002 and retrieved functions for the computation of an auto-adaptive threshold value of the effective cloud droplet radius with respect to the corresponding optical thickness which links these cloud properties with rainfall areas on a pixel basis.},
+  Doi                      = {10.5194/acp-6-5031-2006},
+  File                     = {Atmospheric Chemistry and Physics PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\DCV8S4KZ\\Nauss and Kokhanovsky - 2006 - Discriminating raining from non-raining clouds at .pdf:application/pdf},
+  ISSN                     = {1680-7324},
+  Owner                    = {tnauss},
+  Timestamp                = {2016.03.23},
+  Url                      = {http://www.atmos-chem-phys.net/6/5031/2006/},
   Urldate                  = {2016-03-23}
 }
 
@@ -1107,9 +1119,19 @@ Neural networks further had low computation times thus we rate it as most suitab
   Year                     = {2016}
 }
 
+@InProceedings{Otte2013a,
+  Title                    = {Monitoring small-scale heterogeneity patterns in a savanna ecosystem at Mt. Kilimanjaro},
+  Author                   = {Otte, Insa and Appelhans, Tim and R\"{o}der, Juliane and Nauss, Thomas and Brandl, Roland},
+  Booktitle                = {TR32-Hobe Symposium poster presentation},
+  Year                     = {2013},
+
+  Owner                    = {iotte},
+  Timestamp                = {2016.04.08}
+}
+
 @Unpublished{Otte2016a,
-  Title                    = {Stable isotope characteristics of precipitation and soil water  at the southern slopes of Mt. Kilimanjaro, Tanzania.},
-  Author                   = {Otte, Insa and Detsch, Florian and Gütlein, Adrian and Kiese, Ralf and Nauss, Thomas and Appelhans, Tim},
+  Title                    = {Stable isotope characteristics of precipitation and soil water at the southern slopes of Mt. Kilimanjaro, Tanzania.},
+  Author                   = {Otte, Insa and Detsch, Florian and G\"{u}tlein, Adrian and Kiese, Ralf and Nauss, Thomas and Appelhans, Tim},
   Note                     = {under review in Hydrological Processes},
   Year                     = {2016},
 
@@ -1120,7 +1142,7 @@ moisture sources.},
 }
 
 @Unpublished{Otte2016,
-  Title                    = {Multi-decadal trends and inter-annual variability of rainfall as observed from two lowland stations at Mt. Kilimajaro, Tanzania},
+  Title                    = {Multi-decadal trends and inter-annual variability of rainfall as observed from two lowland stations at Mt. Kilimanjaro, Tanzania},
   Author                   = {Otte, Insa and Detsch, Florian and Mwangomo, Ephraim and Nauss, Thomas and Appelhans, Tim},
   Note                     = {under review in Journal of Hydrometeorology.},
   Year                     = {2016},
@@ -1129,6 +1151,36 @@ moisture sources.},
 and dry decades are evident and seasonality has changed especially during the long rains between March and May. ENSO (El Niño-Southern Oscillation) in combination with IOD (Indian Ocean Dipole) leads to enhanced rainfall during the year of ENSO onset and the following year.},
   Owner                    = {iotte},
   Timestamp                = {2016.04.07}
+}
+
+@InProceedings{Otte2015,
+  Title                    = {Quantification and analysis of deuterium and oxygen-18 isotope composition of precipitation at the southern foothills of Mt. Kilimanjaro (Tanzania)},
+  Author                   = {Otte, Insa and Detsch, Florian, and Appelhans, Tim and Nauss, Thomas},
+  Booktitle                = {EGU General Assembly Conference Abstracts},
+  Year                     = {2015},
+
+  Owner                    = {iotte},
+  Timestamp                = {2016.04.07}
+}
+
+@InProceedings{Otte2013,
+  Title                    = {Land cover dynamics in the Mt. Kilimanjaro region as observed from remote sensing time series},
+  Author                   = {Otte, Insa and Detsch, Florian, and Appelhans, Tim and Nauss, Thomas},
+  Booktitle                = {AK Klima poster presentation},
+  Year                     = {2013},
+
+  Owner                    = {iotte},
+  Timestamp                = {2016.04.08}
+}
+
+@InProceedings{Otte2015a,
+  Title                    = {Seasonal and long-term rainfall and cloud dynamics in the Mt. Kilimanjaro region as observed from local and remote sensing time series},
+  Author                   = {Otte, Insa and Detsch, Florian, and Nauss, Thomas and Appelhans, Tim},
+  Booktitle                = {EGU General Assembly Conference Abstracts},
+  Year                     = {2015},
+
+  Owner                    = {iotte},
+  Timestamp                = {2016.04.08}
 }
 
 @InBook{Peters2013,
@@ -1147,15 +1199,17 @@ and dry decades are evident and seasonality has changed especially during the lo
 }
 
 @Unpublished{Roeder2016,
-  author =    {R\"{o}der, Juliane and Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas and Brandl, Roland},
-  title =     {{Heterogeneous patterns of abundance of epigeic arthropod lineages along a major elevation gradient}},
-  note =      {{Under review in Biotropica}},
-  month =     feb,
-  year =      {2016},
-  file =      {:Röder et al. - 2016.pdf:PDF},
-  keywords =  {Disturbance, Functional group, KiLi project, Mt. Kilimanjaro, Multi-taxon approach, Pitfall trap, Productivity, Tanzania, Temperature},
-  owner =     {fdetsch},
-  timestamp = {2016.04.08}
+  Title                    = {{Heterogeneous patterns of abundance of epigeic arthropod lineages along a major elevation gradient}},
+  Author                   = {R\"{o}der, Juliane and Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas and Brandl, Roland},
+  Note                     = {{Under review in Biotropica}},
+
+  Month                    = feb,
+  Year                     = {2016},
+
+  File                     = {:Röder et al. - 2016.pdf:PDF},
+  Keywords                 = {Disturbance, Functional group, KiLi project, Mt. Kilimanjaro, Multi-taxon approach, Pitfall trap, Productivity, Tanzania, Temperature},
+  Owner                    = {fdetsch},
+  Timestamp                = {2016.04.08}
 }
 
 @InBook{Roos2013,
@@ -1184,21 +1238,21 @@ and dry decades are evident and seasonality has changed especially during the lo
   Pages                    = {14}
 }
 
-@Conference{Thies2010a,
-  Title                    = {{I}nvestigating and predicting land use/land cover changes in a tropical mountain forest of southern {E}cuador.},
-  Author                   = {Thies, B. and Meyer, H. and Bendix, J.},
-  Booktitle                = {Jahrestreffen des AK Klima in Würzburg.},
-  Year                     = {2010},
-
-  Owner                    = {hanna},
-  Timestamp                = {2016.04.07}
-}
-
 @Conference{Thies2011,
   Title                    = {{I}nvestigating and predicting land use/land cover changes in a tropical mountain forest of southern {E}cuador},
   Author                   = {Thies, B. and Meyer, H.n and Bendix, J.},
   Booktitle                = {Conference of the society for tropical ecology, Frankfurt},
   Year                     = {2011},
+
+  Owner                    = {hanna},
+  Timestamp                = {2016.04.07}
+}
+
+@Conference{Thies2010a,
+  Title                    = {{I}nvestigating and predicting land use/land cover changes in a tropical mountain forest of southern {E}cuador.},
+  Author                   = {Thies, B. and Meyer, H. and Bendix, J.},
+  Booktitle                = {Jahrestreffen des AK Klima in Würzburg.},
+  Year                     = {2010},
 
   Owner                    = {hanna},
   Timestamp                = {2016.04.07}
@@ -1238,7 +1292,7 @@ and dry decades are evident and seasonality has changed especially during the lo
   Volume                   = {15},
 
   __markedentry            = {[tnauss:6]},
-  Abstract                 = {A new method for the delineation of precipitation during night-time using multispectral satellite data is proposed. The approach is not only applicable to the detection of mainly convective precipitation by means of the commonly used relation between infrared cloud-top temperature and rainfall probability but enables also the detection of stratiform precipitation (e.g. in connection with mid-latitude frontal systems). The presented scheme is based on the conceptual model that precipitating clouds are characterized by a combination of particles large enough to fall, an adequate vertical extension [both represented by the cloud water path (CWP)], and the existence of ice particles in the upper part of the cloud. As no operational retrieval exists for Meteosat Second Generation (MSG) to compute the CWP during night-time, suitable combinations of brightness temperature differences (Î”T) between the thermal bands of Meteosat Second Generation-Spinning Enhanced Visible and InfraRed Imager (MSG SEVIRI, Î”T3.9â€“10.8, Î”T3.9â€“7.3, Î”T8.7â€“10.8, Î”T10.8â€“12.1) are used to infer implicit information about the CWP and to compute a rainfall confidence level. Î”T8.7â€“10.8 and Î”T10.8â€“12.1 are particularly considered to supply information about the cloud phase. Rain area delineation is realized by using a minimum threshold of the rainfall confidence. To obtain a statistical transfer function between the rainfall confidence and the channel differences, the value combination of the channel differences is compared with ground-based radar data. The retrieval is validated against independent radar data not used for deriving the transfer function and shows an encouraging performance as well as clear improvements compared to existing optical retrieval techniques using only IR thresholds for cloud-top temperature. Copyright Â© 2008 Royal Meteorological Society},
+  Abstract                 = {A new method for the delineation of precipitation during night-time using multispectral satellite data is proposed. The approach is not only applicable to the detection of mainly convective precipitation by means of the commonly used relation between infrared cloud-top temperature and rainfall probability but enables also the detection of stratiform precipitation (e.g. in connection with mid-latitude frontal systems). The presented scheme is based on the conceptual model that precipitating clouds are characterized by a combination of particles large enough to fall, an adequate vertical extension [both represented by the cloud water path (CWP)], and the existence of ice particles in the upper part of the cloud. As no operational retrieval exists for Meteosat Second Generation (MSG) to compute the CWP during night-time, suitable combinations of brightness temperature differences (Î�?T) between the thermal bands of Meteosat Second Generation-Spinning Enhanced Visible and InfraRed Imager (MSG SEVIRI, Î�?T3.9â€“10.8, Î�?T3.9â€“7.3, Î�?T8.7â€“10.8, Î�?T10.8â€“12.1) are used to infer implicit information about the CWP and to compute a rainfall confidence level. Î�?T8.7â€“10.8 and Î�?T10.8â€“12.1 are particularly considered to supply information about the cloud phase. Rain area delineation is realized by using a minimum threshold of the rainfall confidence. To obtain a statistical transfer function between the rainfall confidence and the channel differences, the value combination of the channel differences is compared with ground-based radar data. The retrieval is validated against independent radar data not used for deriving the transfer function and shows an encouraging performance as well as clear improvements compared to existing optical retrieval techniques using only IR thresholds for cloud-top temperature. Copyright Â© 2008 Royal Meteorological Society},
   Copyright                = {Copyright Â© 2008 Royal Meteorological Society},
   Doi                      = {10.1002/met.56},
   File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\47ZS8XH4\\Thies et al. - 2008 - Discriminating raining from non-raining cloud area.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\Z8HMEJBK\\abstract\;jsessionid=621E4ED071BA3B2E9C4B23A6EE2FB51B.html:text/html},
@@ -1263,7 +1317,7 @@ and dry decades are evident and seasonality has changed especially during the lo
   Volume                   = {8},
 
   __markedentry            = {[tnauss:6]},
-  Abstract                 = {A new method for the delineation of precipitation during daytime using multispectral satellite data is proposed. The approach is not only applicable to the detection of mainly convective precipitation by means of the commonly used relation between infrared cloud top temperature and rainfall probability but enables also the detection of stratiform precipitation (e.g. in connection with mid-latitude frontal systems). The presented scheme is based on the conceptual model that precipitating clouds are characterized by a combination of particles large enough to fall, an adequate vertical extension (both represented by the cloud water path; cwp), and the existence of ice particles in the upper part of the cloud. The technique considers the VIS0.6 and the NIR1.6 channel to gain information about the cloud water path. Additionally, the brightness temperature differences Î”T8.7-10.8 and Î”T10.8-12.1 are considered to supply information about the cloud phase. Rain area delineation is realized by using a minimum threshold of the rainfall confidence. To obtain a statistical transfer function between the rainfall confidence and the four parameters VIS, NIR1.6, Î” T8.7-10.8 and Î” T10.8-12.1, the value combinations of these four variables are compared to ground based radar data. The retrieval is validated against independent radar data not used for deriving the transfer function and shows an encouraging performance as well as clear improvements compared to existing optical retrieval techniques using only IR thresholds for cloud top temperature.},
+  Abstract                 = {A new method for the delineation of precipitation during daytime using multispectral satellite data is proposed. The approach is not only applicable to the detection of mainly convective precipitation by means of the commonly used relation between infrared cloud top temperature and rainfall probability but enables also the detection of stratiform precipitation (e.g. in connection with mid-latitude frontal systems). The presented scheme is based on the conceptual model that precipitating clouds are characterized by a combination of particles large enough to fall, an adequate vertical extension (both represented by the cloud water path; cwp), and the existence of ice particles in the upper part of the cloud. The technique considers the VIS0.6 and the NIR1.6 channel to gain information about the cloud water path. Additionally, the brightness temperature differences Î�?T8.7-10.8 and Î�?T10.8-12.1 are considered to supply information about the cloud phase. Rain area delineation is realized by using a minimum threshold of the rainfall confidence. To obtain a statistical transfer function between the rainfall confidence and the four parameters VIS, NIR1.6, Î�? T8.7-10.8 and Î�? T10.8-12.1, the value combinations of these four variables are compared to ground based radar data. The retrieval is validated against independent radar data not used for deriving the transfer function and shows an encouraging performance as well as clear improvements compared to existing optical retrieval techniques using only IR thresholds for cloud top temperature.},
   Doi                      = {10.5194/acp-8-2341-2008},
   File                     = {Atmospheric Chemistry and Physics PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\72CVVNVZ\\Thies et al. - 2008 - Discriminating raining from non-raining clouds at .pdf:application/pdf},
   ISSN                     = {1680-7324},
@@ -1285,7 +1339,7 @@ and dry decades are evident and seasonality has changed especially during the lo
   Volume                   = {113},
 
   __markedentry            = {[tnauss:6]},
-  Abstract                 = {A new day and night technique for precipitation process separation and rainfall intensity differentiation using the Meteosat Second Generation Spinning Enhanced Visible and Infrared Imager is proposed. It relies on the conceptual design that convective clouds with higher rainfall intensities are characterized by a larger vertical extension and a higher cloud top. For advective-stratiform precipitation areas, it is assumed that areas with a higher cloud water path (CWP) and more ice particles in the upper parts are characterized by higher rainfall intensities. First, the rain area is separated into areas of convective and advective-stratiform precipitation processes. Next, both areas are divided into subareas of differing rainfall intensities. The classification of the convective area relies on information about the cloud top height gained from water vapor-IR differences and the IR cloud top temperature. The subdivision of the advective-stratiform area is based on information about the CWP and the particle phase in the upper parts. Suitable combinations of temperature differences (Î”T3.9â€“10.8, Î”T3.9â€“7.3, Î”T8.7â€“10.8, Î”T10.8â€“12.1) are incorporated to infer information about the CWP during nighttime, while a visible and a near-IR channel are considered during the daytime. Î”T8.7â€“10.8 and Î”T10.8â€“12.1 are particularly included to supply information about the cloud phase. Intensity differentiation is realized by using pixel-based confidences for each subarea calculated as a function of the respective value combinations of the previously mentioned variables. For the calculation of the confidences, the value combinations are compared with ground-based radar data. The proposed technique is validated against ground-based radar data and shows an encouraging performance (Heidke skill score 0.07â€“0.2 for 15-min intervals).},
+  Abstract                 = {A new day and night technique for precipitation process separation and rainfall intensity differentiation using the Meteosat Second Generation Spinning Enhanced Visible and Infrared Imager is proposed. It relies on the conceptual design that convective clouds with higher rainfall intensities are characterized by a larger vertical extension and a higher cloud top. For advective-stratiform precipitation areas, it is assumed that areas with a higher cloud water path (CWP) and more ice particles in the upper parts are characterized by higher rainfall intensities. First, the rain area is separated into areas of convective and advective-stratiform precipitation processes. Next, both areas are divided into subareas of differing rainfall intensities. The classification of the convective area relies on information about the cloud top height gained from water vapor-IR differences and the IR cloud top temperature. The subdivision of the advective-stratiform area is based on information about the CWP and the particle phase in the upper parts. Suitable combinations of temperature differences (Î�?T3.9â€“10.8, Î�?T3.9â€“7.3, Î�?T8.7â€“10.8, Î�?T10.8â€“12.1) are incorporated to infer information about the CWP during nighttime, while a visible and a near-IR channel are considered during the daytime. Î�?T8.7â€“10.8 and Î�?T10.8â€“12.1 are particularly included to supply information about the cloud phase. Intensity differentiation is realized by using pixel-based confidences for each subarea calculated as a function of the respective value combinations of the previously mentioned variables. For the calculation of the confidences, the value combinations are compared with ground-based radar data. The proposed technique is validated against ground-based radar data and shows an encouraging performance (Heidke skill score 0.07â€“0.2 for 15-min intervals).},
   Doi                      = {10.1029/2008JD010464},
   File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\I95SNJTM\\Thies et al. - 2008 - Precipitation process and rainfall intensity diffe.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\STS2BG2M\\abstract.html:text/html},
   ISSN                     = {2156-2202},
@@ -1386,6 +1440,17 @@ and dry decades are evident and seasonality has changed especially during the lo
   File                     = {:pdf\Windhorst2013.pdf:PDF},
   Owner                    = {hanna},
   Timestamp                = {2013.12.03}
+}
+
+@Unpublished{Woellauer2016,
+  Title                    = {An on-demand processing database system for climate station data},
+  Author                   = {Woellauer, Stephan and Nauss, Thomas},
+  Note                     = {under review/submitted to {Computers \& Geosciences}},
+  Year                     = {2016},
+
+  Abstract                 = {Small to medium-scale projects by geographers, ecologists or other environmental scientists are generally not backed-up by dedicated computer scientists although all kinds of sensors with non-continuous measurement options are heavily utilized in many research activities. The Tube Database (TubeDB) is intended to offer an easy to operate software system to archive, quality control, query and retrieve time series data in an efficient way. Data import is realized by using raw formats as recorded by the respective sensors. When a user requests data, a query to an on-demand processing unit is created that builds an individual processing graph with the raw data as a source. The processing graph may consist of typical preparation steps for time series data such as temporal aggregation, quality checks, interpolation of missing values and transformations. The user interface is a desktop or web based application to accomplish easy access and on the fly visualizations of time series and export functionality. In addition, direct HTTP requests can be sent to the API.},
+  Comment                  = {TubeDB archives raw sensor data in a domain specific storage with low access time and efficient compression. Raw data is processed on demand to generate aggregated and interpolated products and on-the-fly visualisations.},
+  Owner                    = {woellauer}
 }
 
 @Article{Zawar-Reza2010,
