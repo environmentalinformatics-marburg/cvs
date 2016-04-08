@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10.
+% This file was created with JabRef 2.10b2.
 % Encoding: Cp1252
 
 
@@ -326,7 +326,7 @@
 }
 
 @Article{Bendix2011,
-  Title                    = {{E}l {N}iño meets {L}a {N}iña – anomalous rainfall patterns in the “traditional�? {E}l {N}iño region of southern {E}cuador},
+  Title                    = {{E}l {N}i{�}�o meets {L}a {N}i{�}�a – anomalous rainfall patterns in the “traditional�? {E}l {N}i{�}�o region of southern {E}cuador},
   Author                   = {Bendix, Joerg and Trache, Katja and Palacios, Enrique and Rollenbeck, Ruetger and Goettlicher, Dietrich and Nauss, Thomas and Bendix, Astrid},
   Journal                  = {ERDKUNDE},
   Year                     = {2011},
@@ -399,20 +399,11 @@
   Volume                   = {24},
 
   __markedentry            = {[tnauss:6]},
-  Abstract                 = {Aim
-Understanding the mechanisms controlling variation in species richness along environmental gradients is one of the most important objectives in ecology. Resource availability is often considered as the major driver of animal diversity. However, in ectotherms, temperature might play a predominant role as it modulates metabolic rates and the access of animals to resources. Here, we investigate the relative importance of resource availability and temperature in determining the diversity pattern of bees along a 3.6-km elevational gradient.
-
-Location
-Mount Kilimanjaro, Tanzania.
-
-Methods
-We assessed bee species richness and abundance with pan traps and floral resources with transect records on 60 study sites which were equally distributed over six near-natural and six disturbed habitat types along an elevational gradient from 870 to 4550â€‰m a.s.l. We used path analysis to disentangle the effects of temperature, precipitation, floral resource abundance, bee abundance and land use on bee species richness. In addition, we monitored flower visitation rates during transect walks at different elevations to evaluate the temperature dependence of beeâ€“flower interactions.
-
-Results
-Bee species richness continuously declined with elevation in natural and disturbed habitats. While the abundance of floral resources had a significant but only weak effect on species richness, the effect of temperature was strong. Temperature had a strong positive effect on species richness that was not mediated by bee abundance and an indirect effect via bee abundances. We observed higher levels of beeâ€“flower interactions at higher temperatures, supporting the hypothesis that temperature limits diversity by constraining resource exploitation in ectotherms.
-
-Main conclusions
-Temperature and the availability of resources shape species richness patterns along environmental gradients. In ectothermic organisms like bees temperature seems to have the more important role, as it both limits the access to resources (abundance-mediated effect) and accelerates other (abundance-independent) ecological and evolutionary processes that drive the maintenance and origination of diversity.},
+  Abstract                 = {Aim Understanding the mechanisms controlling variation in species richness along environmental gradients is one of the most important objectives in ecology. Resource availability is often considered as the major driver of animal diversity. However, in ectotherms, temperature might play a predominant role as it modulates metabolic rates and the access of animals to resources. Here, we investigate the relative importance of resource availability and temperature in determining the diversity pattern of bees along a 3.6-km elevational gradient.
+Location Mount Kilimanjaro, Tanzania.
+Methods We assessed bee species richness and abundance with pan traps and floral resources with transect records on 60 study sites which were equally distributed over six near-natural and six disturbed habitat types along an elevational gradient from 870 to 4550â€‰m a.s.l. We used path analysis to disentangle the effects of temperature, precipitation, floral resource abundance, bee abundance and land use on bee species richness. In addition, we monitored flower visitation rates during transect walks at different elevations to evaluate the temperature dependence of beeâ€“flower interactions.
+Results Bee species richness continuously declined with elevation in natural and disturbed habitats. While the abundance of floral resources had a significant but only weak effect on species richness, the effect of temperature was strong. Temperature had a strong positive effect on species richness that was not mediated by bee abundance and an indirect effect via bee abundances. We observed higher levels of beeâ€“flower interactions at higher temperatures, supporting the hypothesis that temperature limits diversity by constraining resource exploitation in ectotherms.
+Main conclusions Temperature and the availability of resources shape species richness patterns along environmental gradients. In ectothermic organisms like bees temperature seems to have the more important role, as it both limits the access to resources (abundance-mediated effect) and accelerates other (abundance-independent) ecological and evolutionary processes that drive the maintenance and origination of diversity.},
   Copyright                = {Â© 2015 John Wiley \& Sons Ltd},
   Doi                      = {10.1111/geb.12286},
   File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\4ESF5ITP\\Classen et al. - 2015 - Temperature versus resource constraints which fac.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\ZWDZFSE5\\abstract.html:text/html},
@@ -657,7 +648,7 @@ Temperature and the availability of resources shape species richness patterns al
 }
 
 @Article{Gasch2015,
-  Title                    = {{S}patio-temporal interpolation of soil water, temperature, and electrical conductivity in 3{D} + {T}: {T}he {C}ook {A}gronomy {F}arm data set },
+  Title                    = {{S}patio-temporal interpolation of soil water, temperature, and electrical conductivity in 3{D�}�+{�}�{T}: {T}he {C}ook {A}gronomy {F}arm data set },
   Author                   = {Caley K. Gasch and Tomislav Hengl and Benedikt Gräler and Hanna Meyer and Troy S. Magney and David J. Brown},
   Journal                  = {Spatial Statistics },
   Year                     = {2015},
@@ -670,6 +661,16 @@ Temperature and the availability of resources shape species richness patterns al
   ISSN                     = {2211-6753},
   Keywords                 = {Digital soil mapping},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S2211675315000251}
+}
+
+@Unpublished{Higginbottom2016,
+  Title                    = {{P}redictive modelling of fractional woody cover in semi-arid savannahs using multi-sensor and multi-seasonal data},
+  Author                   = {Higginbottom, T. and Symeonakis, E. and Meyer, H.},
+  Note                     = {{Submitted to Remote Sensing of Environment}},
+  Year                     = {2016},
+
+  Owner                    = {hanna},
+  Timestamp                = {2016.04.08}
 }
 
 @Article{Kuehnlein2013,
@@ -717,7 +718,7 @@ Temperature and the availability of resources shape species richness patterns al
 }
 
 @Article{Kuehnlein2010,
-  Title                    = {{R}ainfall-{Rate} {Assignment} {Using} {MSG} {SEVIRI} {Data}â€�?{A} {Promising} {Approach} to {Spaceborne} {Rainfall}-{Rate} {Retrieval} for {Midlatitudes}},
+  Title                    = {{R}ainfall-{Rate} {Assignment} {Using} {MSG} {SEVIRI} {Data}{�}�€�?{A} {Promising} {Approach} to {Spaceborne} {Rainfall}-{Rate} {Retrieval} for {Midlatitudes}},
   Author                   = {Kühnlein, Meike and Thies, Boris and Nauss, Thomas and Bendix, Jörg},
   Journal                  = {Journal of Applied Meteorology and Climatology},
   Year                     = {2010},
@@ -876,11 +877,7 @@ Temperature and the availability of resources shape species richness patterns al
   Volume                   = {39},
 
   Abstract                 = {Abstract The Tibetan Plateau suffers from progressive degradation caused by over-grazing due to improper livestock management, global climate change and herbivory from small mammals. Therefore, a robust indicator system for rangeland degradation has to be developed and tested. This paper investigates local patterns of degradation at two sites (Lake Namco and Mt. Kailash) in Xizang province (China) that are covered by vegetation types typical of a large portion of the plateau. The suitability of a two-indicator system is analysed using hyperspectral field measurements, and its transferability to spaceborne data is tested. The indicators are (1) land-cover fractions derived from linear spectral unmixing and (2) chlorophyll content as a proxy for nutrient and water availability calculated using hyperspectral vegetation indices and partial least squares regression. Because cattle remain near settlements overnight in the local semi-nomadic pastoral system, it can be expected that grazing intensity is highest near the settlement and declines with increasing distance. Therefore, we tested the effect of distance on both indicators using a Spearman correlation analysis. The predicted chlorophyll content and land cover fractions of the indicator system were in good agreement with field observations (correlation coefficients between 0.70 and 0.98). High correlations between distance from settlements and land-cover fractions at both study sites demonstrated that the land-cover fraction is a reliable indicator for degradation. A positive correlation between distance from settlements and photosynthetically active vegetation (PV) revealed over-grazing patterns at the first site. Furthermore, the chlorophyll indicator was proven suitable because chlorophyll concentration declined with increasing distance from settlements. This underlines the over-grazing pattern because cattle excrement was the only external source of nutrients in the ecosystem and it was positively correlated with grazing intensity. However, at the second site, we found a significant positive effect of distance on the amount of photosynthetically non-active vegetation; no effect of distance on \{PV\} and chlorophyll content was found. Therefore, no evidence of pasture degradation was detected at the second site. Regarding the potential use of satellite data for degradation monitoring, we found that (1) the land-cover indicator derived from multispectral data was more robust than using noise-filtered hyperspectral information and (2) the chlorophyll amount indicator was estimated from simulated EnMAP data with low error rates. Because the proposed two-indicator system can be derived from multi- and hyperspectral satellite data and combines site conditions and local plant cover, it provides a time-saving and robust method to measure pasture degradation across large areas, assuming that respective satellite data are available. },
-  Comment                  = {Establishing and testing a remotely sensed indicator system for pasture degradation on the Tibetan Plateau.
-Estimating plant cover and chlorophyll content with physical and statistical methods.
-Finding of pasture degradation effects in the Kobresia pygmaea ecosystem.
-Overcoming the site effect in a remotely sensed pasture degradation indicator system.
-Testing the suitability of common multi- and hyperspectral satellite sensors to derive indicator system.},
+  Comment                  = {Establishing and testing a remotely sensed indicator system for pasture degradation on the Tibetan Plateau. Estimating plant cover and chlorophyll content with physical and statistical methods. Finding of pasture degradation effects in the Kobresia pygmaea ecosystem. Overcoming the site effect in a remotely sensed pasture degradation indicator system. Testing the suitability of common multi- and hyperspectral satellite sensors to derive indicator system.},
   Doi                      = {http://dx.doi.org/10.1016/j.ecolind.2013.12.005},
   ISSN                     = {1470-160X},
   Keywords                 = {Tibetan Plateau},
@@ -889,7 +886,7 @@ Testing the suitability of common multi- and hyperspectral satellite sensors to 
 
 @InProceedings{Lehnert2013,
   Title                    = {{A}ssessing pasture quality and degradation status using hyperspectral imaging: a case study from western {T}ibet},
-  Author                   = {Lehnert, Lukas W. and Meyer, Hanna and Meyer, Nele and Reudenbach, Christoph and Bendix, Jörg},
+  Author                   = {Lehnert, Lukas W. and Meyer, Hanna and Meyer, Nele and Reudenbach, Christoph and Bendix, J\"{o}rg},
   Booktitle                = {Proc. SPIE 8887, Remote Sensing for Agriculture, Ecosystems, and Hydrology XV, 88870I (16 October 2013)},
   Year                     = {2013},
   Volume                   = {8887},
@@ -908,11 +905,7 @@ Testing the suitability of common multi- and hyperspectral satellite sensors to 
   Volume                   = {164},
 
   Abstract                 = {Abstract Plant coverage is a basic indicator of the biomass production in ecosystems. On the Tibetan Plateau, the biomass of grasslands provides major ecosystem services with regard to the predominant transhumance economy. The pastures, however, are threatened by progressive degradation, resulting in a substantial reduction in plant coverage with currently unknown consequences for the hydrological/climate regulation function of the plateau and the major river systems of \{SE\} Asia that depend on it and provide water for the adjacent lowlands. Thus, monitoring of changes in plant coverage is of utmost importance, but no reliable tools have been available to date to monitor the changes on the entire plateau. Due to the wide extent and remoteness of the Tibetan Plateau, remote sensing is the only tool that can recurrently provide area-wide data for monitoring purposes. In this study, we develop and present a grassland-cover product based on multi-sensor satellite data that is applicable for monitoring at three spatial resolutions (WorldView type at 2–5 m, Landsat type at 30 m, \{MODIS\} at 500 m), where the data of the latter resolution cover the entire plateau. Four different retrieval techniques to derive plant coverage from satellite data in boreal summer (JJA) were tested. The underlying statistical models are derived with the help of field observations of the cover at 640 plots and 14 locations, considering the main grassland vegetation types of the Tibetan Plateau. To provide a product for the entire Tibetan Plateau, plant coverage estimates derived by means of the higher-resolution data were upscaled to \{MODIS\} composites acquired between 2011 and 2013. An accuracy assessment of the retrieval methods revealed best results for the retrieval using support vector machine regressions (RMSE: 9.97%, 7.13% and 5.51% from the WorldView to the \{MODIS\} scale). The retrieved values coincide well with published coverage data on the different grassland vegetation types. },
-  Comment                  = {Assessment of 4 methods to derive plant cover of grasslands on the Tibetan Plateau.
-Plant cover is classified along a cascade of satellite data at 3 spatial scales.
-The new plant cover product is linked to in situ measurements at over 600 plots.
-Grassland coverage is estimated with very high accuracies using SVM regression.
-Presentation of the first plateau-wide maps and statistics on grassland coverage.},
+  Comment                  = {Assessment of 4 methods to derive plant cover of grasslands on the Tibetan Plateau. Plant cover is classified along a cascade of satellite data at 3 spatial scales. The new plant cover product is linked to in situ measurements at over 600 plots. Grassland coverage is estimated with very high accuracies using SVM regression. Presentation of the first plateau-wide maps and statistics on grassland coverage.},
   Doi                      = {http://dx.doi.org/10.1016/j.rse.2015.04.020},
   ISSN                     = {0034-4257},
   Keywords                 = {Tibetan Plateau},
@@ -928,9 +921,7 @@ Presentation of the first plateau-wide maps and statistics on grassland coverage
   Volume                   = {50},
 
   Abstract                 = {Abstract Bush encroachment of savannas and grasslands is a common form of land degradation in the rangelands of South Africa. To assess the carrying capacity of the land and to understand underlaying processes of bush encroachment, continuous monitoring of this phenomenon is needed. The aim of this study is to provide training sites for satellite-based monitoring of bush encroachment in South Africa on a medium spatial resolution satellite sensor (e.g. \{MODIS\} or Landsat) scale. Since field surveys are time consuming and of limited spatial extent, the satellite based creation of training sites using Google Earth images is intended. Training pixels for woody vegetation and non-woody land cover were manually digitized from 50 sample Google Earth images. A Random Forests model was trained to delineate woody from non-woody pixels. The results indicate a high performance of the model (AUC = 0.97). The model was applied to a further 500 Google Earth images with a spatial extent of 250 m × 250 m. The classified images form the database of training sites which can be used for larger scale monitoring of bush encroachment in South Africa.},
-  Comment                  = {We present a method to automatically classify woody vegetation in Google Earth images.
-Woody vegetation was successfully delineated from RGB channels using Random Forests.
-The classified images can be used as training sites for a larger scale monitoring.},
+  Comment                  = {We present a method to automatically classify woody vegetation in Google Earth images. Woody vegetation was successfully delineated from RGB channels using Random Forests. The classified images can be used as training sites for a larger scale monitoring.},
   Doi                      = {http://dx.doi.org/10.1016/j.jag.2016.03.003},
   ISSN                     = {0303-2434},
   Keywords                 = {Bush encroachment},
@@ -957,11 +948,7 @@ The classified images can be used as training sites for a larger scale monitorin
   Pages                    = { - },
 
   Abstract                 = {Abstract In mountain geosystems, rockfalls are among the most effective sediment transfer processes, reflected in the regional-scale distribution of talus slopes. However, the understanding of the key controlling factors seems to decrease with increasing spatial scale, due to emergent and complex system behavior and not least to recent methodological shortcomings in rockfall modeling research. In this study, we aim (i) to develop a new approach to identify major regional-scale rockfall controls and (ii) to quantify the relative importance of these controls. Using a talus slope inventory in the Turtmann Valley (Swiss Alps), we applied for the first time the decision-tree based random forest algorithm (RF) in combination with a principal component logistic regression (PCLR) to evaluate the spatial distribution of rockfall activity. This study presents new insights into the discussion on whether periglacial rockfall events are controlled more by topo-climatic, cryospheric, paraglacial or/and rock mechanical properties.(i) Both models explain the spatial rockfall pattern very well, given the high areas under the Receiver Operating Characteristic (ROC) curves of &gt; 0.83. Highest accuracy was obtained by the RF, correctly predicting 88% of the rockfall source areas. The \{RF\} appears to have a great potential in geomorphic research involving multicollinear data. (ii) The regional permafrost distribution, coupled to the bedrock curvature and valley topography, was detected to be the primary rockfall control. Rockfall source areas cluster within a low-radiation elevation belt (2900–3300 m a.s.l,) consistent with a permafrost probability of &gt; 90%. The second most important factor is the time since deglaciation, reflected by the high abundance of rockfalls along recently deglaciated (&lt; 100 years), north-facing slopes. However, our findings also indicate a strong rock mechanical control on the paraglacial rockfall activity, declining either exponentially or linearly since deglaciation. The study demonstrates the benefit of combined statistical approaches for predicting rockfall activity in deglaciated, permafrost-affected mountain valleys and highlights the complex interplay between rock mechanical, paraglacial and topo-climatic controls at the regional scale. },
-  Comment                  = {Regional-scale role of topo-climatic, cryospheric, paraglacial and rock mechanical properties for rockfall initiation.
-Combination of the random forest algorithm with a logistic regression based on principal components.
-Application of the ergodic concept to evaluate the timing and intensity of rockfall activity after deglaciation.
-The regional permafrost distribution as primary rockfall control.
-A rock mechanical view on the concept of paraglacial rockfall activity.},
+  Comment                  = {Regional-scale role of topo-climatic, cryospheric, paraglacial and rock mechanical properties for rockfall initiation. Combination of the random forest algorithm with a logistic regression based on principal components. Application of the ergodic concept to evaluate the timing and intensity of rockfall activity after deglaciation. The regional permafrost distribution as primary rockfall control. A rock mechanical view on the concept of paraglacial rockfall activity.},
   Doi                      = {http://dx.doi.org/10.1016/j.geomorph.2016.01.008},
   ISSN                     = {0169-555X},
   Keywords                 = {Rockfall},
@@ -970,7 +957,7 @@ A rock mechanical view on the concept of paraglacial rockfall activity.},
 
 @Article{Meyer2016,
   Title                    = {{C}omparison of four machine learning algorithms for their applicability in satellite-based optical rainfall retrievals},
-  Author                   = {Meyer, Hanna and Kühnlein, Meike and Appelhans, Tim and Nauss, Thomas},
+  Author                   = {Meyer, Hanna and K\"{u}hnlein, Meike and Appelhans, Tim and Nauss, Thomas},
   Journal                  = {Atmospheric Research},
   Year                     = {2016},
 
@@ -979,14 +966,8 @@ A rock mechanical view on the concept of paraglacial rockfall activity.},
   Volume                   = {169, Part B},
 
   __markedentry            = {[tnauss:6]},
-  Abstract                 = {Machine learning (ML) algorithms have successfully been demonstrated to be valuable tools in satellite-based rainfall retrievals which show the practicability of using ML algorithms when faced with high dimensional and complex data. Moreover, recent developments in parallel computing with ML present new possibilities for training and prediction speed and therefore make their usage in real-time systems feasible.
-This study compares four ML algorithms â€�? random forests (RF), neural networks (NNET), averaged neural networks (AVNNET) and support vector machines (SVM) â€�? for rainfall area detection and rainfall rate assignment using MSG SEVIRI data over Germany. Satellite-based proxies for cloud top height, cloud top temperature, cloud phase and cloud water path serve as predictor variables.
-The results indicate an overestimation of rainfall area delineation regardless of the ML algorithm (averaged bias = 1.8) but a high probability of detection ranging from 81\% (SVM) to 85\% (NNET). On a 24-hour basis, the performance of the rainfall rate assignment yielded R2 values between 0.39 (SVM) and 0.44 (AVNNET). Though the differences in the algorithms' performance were rather small, NNET and AVNNET were identified as the most suitable algorithms. On average, they demonstrated the best performance in rainfall area delineation as well as in rainfall rate assignment. NNET's computational speed is an additional advantage in work with large datasets such as in remote sensing based rainfall retrievals.
-However, since no single algorithm performed considerably better than the others we conclude that further research in providing suitable predictors for rainfall is of greater necessity than an optimization through the choice of the ML algorithm.},
-  Comment                  = {We compared four machine learning algorithms for optical rainfall retrievals.
-We found only small differences in the performance of the algorithms.
-Neural networks and averaged neural networks performed best.
-Neural networks further had low computation times thus we rate it as most suitable.},
+  Abstract                 = {Machine learning (ML) algorithms have successfully been demonstrated to be valuable tools in satellite-based rainfall retrievals which show the practicability of using ML algorithms when faced with high dimensional and complex data. Moreover, recent developments in parallel computing with ML present new possibilities for training and prediction speed and therefore make their usage in real-time systems feasible. This study compares four ML algorithms â€�? random forests (RF), neural networks (NNET), averaged neural networks (AVNNET) and support vector machines (SVM) â€�? for rainfall area detection and rainfall rate assignment using MSG SEVIRI data over Germany. Satellite-based proxies for cloud top height, cloud top temperature, cloud phase and cloud water path serve as predictor variables. The results indicate an overestimation of rainfall area delineation regardless of the ML algorithm (averaged bias = 1.8) but a high probability of detection ranging from 81\% (SVM) to 85\% (NNET). On a 24-hour basis, the performance of the rainfall rate assignment yielded R2 values between 0.39 (SVM) and 0.44 (AVNNET). Though the differences in the algorithms' performance were rather small, NNET and AVNNET were identified as the most suitable algorithms. On average, they demonstrated the best performance in rainfall area delineation as well as in rainfall rate assignment. NNET's computational speed is an additional advantage in work with large datasets such as in remote sensing based rainfall retrievals. However, since no single algorithm performed considerably better than the others we conclude that further research in providing suitable predictors for rainfall is of greater necessity than an optimization through the choice of the ML algorithm.},
+  Comment                  = {We compared four machine learning algorithms for optical rainfall retrievals. We found only small differences in the performance of the algorithms. Neural networks and averaged neural networks performed best. Neural networks further had low computation times thus we rate it as most suitable.},
   Doi                      = {10.1016/j.atmosres.2015.09.021},
   File                     = {ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\U2E24WXX\\Meyer et al. - 2016 - Comparison of four machine learning algorithms for.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\QDF5G55P\\S0169809515003014.html:text/html},
   ISSN                     = {0169-8095},
@@ -999,7 +980,7 @@ Neural networks further had low computation times thus we rate it as most suitab
 
 @InProceedings{Meyer2015,
   Title                    = {{C}omparison of machine learning algorithms for their applicability in satellite-based optical rainfall retrievals},
-  Author                   = {Meyer, H. and Kühnlein, M. and Appelhans, T. and Nauss, T.},
+  Author                   = {Meyer, H. and K\"{u}hnlein, M. and Appelhans, T. and Nauss, T.},
   Booktitle                = {EGU General Assembly Conference Abstracts},
   Year                     = {2015},
   Number                   = {EGU2015-3321-1},
@@ -1007,6 +988,16 @@ Neural networks further had low computation times thus we rate it as most suitab
 
   Owner                    = {hanna},
   Timestamp                = {2016.04.07}
+}
+
+@Unpublished{Meyer2016a,
+  Title                    = {{F}rom local spectral measurements to maps of vegetation cover and biomass on the {Q}inghai-{T}ibet-{P}lateau: {D}o we need hyperspectral information?},
+  Author                   = {Meyer, H. and Lehnert W L. and Wang Y. and Reudenbach C. and Nauss T. and Bendix J.},
+  Note                     = {{Sumbitted to International Journal of Applied Earth Observation and Geoinformation}},
+  Year                     = {2016},
+
+  Owner                    = {hanna},
+  Timestamp                = {2016.04.08}
 }
 
 @InProceedings{Meyer2013a,
@@ -1120,7 +1111,7 @@ Neural networks further had low computation times thus we rate it as most suitab
 }
 
 @InProceedings{Otte2013a,
-  Title                    = {Monitoring small-scale heterogeneity patterns in a savanna ecosystem at Mt. Kilimanjaro},
+  Title                    = {{M}onitoring small-scale heterogeneity patterns in a savanna ecosystem at {M}t. {K}ilimanjaro},
   Author                   = {Otte, Insa and Appelhans, Tim and R\"{o}der, Juliane and Nauss, Thomas and Brandl, Roland},
   Booktitle                = {TR32-Hobe Symposium poster presentation},
   Year                     = {2013},
@@ -1130,31 +1121,29 @@ Neural networks further had low computation times thus we rate it as most suitab
 }
 
 @Unpublished{Otte2016a,
-  Title                    = {Stable isotope characteristics of precipitation and soil water at the southern slopes of Mt. Kilimanjaro, Tanzania.},
+  Title                    = {{S}table isotope characteristics of precipitation and soil water at the southern slopes of {M}t. {K}ilimanjaro, {T}anzania.},
   Author                   = {Otte, Insa and Detsch, Florian and G\"{u}tlein, Adrian and Kiese, Ralf and Nauss, Thomas and Appelhans, Tim},
   Note                     = {under review in Hydrological Processes},
   Year                     = {2016},
 
-  Comment                  = {We found an significant, but relatively less pronounced altitude effect of δ18Orain = -0.12 ‰ * 100 m-1, which varies according to precipitation type and seasonality. The weak altitude effect may reveal two different moisture sources in the research area: (i) local moisture recycling and (ii) regional
-moisture sources.},
+  Comment                  = {We found an significant, but relatively less pronounced altitude effect of δ18Orain = -0.12 ‰ * 100 m-1, which varies according to precipitation type and seasonality. The weak altitude effect may reveal two different moisture sources in the research area: (i) local moisture recycling and (ii) regional moisture sources.},
   Owner                    = {iotte},
   Timestamp                = {2016.04.07}
 }
 
 @Unpublished{Otte2016,
-  Title                    = {Multi-decadal trends and inter-annual variability of rainfall as observed from two lowland stations at Mt. Kilimanjaro, Tanzania},
+  Title                    = {{M}ulti-decadal trends and inter-annual variability of rainfall as observed from two lowland stations at {M}t. {K}ilimanjaro, {T}anzania},
   Author                   = {Otte, Insa and Detsch, Florian and Mwangomo, Ephraim and Nauss, Thomas and Appelhans, Tim},
   Note                     = {under review in Journal of Hydrometeorology.},
   Year                     = {2016},
 
-  Comment                  = {A temperature increase of about 0.27 K per decade can be identified, but no linear long-term trends in rainfall are observable. Humid
-and dry decades are evident and seasonality has changed especially during the long rains between March and May. ENSO (El Niño-Southern Oscillation) in combination with IOD (Indian Ocean Dipole) leads to enhanced rainfall during the year of ENSO onset and the following year.},
+  Comment                  = {A temperature increase of about 0.27 K per decade can be identified, but no linear long-term trends in rainfall are observable. Humid and dry decades are evident and seasonality has changed especially during the long rains between March and May. ENSO (El Niño-Southern Oscillation) in combination with IOD (Indian Ocean Dipole) leads to enhanced rainfall during the year of ENSO onset and the following year.},
   Owner                    = {iotte},
   Timestamp                = {2016.04.07}
 }
 
 @InProceedings{Otte2015,
-  Title                    = {Quantification and analysis of deuterium and oxygen-18 isotope composition of precipitation at the southern foothills of Mt. Kilimanjaro (Tanzania)},
+  Title                    = {{Q}uantification and analysis of deuterium and oxygen-18 isotope composition of precipitation at the southern foothills of {M}t. {K}ilimanjaro ({T}anzania)},
   Author                   = {Otte, Insa and Detsch, Florian, and Appelhans, Tim and Nauss, Thomas},
   Booktitle                = {EGU General Assembly Conference Abstracts},
   Year                     = {2015},
@@ -1164,7 +1153,7 @@ and dry decades are evident and seasonality has changed especially during the lo
 }
 
 @InProceedings{Otte2013,
-  Title                    = {Land-cover dynamics in the Mt. Kilimanjaro region as observed from remote sensing time series},
+  Title                    = {{L}and-cover dynamics in the {M}t. {K}ilimanjaro region as observed from remote sensing time series},
   Author                   = {Otte, Insa and Detsch, Florian, and Appelhans, Tim and Nauss, Thomas},
   Booktitle                = {AK Klima poster presentation},
   Year                     = {2013},
@@ -1174,7 +1163,7 @@ and dry decades are evident and seasonality has changed especially during the lo
 }
 
 @InProceedings{Otte2015a,
-  Title                    = {Seasonal and long-term rainfall and cloud dynamics in the Mt. Kilimanjaro region as observed from local and remote sensing time series},
+  Title                    = {{S}easonal and long-term rainfall and cloud dynamics in the {M}t. {K}ilimanjaro region as observed from local and remote sensing time series},
   Author                   = {Otte, Insa and Detsch, Florian, and Nauss, Thomas and Appelhans, Tim},
   Booktitle                = {EGU General Assembly Conference Abstracts},
   Year                     = {2015},
@@ -1443,7 +1432,7 @@ and dry decades are evident and seasonality has changed especially during the lo
 }
 
 @Unpublished{Woellauer2016,
-  Title                    = {An on-demand processing database system for climate station data},
+  Title                    = {{A}n on-demand processing database system for climate station data},
   Author                   = {Woellauer, Stephan and Nauss, Thomas},
   Note                     = {under review/submitted to {Computers \& Geosciences}},
   Year                     = {2016},
