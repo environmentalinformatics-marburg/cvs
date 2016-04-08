@@ -497,7 +497,7 @@ Temperature and the availability of resources shape species richness patterns al
   note =      {{Under review in Agricultural and Forest Meteorology}},
   month =     feb,
   year =      {2016},
-  comment =   {Evapotranspiration (ET) in the southern Kilimanjaro region strongly depends upon elevation and the degree of natural or human disturbance. Non-natural land covers generally reveal a higher net water loss than their natural counterparts. While ET at the colline and submontane level strictly follows the course of the sun, peak ET rates over subalpine and lower alpine habitats typically occur right after sunrise.},
+  comment =   {Evapotranspiration (ET) in the southern Kilimanjaro region strongly depends upon elevation and the degree of natural or human disturbance. Non-natural land covers tend to suffer from a higher net water loss during the day when compared with their natural counterparts (i.e., at similar elevations). While ET at the colline and submontane level strictly follows the course of the sun, the subalpine and lower alpine habitats reveal peak ET rates right after sunrise.},
   file =      {:Detsch et al. - 2016b.pdf:PDF},
   keywords =  {Climate change, Elevation gradient, Evapotranspiration, Kilimanjaro, Land-cover change, Surface-layer scintillometer},
   owner =     {fdetsch},
@@ -1107,19 +1107,9 @@ Neural networks further had low computation times thus we rate it as most suitab
   Year                     = {2016}
 }
 
-@InProceedings{Otte2013a,
-  Title                    = {Monitoring small-scale heterogeneity patterns in a savanna ecosystem at Mt. Kilimanjaro},
-  Author                   = {Otte, Insa and Appelhans, Tim and R\"{o}der, Juliane and Nauss, Thomas and Brandl, Roland},
-  Booktitle                = {TR32-Hobe Symposium poster presentation},
-  Year                     = {2013},
-
-  Owner                    = {iotte},
-  Timestamp                = {2016.04.08}
-}
-
 @Unpublished{Otte2016a,
-  Title                    = {Stable isotope characteristics of precipitation and soil water at the southern slopes of Mt. Kilimanjaro, Tanzania.},
-  Author                   = {Otte, Insa and Detsch, Florian and G\"{u}tlein, Adrian and Kiese, Ralf and Nauss, Thomas and Appelhans, Tim},
+  Title                    = {Stable isotope characteristics of precipitation and soil water  at the southern slopes of Mt. Kilimanjaro, Tanzania.},
+  Author                   = {Otte, Insa and Detsch, Florian and Gütlein, Adrian and Kiese, Ralf and Nauss, Thomas and Appelhans, Tim},
   Note                     = {under review in Hydrological Processes},
   Year                     = {2016},
 
@@ -1130,7 +1120,7 @@ moisture sources.},
 }
 
 @Unpublished{Otte2016,
-  Title                    = {Multi-decadal trends and inter-annual variability of rainfall as observed from two lowland stations at Mt. Kilimanjaro, Tanzania},
+  Title                    = {Multi-decadal trends and inter-annual variability of rainfall as observed from two lowland stations at Mt. Kilimajaro, Tanzania},
   Author                   = {Otte, Insa and Detsch, Florian and Mwangomo, Ephraim and Nauss, Thomas and Appelhans, Tim},
   Note                     = {under review in Journal of Hydrometeorology.},
   Year                     = {2016},
@@ -1139,36 +1129,6 @@ moisture sources.},
 and dry decades are evident and seasonality has changed especially during the long rains between March and May. ENSO (El Niño-Southern Oscillation) in combination with IOD (Indian Ocean Dipole) leads to enhanced rainfall during the year of ENSO onset and the following year.},
   Owner                    = {iotte},
   Timestamp                = {2016.04.07}
-}
-
-@InProceedings{Otte2015,
-  Title                    = {Quantification and analysis of deuterium and oxygen-18 isotope composition of precipitation at the southern foothills of Mt. Kilimanjaro (Tanzania)},
-  Author                   = {Otte, Insa and Detsch, Florian, and Appelhans, Tim and Nauss, Thomas},
-  Booktitle                = {EGU General Assembly Conference Abstracts},
-  Year                     = {2015},
-
-  Owner                    = {iotte},
-  Timestamp                = {2016.04.07}
-}
-
-@InProceedings{Otte2013,
-  Title                    = {Lanseries dynmics in the Mt. Kilimanjaro region as observed from remote sensing time series},
-  Author                   = {Otte, Insa and Detsch, Florian, and Appelhans, Tim and Nauss, Thomas},
-  Booktitle                = {AK Klima poster presentation},
-  Year                     = {2013},
-
-  Owner                    = {iotte},
-  Timestamp                = {2016.04.08}
-}
-
-@InProceedings{Otte2015a,
-  Title                    = {Seasonal and long-term rainfall and cloud dynamics in the Mt. Kilimanjaro region as observed from local and remote sensing time series},
-  Author                   = {Otte, Insa and Detsch, Florian, and Nauss, Thomas and Appelhans, Tim},
-  Booktitle                = {EGU General Assembly Conference Abstracts},
-  Year                     = {2015},
-
-  Owner                    = {iotte},
-  Timestamp                = {2016.04.08}
 }
 
 @InBook{Peters2013,
@@ -1438,15 +1398,5 @@ and dry decades are evident and seasonality has changed especially during the lo
   Volume                   = {41},
 
   Url                      = {http://dx.doi.org/10.1504/IJEP.2010.032252}
-}
-
-@Unpublished{Woellauer2016,
-  author =   {Woellauer, Stephan and Nauss, Thomas},
-  title =    {An on-demand processing database system for climate station data},
-  note =     {under review/submitted to {Computers \& Geosciences}},
-  year =     {2016},
-  abstract = {Small to medium-scale projects by geographers, ecologists or other environmental scientists are generally not backed-up by dedicated computer scientists although all kinds of sensors with non-continuous measurement options are heavily utilized in many research activities. The Tube Database (TubeDB) is intended to offer an easy to operate software system to archive, quality control, query and retrieve time series data in an efficient way. Data import is realized by using raw formats as recorded by the respective sensors.  When a user requests data, a query to an on-demand processing unit is created that builds an individual processing graph with the raw data as a source. The processing graph may consist of typical preparation steps for time series data such as temporal aggregation, quality checks, interpolation of missing values and transformations. The user interface is a desktop or web based application to accomplish easy access and on the fly visualizations of time series and export functionality. In addition, direct HTTP requests can be sent to the API.},
-  comment =  {TubeDB archives raw sensor data in a domain specific storage with low access time and efficient compression. Raw data is processed on demand to generate aggregated and interpolated products and on-the-fly visualisations.},
-  owner =    {woellauer}
 }
 
