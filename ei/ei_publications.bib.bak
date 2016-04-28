@@ -667,8 +667,7 @@
   Note                     = {{Submitted to Remote Sensing of Environment}},
   Year                     = {2016},
 
-  Comment                  = {The potential of optical and radar imagery for predicting fractional woody cover is assessed.
-Combining Landsat and PALSAR data produces the most accurate predictions},
+  Comment                  = {The potential of optical and radar imagery for predicting fractional woody cover is assessed. Combining Landsat and PALSAR data produces the most accurate predictions},
   Owner                    = {hanna},
   Timestamp                = {2016.04.08}
 }
@@ -1015,6 +1014,18 @@ Combining Landsat and PALSAR data produces the most accurate predictions},
   Url                      = {http://dx.doi.org/10.1117/12.2028762}
 }
 
+@InProceedings{Meyer2016b,
+  Title                    = {{M}apping vegetation cover and biomass on the {Q}inghai-{T}ibet-{P}lateau using hyperspectral measurements and multispectral satellite images},
+  Author                   = {Meyer, H. and Lehnert, L. W. and Wang, Y. and Reudenbach, C. and Nauss, T. and Bendix, J.},
+  Booktitle                = {EGU General Assembly Conference Abstracts},
+  Year                     = {2016},
+  Number                   = {EGU2016-2710},
+  Volume                   = {17},
+
+  Owner                    = {hanna},
+  Timestamp                = {2016.04.07}
+}
+
 @Article{Nauss2005,
   Title                    = {{A}n operational {MODIS} processing scheme for {PC} dedicated to direct broadcasting applications in meteorology and earth sciences},
   Author                   = {Nauss, T. and Bendix, J.},
@@ -1261,6 +1272,7 @@ Combining Landsat and PALSAR data produces the most accurate predictions},
 
   __markedentry            = {[tnauss:6]},
   Abstract                 = {Land-use and land-cover changes (LULCC) affect local climate. Human-induced deforestation is a common phenomenon of LULCC. This also holds true for the biodiversity hotspot in the Andes of Ecuador. This study assesses the possibility to project LULCC to future time steps with a focus on deforestation in the San Francisco valley in South Ecuador. A business-as-usual scenario based on two Landsat scenes from 1987 and 2001 was created to project LULCC until 2006. The uncertainty assessment indicated the difficulty of projecting human impact on the ecosystem since circumstances of LULCC in the study area cannot be assumed to stay invariant. The projection performs better than a naive model relying on slope as its suitability factor.},
+  Comment                  = {Land cover change was predicted till 2070},
   Doi                      = {10.1080/1747423X.2012.718378},
   File                     = {Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\UGHW8BDJ\\Thies et al. - 2014 - Projecting land-use and land-cover changes in a tr.pdf:application/pdf;Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\B8CK798U\\1747423X.2012.html:text/html},
   ISSN                     = {1747-423X},
