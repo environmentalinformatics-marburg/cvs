@@ -911,6 +911,18 @@
   Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425715001625}
 }
 
+@InProceedings{Ludwig2016a,
+  Title                    = {{C}lassifying {G}oogle {E}arth images as training sites for application to a larger scale monitoring of bush encroachment in {S}outh {A}frica},
+  Author                   = {Ludwig, A. and Meyer, H. and Higginbottom, T. and Nauss, T},
+  Booktitle                = {EGU General Assembly Conference Abstracts},
+  Year                     = {2016},
+  Number                   = {EGU2016-3562},
+  Volume                   = {18},
+
+  Owner                    = {hanna},
+  Timestamp                = {2016.04.07}
+}
+
 @Article{Ludwig2016,
   Title                    = {{A}utomatic classification of {G}oogle {E}arth images for a larger scale monitoring of bush encroachment in {S}outh {A}frica },
   Author                   = {Annika Ludwig and Hanna Meyer and Thomas Nauss},
@@ -1020,7 +1032,7 @@
   Booktitle                = {EGU General Assembly Conference Abstracts},
   Year                     = {2016},
   Number                   = {EGU2016-2710},
-  Volume                   = {17},
+  Volume                   = {18},
 
   Owner                    = {hanna},
   Timestamp                = {2016.04.07}
