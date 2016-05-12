@@ -16,7 +16,7 @@ define('BIBTEXBROWSER_BIBTEX_LINKS',false); // no [bibtex] link by default
 require_once('lib/bibtexbrowser.php');
 global $db;
 $db = new BibDataBase();
-$db->load('ei/ei_projects_new.bib');
+$db->load('ei/ei_projects.bib');
 
 #$author = $_GET['author'];
 
