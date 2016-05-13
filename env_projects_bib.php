@@ -27,42 +27,54 @@ $db->load('ei/ei_projects.bib');
 $mainTitles = array();
 if(isset($_GET['l'])) {
 	if ( $_GET['l'] == 1) {
-		$mainTitles = array('app'=>'Applicants', 
-		'pp'=>'Participating partner',
-		'fn'=>'Funding',
-		'ps'=>'Project staff',
-		'web'=>'Web',
+	 	$mainTitles = array('app' => array('Applicants', 'Applicant'),
+		'pp' => 'Participating partner',
+		'fn' => 'Funding',
+		'ps' => array('Project staffs', 'Project staff'),
+		'web'=> 'Web',
 		'year'=>'Funding'
 	);
 	} else {	
-	 	$mainTitles = array('app'=>'Applicants', 
-		'pp'=>'Participating partner',
-		'fn'=>'Funding',
-		'ps'=>'Project staff',
-		'web'=>'Web',
+	 	$mainTitles = array('app' => array('Applicants', 'Applicant'),
+		'pp' => 'Participating partner',
+		'fn' => 'Funding',
+		'ps' => array('Project staffs', 'Project staff'),
+		'web'=> 'Web',
 		'year'=>'Funding'
 	);
  	}
  }
 else {
-		$mainTitles = array('app'=>'Applicants', 
-		'pp'=>'Participating partner',
-		'fn'=>'Funding',
-		'ps'=>'Project staff',
-		'web'=>'Web',
+	 	$mainTitles = array('app' => array('Applicants', 'Applicant'),
+		'pp' => 'Participating partner',
+		'fn' => 'Funding',
+		'ps' => array('Project staffs', 'Project staff'),
+		'web'=> 'Web',
 		'year'=>'Funding'
 	);	
 }
 
+// send to Browser InProceedings
+$query = array('type'=>'InProceedings');
+$entries=$db->multisearch($query);
+$InProceedings = getContent('inproceedings',  $entries, true, $mainTitles);
+if ($InProceedings!= '') echo " var inproceedings = '". $InProceedings . "'; ";
+else echo " var inproceedings = '';";
+
+// send to Browser InBook
 $query = array('type'=>'InBook');
 $entries=$db->multisearch($query);
+$InProceedings = getContent('inbook',  $entries, true, $mainTitles);
+if ($InProceedings!= '') echo " var inbook = '". $InProceedings . "'; ";
+else echo " var inbook = '';";
 
-// send to Browser
-# projekts
+// send to Browser Article
+$query = array('type'=>'Article');
+$entries=$db->multisearch($query);
+$InProceedings = getContent('article',  $entries, true, $mainTitles);
+if ($InProceedings!= '') echo " var article = '". $InProceedings . "'; ";
+else echo " var article = '';";
 
-$projekts = getContent('inbook',  $entries, true, $mainTitles);
-if ($projekts != '') echo " var inbook = '". $projekts . "'; ";
-else echo " var inbook = 'test';";
 
 /**
  * Returns HTML coder
@@ -81,70 +93,65 @@ function getContent($type, $entries, $imgLink=false, $mainTitles){
 		foreach ($entries as $bibentry) {
 			if($bibentry->getType() == $type) {
 			
+				// Make the float of div - left or right
 				if($numberImg%2 == 0) { $classImg = 'Right'; $classContent = 'Left'; }
 				else { $classImg = 'Left'; $classContent = 'Right';}
-
+				
+				// Title
 				$title = $bibentry->getTitle();
 				$title = str_replace("\\textbf","", $title);
-				$title = str_replace("\\textit","", $title);
-
-				if(preg_match('/http/',$bibentry->getField("url"))) {
-					$html .=  "<div id=\'" . $type . "\'><div class=\'prContent" . $classContent . "\'> <p class=\'title\' ><a target=\'_blank\' href=\'" 
-					. $bibentry->getField("url") . "\'> "
-					. $title . ".</p></a>";
+				
+				// URL OR FILE
+				$html .=  "<div id=\'" . $type . "\'><div class=\'prContent" . $classContent . "\'> ".
+					"<p><b>" . $bibentry->getField("Chapter") . "</b></p>".
+					"<p class=\'title\' >" ;
+				if($bibentry->getField("url") != "") {
+					$html .=  "<a target=\'_blank\' href=\'" . $bibentry->getField("url") . "\'> "
+					. $title . "</p></a>";
 				} 
-				else if(preg_match('/http/',$bibentry->getField("file")) ) {
-
-					$html .=  "<div id=\'" . $type . "\'><div class=\'prContent" . $classContent . "\'> <p class=\'title\'><a target=\'_blank\' href=\'" 
-					. $bibentry->getField("file") . "\'> "
-					. $title . ".</p></a>";
-				}
-				else if($type== 'manual'){
-					$html .=  "<div id=\'" . $type . "\'><div class=\'prContent" . $classContent . "\'> <p class=\'title\'><a target=\'_blank\' href=\'https://github.com/environmentalinformatics-marburg\'> "
-					. $title . ".</p></a>";
-		
+				else if($bibentry->getField("file") != "" ) {
+					$html .=  "<a target=\'_blank\' href=\'" . $bibentry->getField("file") . "\'> "
+					. $title . "</p></a>";
 				}
 				else {
-					$html .=  "<div id=\'" . $type . "\'><div class=\'prContent" . $classContent . "\'><p class=\'title\'>"
-					. $title . ".</p>";
+					$html .=  $title . "</p>";
 				}
 				
-				$authorName = authorToStr($bibentry->getAuthor()) . " - " . $bibentry->getYear()  ; 
-				$html .= "<p>" . $mainTitles["app"] . ": " . $authorName . ".</p>";
-				$html .= "<p>" . $mainTitles["pp"] . ": " . authorToStr($bibentry->getField("note")) . "</p>";
-				$html .= "<p class=\'year\'>" . $mainTitles["year"] . ": " . $bibentry->getYear() . "</p>";
-				$html .= "<p>" . $mainTitles["ps"] . ": " . authorToStr($bibentry->getField("editor")) . "</p>";
-				$html .= "<p>" . $mainTitles["web"] . ": <a hrep=\'" . $bibentry->getField("url") . "\'> " . $bibentry->getField("url") . "</a></p>";
-				$html .= "<p class=\'comment\'>" . $bibentry->getField("comment") . "</div>";
-				/*if($type == 'unpublished') {
-					$html .= " <p class=\'jornal\'>" . $bibentry->getField("note") . "</p>";
-			
-				} 
-				else {
-					$html .= " <p class=\'jornal\'>" . $bibentry->getField("journal") . "</p>";
+				// Author
+				if ($bibentry->getAuthor() != "") {
+					$authorName = authorToStr($bibentry->getAuthor(), $mainTitles["app"])   ; 
+					$html .= "<p>"  . $authorName . "</p>";
 				}
-		
-				if($bibentry->getField("comment") != '') {
-		
-					$html .= " <p class=\"comment\">" . $bibentry->getField("comment") . "</p></div>";
-				} 
-				else {
-					$html .= "</div>";
-				}
-				*/
-				//URL check
-				if (url_check("https://github.com/environmentalinformatics-marburg/cvs/blob/master/projects/graphics/".$bibentry->getKey().".png")) {
-					if ($imgLink) {
+				
+				// Project partner
+				$html .= "<p>" . $mainTitles["pp"] . ": " . $bibentry->getField("editor") . "</p>";
+				 // Funds Projects 
+				$html .= "<p class=\'year\'>" . $mainTitles["year"] . ": " . $bibentry->getField("publisher") . "</p>";
+				
+				// Project staff
+				if ($bibentry->getField("note") != "")
+					$html .= "<p>" . authorToStr($bibentry->getField("note"), $mainTitles["ps"]) . "</p>";
+				
+				// WEB
+				//if( $bibentry->getField("url")!= "")
+				//	$html .= "<p>" . $mainTitles["web"] . ": <a href=\'" . $bibentry->getField("url") . "\'> " . $bibentry->getField("url") . "</a></p></div>";
+				//else $html .= "</div>";
+				$html .= "</div>";
+				// Image 
+				//if (url_check("https://github.com/environmentalinformatics-marburg/cvs/blob/master/projects/graphics/".$bibentry->getKey().".png")) {
+					//if ($imgLink) {
 					$html .= "<div class=\'prImg" .$classImg . 
-						"\'><img width=\"200\" height=\"140\" src=\"https://github.com/environmentalinformatics-marburg/cvs/blob/master/projects/graphics/"
+						"\'><img width=\"205\" height=\"180\" src=\"https://github.com/environmentalinformatics-marburg/cvs/blob/master/projects/graphics/"
 						. $bibentry->getKey() .".png?raw=true\" /> </div></div>";
-					}
-					else {
-						$html .= "</div>";
-					} 
+					//}
+					//else {
+					//	$html .= "<div class=\'prImg" .$classImg . "\'></div></div>";
+					//} 
 
-				  $numberImg += 1;
-				}
+				  // Comment
+				  $html .= "<div id=\'commentContent\'><p class=\'comment\'>" . $bibentry->getField("comment") . "<a href=\'" . $bibentry->getField("url") . "\'>  ...</a></p></div>";
+				//}
+				$numberImg += 1;
 			}
 		}
 	}
@@ -170,18 +177,22 @@ function url_check($url) {
  *
  * @param authorstr, keyAuthor
  */
-function authorToStr($authorstr, $keyAuthor='') {
+function authorToStr($authorstr, $title, $keyAuthor='') {
 
 	$aarr = explode(' and ', $authorstr);
+	
 	$aarr = array_map('trim', $aarr);
 	$link ='';
 	for($i=0; $i < count($aarr); $i++) {
-			if(strpos(',',$aarr[$i]) != false) {
-				$aarr[$i] = explode(',', $aarr[$i] );
-				$link = $aarr[$i][1];
-				$aarr[$i] = $aarr[$i][0];
-			}
-			$aarr[$i] = str_replace("\\textbf","", $aarr[$i]);
+	
+		
+		if(strpos($aarr[$i], '(href)') != false){
+			$aarr[$i] = explode('(href)', $aarr[$i] );
+			$link = $aarr[$i][1];
+			//echo $link;
+			$aarr[$i] = $aarr[$i][0];
+		}
+		$aarr[$i] = str_replace("\\textbf","", $aarr[$i]);
 		if(strpos($aarr[$i], ',') == false) {
 			// no first/lastname indicator, let's do that ourselves
 			$pa = strpos($aarr[$i], '{') != false && (strpos($aarr[$i],'{') == 0 || 
@@ -214,7 +225,9 @@ function authorToStr($authorstr, $keyAuthor='') {
 		}
 	}
 	
-	return implode(', ', $aarr);	
+	if (count($aarr) > 1)
+		return $title[0] . ": " . implode(', ', $aarr);
+	return 	$title[1] . ": " . implode(', ', $aarr);
 }
 	
 
