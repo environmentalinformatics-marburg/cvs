@@ -4,7 +4,7 @@
 URL: http://www.monperrus.net/martin/bibtexbrowser/
 Feedback & Bug Reports: martin.monperrus@gnieh.org
 
-<!--this is version 1 -->
+<!--this is version 11 -->
 URL: http://www.umweltinformatik-marburg.de/mitarbeiterinnen-und-mitarbeiter/forteva-spaska/
 Feedback & Bug Reports: spaska.forteva@uni-marburg.de
 The programm use
