@@ -1,9 +1,13 @@
 <?
-/* env_publications: publication lists with bibtex and PHP
+/* env_publications: publication overview as html from bibtex file
+ include( 'bibtexbrowser.php' ); version vd4928b33fa2d82db7989e31871c75f917d0b2b8d -->
+URL: http://www.monperrus.net/martin/bibtexbrowser/
+Feedback & Bug Reports: martin.monperrus@gnieh.org
+
 <!--this is version 1 -->
 URL: http://www.umweltinformatik-marburg.de/mitarbeiterinnen-und-mitarbeiter/forteva-spaska/
 Feedback & Bug Reports: spaska.forteva@uni-marburg.de
-
+The programm use
 (C) 2015 The University Marburg / Spaska Forteva
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License as
@@ -33,20 +37,20 @@ if(isset($_GET['l'])) {
 	);
 	} else {	
 	 	$mainTitles = array('article'=>'Artikel', 
-		'techreport'=>'Software/Handbücher',
+		'techreport'=>'Software/Handb&uuml;cher',
 		'inbook'=>'Buchkapitel',
-		'book'=>'Bücher',
-		'conference'=>'Konferenzbeiträge',
-		'unpublished'=>'Eingereichte Artikeln'
+		'book'=>'B&uuml;cher',
+		'conference'=>'Konferenzbeitr&auml;ge',
+		'unpublished'=>'Eingereichte Artikel'
 	);
  	}
  }
 else {
 		$mainTitles = array('article'=>'Artikel', 
-		'techreport'=>'Software/Handbücher',
+		'techreport'=>'Software/Handb&uuml;cher',
 		'inbook'=>'Buchkapitel',
-		'book'=>'Bücher',
-		'conference'=>'Konferenzbeiträge',
+		'book'=>'B&uuml;cher',
+		'conference'=>'Konferenzbeitr&auml;ge',
 		'unpublished'=>'Eingereichte Artikeln'
 	);	
 }
@@ -59,32 +63,32 @@ $entries=$db->multisearch($query);
 // send to Browser
 # Article 
 $article = getContent('article', $author, $entries, true);
-if ($article != '') echo " var article = '<h5>".$mainTitles['article'] . "</h5>". $article ."'; ";
+if ($article != '') echo " var article = '<h5>". utf8_encode($mainTitles['article']) . "</h5>". $article ."'; ";
 else echo " var article = '';";
 
 # Book
 $book = getContent('book', $author, $entries, false);
-if ($book != '') echo " var books = '<h5>".$mainTitles['book'] . "</h5>". $book ."'; ";
+if ($book != '') echo " var books = '<h5>". utf8_encode($mainTitles['book']) . "</h5>". $book ."'; ";
 else echo " var books = '';";
 
 # Techreport
 $techreport = getContent('techreport', $author, $entries, false).getContent('manual', $author, $entries, true);
-if ($techreport != '') echo " var techreport = '<h5>".$mainTitles['techreport'] . "</h5>". $techreport ."'; ";
+if ($techreport != '') echo " var techreport = '<h5>". utf8_encode($mainTitles['techreport']) . "</h5>". $techreport ."'; ";
 else echo " var techreport = '';";
 
 # Conference
 $conference = getContent('conference', $author, $entries, false).getContent('inproceedings', $author, $entries, false).getContent('incollection', $author, $entries, false);
-if ($conference != '') echo " var conference = '<h5>".$mainTitles['conference'] . "</h5>". $conference ."'; ";
+if ($conference != '') echo " var conference = '<h5>". utf8_encode($mainTitles['conference']) . "</h5>". $conference ."'; ";
 else echo " var conference = '';";
 
 # Unpublished
 $unpublished = getContent('unpublished', $author, $entries, true);
-if ($unpublished != '') echo " var unpublished = '<h5>".$mainTitles['unpublished'] . "</h5>". $unpublished ."'; ";
+if ($unpublished != '') echo " var unpublished = '<h5>". utf8_encode($mainTitles['unpublished']) . "</h5>". $unpublished ."'; ";
 else echo " var unpublished = '';";
 
 # Inbook
 $inbook= getContent('inbook', $author, $entries, false);
-if ($inbook != '') echo " var inbook = '<h5>".$mainTitles['inbook'] . "</h5>". $inbook ."'; ";
+if ($inbook != '') echo " var inbook = '<h5>". utf8_encode($mainTitles['inbook']) . "</h5>". $inbook ."'; ";
 else echo " var inbook = '';";
 
 /**
@@ -136,7 +140,7 @@ function getContent($type, $author, $entries, $imgLink=false){
 				$html .= "<p>" . $authorName . ".</p>";
 				$html .= "<p>" . $bibentry->getField("link") . "</p>";
 				if($type == 'unpublished') {
-					$html .= " <p class=\'jornal\'>" . $bibentry->getField("note") . "</p>";
+					$html .= " <p class=\'jornal\'>Submitted to " . $bibentry->getField("note") . "</p>";
 			
 				} 
 				else {
@@ -186,7 +190,7 @@ function url_check($url) {
 /**
  * Returns the authors as string
  *
- * The function returns the authornames as string with commas sparated
+ * The function returns the author name as string commas sparated
  *
  * @param authorstr, keyAuthor
  */
@@ -234,9 +238,7 @@ function authorToStr($authorstr, $keyAuthor) {
 			}
 		}
 	}
-	
-	return implode(', ', $aarr);
-	
+	return implode(', ', $aarr);	
 }
 	
 
