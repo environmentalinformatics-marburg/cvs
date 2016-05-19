@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10b2.
+% This file was created with JabRef 2.10.
 % Encoding: Cp1252
 
 
@@ -716,6 +716,19 @@
   Urldate                  = {2016-03-23}
 }
 
+@Article{Kuehnlein2014a,
+  Title                    = {{I}mproving the accuracy of rainfall rates from optical satellite sensors with machine learning -- {A} random forests-based approach applied to {MSG} {SEVIRI} },
+  Author                   = {Meike Kühnlein and Tim Appelhans and Boris Thies and Thomas Nauss},
+  Journal                  = {Remote Sensing of Environment },
+  Year                     = {2014},
+  Number                   = {0},
+  Pages                    = {129--143},
+  Volume                   = {141},
+
+  Keywords                 = {Rainfall rate},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0034425713003945}
+}
+
 @Article{Kuehnlein2010,
   Title                    = {{R}ainfall-{Rate} {Assignment} {Using} {MSG} {SEVIRI} {Data}{\C3}\A2€\E2\80?{A} {Promising} {Approach} to {Spaceborne} {Rainfall}-{Rate} {Retrieval} for {Midlatitudes}},
   Author                   = {Kühnlein, Meike and Thies, Boris and Nauss, Thomas and Bendix, Jörg},
@@ -826,18 +839,6 @@
   Timestamp                = {2016.03.23},
   Url                      = {http://www.atmos-chem-phys.net/6/1905/2006/},
   Urldate                  = {2016-03-23}
-}
-
-@Article{Kuehnlein2014a,
-  Title                    = {{I}mproving the accuracy of rainfall rates from optical satellite sensors with machine learning -- {A} random forests-based approach applied to {MSG} {SEVIRI} },
-  Author                   = {Meike Kuehnlein and Tim Appelhans and Boris Thies and Thomas Nauss},
-  Journal                  = {Remote Sensing of Environment },
-  Year                     = {2014},
-  Number                   = {0},
-  Pages                    = {129--143},
-  Volume                   = {141},
-
-  Keywords                 = {Rainfall rate}
 }
 
 @Conference{Lehnert2015b,
