@@ -5,9 +5,9 @@ if(!isset($Path['lib-bibtex']))
 	
 require_once($Path['lib-bibtex'] . 'lib_bibtex.inc.php');
 
-$bib = new Bibtex( 'ei.bib','Detsch');
-#$bib->Select(array('owner' => 'fdetsch'));
-$bib->Select(array('author' => 'detsch'));
+$bib = new Bibtex( 'ei.bib','username');
+#$bib->Select(array('owner' => 'loginname'));
+$bib->Select(array('author' => 'name'));
 
 echo '<div> Articles';
 # Artikel
@@ -15,7 +15,7 @@ $bib->PrintBibliography('article');
 echo '</div></br> ';
 
 echo '<div> Software/technical reports';
-# Software/Handbücher
+# Software/Handb&uuml;cher
 $bib->PrintBibliography('manual');
 $bib->PrintBibliography('techreport');
 echo '</div></br> ';
@@ -26,8 +26,6 @@ echo '<div> Book chapters';
 $bib->PrintBibliography('inbook');
 echo '</div></br> ';
 
-/// Books
-echo '<div> Books';
 # Bücher
 $bib->PrintBibliography('book');
 $bib->PrintBibliography('phdthesis');
