@@ -529,7 +529,8 @@
   Doi                      = {10.1127/0941-2948/2007/0210},
   File                     = {IngentaConnect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\D9FIK746\\Früh et al. - 2007 - Verification of precipitation from regional climat.pdf:application/pdf},
   Owner                    = {tnauss},
-  Timestamp                = {2016.03.23}
+  Timestamp                = {2016.03.23},
+  Url                      = {https://www.schweizerbart.de/papers/metz/detail/16/55926/Verification_of_precipitation_from_regional_climate_simulations_and_remote_sensing_observations_with_respect_to_ground_based_observations_in_the_upper_Danube_catchment}
 }
 
 @Article{Fries2009,
@@ -621,7 +622,7 @@
   Volume                   = {222},
 
   __markedentry            = {[tnauss:6]},
-  Abstract                 = {The optical properties (reflectance and transmittance) of selected leaves from a tropical mountain rainforest in southern Ecuador are determined to parametrize optical traits of plant functional types (PFT) of a state of the art land model (Community Land Model, CLM). 46 spatially dominating species are selected from 4 different forest types, the subpÃ¡ramo and a succession stage of pasture areas representing ecologically predefined functional types within the study area. Measurements are conducted under a standardized experimental setup with a field spectrometer covering the radiation between 305 and 1305 nm. The results of the optical properties of all species are checked for similarity by cluster analysis and are compared to the composition of species of the predefined PFTs. Furthermore the results are compared to other studies, the default values for the globally defined PFT of tropical evergreen trees in the CLM and another forest growth model operated in the same study area. The results show that the clusters aggregated by the reflectance, transmittance or combined properties do not represent the predefined PFTs. The values of the other studies suggest a reassessment of the experimental setup for the transmittance measurements. Nevertheless, new reflectance values for the regionalized PFTs can be determined. The optical values differ from the CLM-PFT of tropical evergreen trees, and new values for the reflectance are recommended.},
+  Abstract                 = {The optical properties of selected leaves from a tropical mountain rainforest in southern Ecuador are determined to parametrize optical traits of plant functional types (PFT) of a state of the art land model (Community Land Model, CLM). 46 spatially dominating species are selected from 4 different forest types, the subpÃ¡ramo and a succession stage of pasture areas representing ecologically predefined functional types within the study area. Measurements are conducted under a standardized experimental setup with a field spectrometer covering the radiation between 305 and 1305 nm. The results of the optical properties of all species are checked for similarity by cluster analysis and are compared to the composition of species of the predefined PFTs. Furthermore the results are compared to other studies, the default values for the globally defined PFT of tropical evergreen trees in the CLM and another forest growth model operated in the same study area. The results show that the clusters aggregated by the reflectance, transmittance or combined properties do not represent the predefined PFTs. The values of the other studies suggest a reassessment of the experimental setup for the transmittance measurements. Nevertheless, new reflectance values for the regionalized PFTs can be determined. The optical values differ from the CLM-PFT of tropical evergreen trees, and new values for the reflectance are recommended.},
   Doi                      = {10.1016/j.ecolmodel.2010.09.021},
   File                     = {ScienceDirect Full Text PDF:D\:\\private\\thomas\\pim\\zotero\\storage\\H3PQQRAQ\\Göttlicher et al. - 2011 - Optical properties of selected plants from a tropi.pdf:application/pdf;ScienceDirect Snapshot:D\:\\private\\thomas\\pim\\zotero\\storage\\4EBER6KQ\\S0304380010004928.html:text/html},
   ISSN                     = {0304-3800},
@@ -727,7 +728,9 @@
 
   Doi                      = {10.1016/j.rse.2013.10.026},
   Keywords                 = {Rainfall rate},
-  Url                      = {http:/sciencedirect.com/science/article/pii/S0034425713003945}
+  Timestamp                = {2016.03.23},
+  Url                      = {http:/sciencedirect.com/science/article/pii/S0034425713003945},
+  Urldate                  = {2016-03-23}
 }
 
 @Article{Kuehnlein2010,
