@@ -1068,6 +1068,19 @@
   Timestamp                = {2016.04.08}
 }
 
+@InBook{,
+  Title                    = {Naturrisiken und Sozialkatastrophen},
+  Author                   = {Thomas Nauss AND Jörg Bendix},
+  Chapter                  = {Extreme Windereignisse - Stürme, Hurricans, Tornados},
+  Editor                   = {Carsten Felgentreff AND Thomas Glade},
+  Pages                    = {181-190},
+  Publisher                = {Springer},
+  Year                     = {2010},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2016.05.20}
+}
+
 @Article{Nauss2005,
   Title                    = {{A}n operational {MODIS} processing scheme for {PC} dedicated to direct broadcasting applications in meteorology and earth sciences},
   Author                   = {Nauss, T. and Bendix, J.},
@@ -1507,5 +1520,10 @@
   Volume                   = {41},
 
   Url                      = {http://dx.doi.org/10.1504/IJEP.2010.032252}
+}
+
+@InBook{,
+  Owner                    = {tnauss},
+  Timestamp                = {2016.05.20}
 }
 
