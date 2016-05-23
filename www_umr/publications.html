@@ -9,7 +9,31 @@ contributions</a></p>
 Revealing the potential of spectral and texture variables in a neural
 network based rainfall retrieval technique.<br />
 Remote Sensing.</h4>
-<p><em>Abstract: n/a</em></p>
+<p><em>Abstract: Estimating rainfall areas and rates from geostationary
+satellite images has the opportunity of both, a high spatial and a high
+temporal resolution which cannot be achieved by other satellite-based
+systems until now.<br />
+Most recent retrieval techniques base on the spectral channels of the
+satellites as predictor variables solely. These retrievals can be
+classified as "purely pixel-based" because no information about the
+neighbourhood pixels is included. Assuming that precipitation is highly
+correlated with cloud processes and therefore with cloud texture,
+texture information derived from the neighbourhood of a pixel might
+give valuable information about the cloud type and hence about a
+respective probability of the rainfall rate.<br />
+ To study the potential of texture variables to improve optical
+rainfall retrieval techniques, rainfall area and rainfall rates were
+predicted for Germany during summer 2010 using a neural network
+approach. In addition to the spectral predictor variables from Meteosat
+Second Generation (MSG), different grey level co-occurance matrix based
+texture variables were calculated from all MSG channels. Models were
+trained for the best performing predictor variables revealed during a
+recursive feature selection. The performance was then compared to
+models that used spectral predictors solely.<br />
+Contrary to expectations, the performance of the models did not
+increase when texture information were included. Therefore, it could be
+shown that texture variables have no advantage in machine learning
+based optical rainfall retrievals over spectral-only models.</em></p>
 <div id="clear">&nbsp;</div>
 <img class="image-left" src="https://github.com/environmentalinformatics-marburg/cvs/blob/master/publications/graphics/Guetlein2016.png?raw=true" alt="Eyecatcher" />
 <h4>Gütlein A, Zistl-Schlingmann M, Becker J, Sierra C-N, Detsch F,
@@ -25,7 +49,7 @@ on Mt. Kilimanjaro.<br />
 Predictive modelling of fractional woody cover in semi-arid savannahs
 using multi-sensor and multi-seasonal data.<br />
 Remote Sensing of Environment.</h4>
-<p><em>Abstract: n/a.</em></p>
+<p><em>Abstract: Effective monitoring of the Earth’s ecosystems requires the availability of methods for quantifying the structural composition and cover of vegetation. This is especially important in heterogeneous environments, such as semi-arid savannahs which are naturally comprised of a dynamic mix of tree, shrub, and grass components.The fractional coverage of woody vegetation is a key ecosystem attribute in savannahs, particularly given current concerns over the invasion of grasslands by shrub species (shrub encroachment), or the over-exploitation of woody biomass for fuelwood. Remote sensing has a clear role to play in monitoring semi-arid environments, and in recent years the number of both spacebourne sensors and collected scenes has increased dramatically allowing for multitemporal and multisensor investigations. Here we employ a statistical learning framework to assess the potential of optical and radar imagery for predicting fractional woody cover. Our results show that combining Landsat and PALSAR data produces the most accurate predictions (R2 0.65X,p &lt; 0.001,RMSE 0.094). However, this was only marginally more effective than a model using multitemporal Landsat data from the wet and dry seasons (R2 = 0.65XX, p &lt; 0.001,RMSE 0.094). When a single temporal epoch is employed, dry season data consistently and significantly outperforms imagery from the wet period. These results add to the growing literature on fractional cover prediction.</em></p>
 <div id="clear">&nbsp;</div>
 <img class="image-left" src="https://github.com/environmentalinformatics-marburg/cvs/blob/master/publications/graphics/Detsch2016b.png?raw=true" alt="Eyecatcher" />
 <h4>Detsch F, Otte I, Mwangomo E, Appelhans T, Nauss T
@@ -69,7 +93,29 @@ balance-related parameters.</em></p>
 Zawar-Reza P (submitted)<br />
 Mapping daily air temperature for Antarctica based on MODIS LST.<br />
 Remote Sensing.</h4>
-<p><em>Abstract: n/a</em></p>
+<p><em>Abstract: Abstract: Spatial predictions of near-surface air
+temperature (T_air) in Antarctica are needed as a baseline for a
+variety of research disciplines. Since the network of climate stations
+in Antarctica is sparse, remote sensing based methods are required for
+this task.<br />
+Based on the MODIS land surface temperature (LST) data, T_air was
+modelled at a spatial resolution of 1 km using data from 32 stations as
+reference. The performance of a simple linear regression model to
+predict T_air from LST was compared to the performance of three machine
+learning algorithms (random forest (RF), generalized boosted regression
+models (GBM) and Cubist). In addition to LST, terrain attributes were
+tested as additional predictors in these models. Their relevance was
+evaluated by a Cubist-based forward feature selection in conjunction
+with leave-one-station-out cross-validation to reduce the impact of
+overfitting. GBM performed best to predict T_air using LST and the
+month of the year as predictor variables. Using the trained model T_air
+could be estimated with a leave-one-station-out cross-validated R2 of
+0.71 and a RMSE of 10.53 °C. The machine learning approaches, however,
+performed only slightly better than the simple linear estimation of
+T_air from LST (R2 of 0.64, RMSE of 11.02 °C).<br />
+Using the trained model allowed creating time series of T_air over
+Antarctica for 2013. Extending the training data to further years will
+allow developing time series of T_air from 1999 on.</em></p>
 <div id="clear">&nbsp;</div>
 <img class="image-left" src="https://github.com/environmentalinformatics-marburg/cvs/blob/master/publications/graphics/Woellauer2016.png?raw=true" alt="Eyecatcher" />
 <h4>Woellauer S, Nauss T (submitted)<br />
@@ -99,7 +145,7 @@ From local spectral measurements to maps of vegetation cover and
 biomass on the Qinghai-Tibet-Plateau: Do we need hyperspectral
 information?<br />
 Journal of Applied Earth Observation and Geoinformation.</h4>
-<p><em>Abstract: n/a</em></p>
+<p><em>Abstract: Though the relevance of pasture degradation on the Qinghai-Tibet Plateau (QTP) is widely postulated, its extent is still unknown. Due to the enormous spatial extent, remote sensing provides the only possibility to investigate pasture degradation via frequently used proxies such as vegetation cover and aboveground biomass (AGB). However, unified remote sensing approaches are still lacking. This study tests the applicability of hyper- and multispectral in situ measurements to map vegetation cover and AGB on regional scales. Using machine learning techniques, it is tested whether the full hyperspectral information is needed or if multispectral information is sufficient to accurately estimate pasture degradation proxies. To regionalize pasture degradation proxies, the transferability of the locally derived ML-models to high resolution multispectral satellite data is assessed. 1183 Hyperspectral measurements and vegetation records were performed at 18 locations on the QTP. Random Forests models with recursive feature selection were trained to estimate vegetation cover and AGB using narrow-band indices (NBI) as predictors. Separate models were calculated using NBI from hyperspectral data as well as from the same data resampled to WorldView-2, QuickBird and RapidEye channels. The hyperspectral results were compared to the multispectral results. Finally, the models were applied to satellite data to map vegetation cover and AGB on a regional scale. Vegetation cover was accurately predicted by Random Forest if hyperspectral measurements were used (cross validated R2~ 0.89). In contrast, errors in AGB estimations were considerably higher (cross validated R2 ~ 0.32). Only small differences in accuracy were observed between the models based on hyperspectral compared to multispectral data. The application of the models to satellite images generally resulted in an increase of the estimation error. Though this reflects the challenge of applying \textit{in situ} measurements to satellite data, the results still show a high potential to map pasture degradation proxies on the QTP. Thus, this study presents robust methodology to remotely detect and monitor pasture degradation at high spatial resolutions.</em></p>
 <div id="clear">&nbsp;</div>
 <img class="image-left" src="https://github.com/environmentalinformatics-marburg/cvs/blob/master/publications/graphics/Roeder2016.png?raw=true" alt="Eyecatcher" />
 <h4>Röder J, Detsch F, Otte I, Appelhans T, Nauss T, Brandl R
@@ -175,7 +221,7 @@ Nauss T, Otte I, Böhning-Gaese K (submitted)<br />
 Synergistic effects of climate and land use on avian beta
 diversity.<br />
 Ecography.</h4>
-<p><em>Abstract: n/a</em></p>
+<p><em>Abstract: Gradients in climate and land use occur simultaneously in many of the Earth’s ecosystems and thus collectively impact most ecological communities. Albeit climate and land use have potentially interacting effects on ecological communities that may exacerbate or ameliorate their individual effects, little is known about the effect of the climate-land use interaction on community composition. A better understanding of the interaction between climate and land use is essential to predict the impacts of environmental change on ecological communities. We quantified the community composition of birds on 64 study plots of 13 different habitat types along an elevational gradient from 870 to 4550 m a.s.l. at Mt. Kilimanjaro in Tanzania. We partitioned the variation in pairwise beta diversity (ßcc) of birds and its two additive components, species richness differences (ßrich) and species replacement (ß-3), among the effects of temperature, land-use intensity and their interaction. Temperature and land use had synergistic effects on beta diversity (ßcc) of birds, i.e. the combination of high temperature and high land-use intensity led to higher beta diversity than expected from the sum of both individual effects. While temperature explained more of the variation in species richness differences(ßrich), land use explained more of the variation in species replacement (ß-3), indicating that different processes drove avian beta diversity along the temperature and land-use gradients. Our results challenge previous studies that investigated the effects of climate and land use in isolation, because disregarding their synergistic interaction underestimates the joint effect of climate and land use on biodiversity. A consideration of the synergy between climate and land use is essential for adequate predictions of the impact of global change on biodiversity.</em></p>
 <div id="clear">&nbsp;</div>
 <p>&nbsp;</p>
 <h2><a id="articles" name="articles"></a>Articles</h2>
