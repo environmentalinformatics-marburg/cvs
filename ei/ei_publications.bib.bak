@@ -466,6 +466,15 @@
   Urldate                  = {2016-03-23}
 }
 
+@Unpublished{Detsch2016d,
+  Title                    = {How the temperature-vegetation index performs in a multi-habitat landscape: a MODIS-based temperature gradient at Kilimanjaro.},
+  Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
+  Note                     = {Remote Sensing Letters},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2016.12.12}
+}
+
 @Article{Detsch2016a,
   Title                    = {{A Comparative Study of Cross-Product NDVI Dynamics in the Kilimanjaro Region -- A Matter of Sensor, Degradation Calibration, and Significance}},
   Author                   = {Detsch, Florian and Otte, Insa and Appelhans, Tim and Nauss, Thomas},
@@ -492,9 +501,9 @@
 }
 
 @Unpublished{Detsch2016b,
-  Title                    = {{A Scintillometer-based evapotranspiration-elevation gradient along the southern slopes of Kilimanjaro}},
+  Title                    = {{A glimpse at short-term controls of evapotranspiration along the southern slopes of Kilimanjaro.}},
   Author                   = {Detsch, Florian and Otte, Insa and Mwangomo, Ephraim and Appelhans, Tim and Nauss, Thomas},
-  Note                     = {{Agricultural and Forest Meteorology}},
+  Note                     = {{Environmental Monitoring and Assessment}},
 
   Month                    = feb,
   Year                     = {2016},
@@ -668,19 +677,6 @@
   ISSN                     = {2211-6753},
   Keywords                 = {Digital soil mapping},
   Url                      = {http://www.sciencedirect.com/science/article/pii/S2211675315000251}
-}
-
-@InBook{Goettlicher2010,
-  Title                    = {{P}roceedings of the {D}ata {M}anagement {W}orkshop, 29.-30.10.2009, {C}ologne},
-  Author                   = {Göttlicher, Dietrich AND Dobbermann, Maik AND Nauss, Thomas AND Bendix, Jörg},
-  Chapter                  = {Central data services in multidisciplinary environmental research projects - the data-management of the DFG Research Unit 816.},
-  Editor                   = {Curdt, Constanze AND Bareth, Georg},
-  Pages                    = {59-64},
-  Publisher                = {Geographisches Institut der Universität zu Köln},
-  Year                     = {2010},
-
-  Owner                    = {tnauss},
-  Timestamp                = {2016.05.20}
 }
 
 @InCollection{Goettlicher2010a,
@@ -1274,6 +1270,15 @@
 
   Owner                    = {iotte},
   Timestamp                = {2016.04.08}
+}
+
+@Unpublished{Peter2017,
+  Title                    = {Nature of Models in Geography and Geography Education.},
+  Author                   = {Peter, Carina and Nauss, Thomas},
+  Note                     = {Erdkunde},
+
+  Owner                    = {tnauss},
+  Timestamp                = {2016.12.12}
 }
 
 @InCollection{Peters2013,
